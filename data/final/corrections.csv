@@ -1,0 +1,20 @@
+saga,killer,victim,action,new_killer,new_victim,reason
+brennu-njals_saga,Skarphéðinn,Hróaldur,replace,Högni,Hróaldur,ch 79: Högni killed Hróaldur
+brennu-njals_saga,Skarphéðinn,Þorgeir Starkaðarson,replace,Högni,Þorgeir Starkaðarson,ch 79: Högni killed Þorgeir
+brennu-njals_saga,Högni,Tjörvi,replace,Skarphéðinn,Tjörvi,ch 79: Skarphéðinn killed Tjörvi
+brennu-njals_saga,Högni,Starkaður,replace,Skarphéðinn,Starkaður,ch 79: Skarphéðinn killed Starkaður
+brennu-njals_saga,Helgi,Ásláki,replace,Grímur,Áslákur,ch 89: Grímur killed Áslákur (killers swapped)
+brennu-njals_saga,Grímur,Egill,replace,Helgi,Egill,ch 89: Helgi killed Egill the standard-bearer (killers swapped)
+brennu-njals_saga,Skarphéðinn,Sigmundur hvíti,drop,,,duplicate of the ch 45 killing of Sigmundur (later mention in ch 92)
+faereyinga_saga,Sigurður Þorláksson,Karl mærski,drop,,,ch 47: Sigurður did not kill Karl (Gautur and Þórður lági did; not in candidate set)
+faereyinga_saga,Hafgrímur,Beinir,drop,,,ch 7: Hafgrímur died before Beinir fell
+gull-thoris_saga,Gunnar,Þórarinn,drop,,,duplicate of Gunnar -> Þórarinn ákafi (ch 14)
+gunnlaugs_saga_ormstungu,Bolli,Kjartan Ólafsson,drop,,,passing allusion to the Laxdæla killing; counted in laxdaela_saga
+kjalnesinga_saga,Búi,Örn austmaður,replace,Kolfinnur,Örn austmaður,ch 8: Kolfinnur killed Örn
+fostbraedra_saga,Þorgeir Hávarsson,Ingólfur,replace,Þorgeir Hávarsson,Þorbrandur,ch 5: victims swapped
+fostbraedra_saga,Þormóður Bersason,Þorbrandur,replace,Þormóður Bersason,Ingólfur,ch 5: victims swapped
+fostbraedra_saga,Romulus,Remus,drop,,,Roman legend digression; out of scope
+reykdaela_saga_og_viga-skutu,Helgi Þorbjarnarson,Þorvaldur,replace,Steinn Þorbjarnarson,Þorvaldur Galtason,ch 13: Steinn killed Þorvaldur
+thorsteins_saga_hvita,Héðinn,Þorgils,replace,Einar Þorfinnsson; Þorkell Þorfinnsson,Þorgils,no Héðinn in text; the brothers Einar and Þorkell killed Þorgils
+thorsteins_saga_sidu-hallssonar,Bróðir,Brján konungur,drop,,,Battle of Clontarf; out of scope (not an Icelandic feud killing)
+viga-glums_saga,Vigfús Glúmsson,Steinólfur,replace,Arngrímur Þorgrímsson,Steinólfur,ch 21: Arngrímur killed Steinólfur

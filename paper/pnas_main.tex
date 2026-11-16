@@ -1,0 +1,109 @@
+\documentclass[9pt,twocolumn,twoside]{pnas-new}
+% Use the lineno option to display guide line numbers if required.
+
+\usepackage[T1]{fontenc} % Icelandic letters (þ, ð)
+\usepackage{xcolor}
+\newcommand{\TODO}[1]{\textcolor{red}{[TODO: #1]}}
+% Fallbacks in case this version of pnas-new.cls lacks a research-article command
+\providecommand{\significancestatement}[1]{}
+\providecommand{\matmethods}[1]{\section*{Materials and Methods}#1}
+\providecommand{\showmatmethods}{}
+
+\templatetype{pnasresearcharticle} % research article: has Significance Statement + Materials and Methods
+
+\begin{document}
+
+\title{Do feuds follow family lines? Killing and kinship in the Sagas of Icelanders}
+
+\author[a]{Ylfa Margrét Ólafsdóttir}
+\author[a]{Tanja Kristín Árnadóttir}
+\author[a]{Andrea Hermóðsdóttir}
+
+\affil[a]{Technical University of Denmark, 02805 Social Graphs and Interactions, Kongens Lyngby, Denmark}
+
+\leadauthor{Ólafsdóttir}
+
+\significancestatement{\TODO{About 120 words, for a general reader, written once the results are in. Draft: The Sagas of Icelanders are often read as stories of family feuds, in which kin groups take revenge on one another. We test this reading quantitatively. We extracted every named killing from all 42 sagas and recorded how each killer and victim are related. Most saga killings are between people with no family tie. Where kin do kill each other, the tie is more often by fosterage or marriage than by blood. [Replace this with the main SQ1/SQ2 finding.] Our pipeline, which combines keyword screening, AI-assisted annotation and an independent second AI pass, shows one way to build networks from historical texts while reporting their reliability openly.}}
+
+\authorcontributions{\TODO{Confirm with the group. Draft based on the project plan: Y.M.Ó. built the family and killing networks and did the SQ1--SQ2 analysis; T.K.Á. handled data and validation; A.H. did the bridging and language analysis. All authors defined the annotation criteria and wrote the paper.}}
+\authordeclaration{The authors declare no competing interests.}
+\correspondingauthor{\textsuperscript{1}To whom correspondence should be addressed. E-mail: \TODO{e-mail}}
+
+\keywords{Icelandic sagas $|$ feud $|$ kinship networks $|$ null models $|$ community detection}
+
+\begin{abstract}
+\TODO{Single paragraph, at most 250 words, written last. Suggested structure: (1) the sagas are read as family feuds, but no one has tested it on the full corpus; (2) we build a killing network (206 killings, 293 characters) from all 42 sagas, together with each participant's family ties; (3) the SQ1 result against the null model; (4) the SQ2 result (family communities vs feuds; marriage vs blood ties); (5) what this means for how sagas depict violence.}
+\end{abstract}
+
+\dates{This manuscript was compiled on \today}
+\doi{\url{www.pnas.org/cgi/doi/10.1073/pnas.XXXXXXXXXX}}
+
+\maketitle
+\thispagestyle{firststyle}
+\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
+
+% ---------------- Introduction (PNAS: no heading) ----------------
+\dropcap{T}he Sagas of Icelanders (\textit{Íslendingasögur}) are 42 prose narratives, written in the 13th and 14th centuries, about Icelanders of the 9th to 11th centuries. Their best-known theme is the feud: killings answered by killings, often between families \cite{byock1982,miller1990}. This project investigates relationships of lethal violence in the sagas. We construct a directed network in which nodes are named human characters and an edge points from a killer to their victim. We combine this with the family relations of each participant, to ask whether killings follow family lines or cut across them.
+
+Network analysis of the sagas has so far treated them as social networks. Mac Carron and Kenna built character networks by hand for 18 sagas and found properties similar to those of real social networks \cite{maccarron2013}. They grouped family and other friendly ties into one category of link, and did not ask whether violence follows family structure. We keep killing and kinship as separate layers and build both from the Icelandic text for all 42 sagas. We ask: (SQ1) are killings within a family group more or less common than chance? (SQ2) Do family communities match the groups that fight each other, and does violence travel along marriage (weak) ties more than blood (strong) ties?
+
+% ---------------- Results ----------------
+\section*{Results}
+
+\subsection*{The killing network}
+Across the 42 sagas we identified 206 killings among 293 named characters. Most killings, 184 (89\%), are between people with no family tie. Of the rest, 9 are between in-laws, 7 between blood kin and 6 between foster kin. 17 killings fall within a family group. \TODO{Network figure: the killing network coloured by family group. Degree distribution; the largest feud components (e.g. Njáls saga).}
+
+\subsection*{SQ1: Killings and family lines}
+\TODO{Observed share of within-group killings (17/206 = 8.3\%) against the within-saga permutation null model: z-score, p-value, and a histogram of the null distribution. Repeat (a) without the 23 partly-supported killings, (b) without the 42 killings where a family is unknown, (c) with the two fóstbróðir cases recoded as sworn.}
+
+\subsection*{SQ2: Family communities and feuds}
+\TODO{Louvain on the family network: stability over 100 seeds, and NMI with label propagation. NMI between family communities and feud components. The share of killings along affinity vs blood ties, each relative to the null model.}
+
+% ---------------- Discussion ----------------
+\section*{Discussion}
+\TODO{What the results say about saga feuds. Fosterage and marriage as the ties where killing within the family happens, e.g. Bolli and Kjartan in Laxdæla, the sons of Njáll and their foster-brother Höskuldur. Limitations: keyword recall (killings told with \textit{hjó}, ``struck'', are missed); named participants only; AI annotation checked for consistency but not by humans; characters not merged across sagas.}
+
+% ---------------- Materials and Methods ----------------
+\matmethods{
+\subsection*{Corpus and candidates}
+We used all 42 sagas in modern-spelling Icelandic from the Icelandic Saga Database (sagadb.org), about 0.9 million words. Candidates were sentences containing one of 14 inflected forms of \textit{drepa}, \textit{vega} and \textit{víg} (\textit{drap, drápu, drepið, drepinn, drepin, drepnir; vó, vógu, veginn, vegið, vegnir; víg, vígið, víginu}). This gave 1{,}048 candidates, divided by saga among the three authors. Each candidate kept its saga, chapter and neighbouring sentences. Matches are only candidates: \textit{drap á dyr} means knocking on a door, \textit{drápu} can be a form of \textit{drápa} (a poem) and \textit{veginn} can mean ``the road''.
+
+\subsection*{Annotation}
+A positive label required an actual killing, a human killer and a human victim, both identifiable by name from the sentence or its context, and an attribution the text supports rather than suspects. We excluded threats, predictions, negated killings, dreams, non-human participants, suicide, anonymous participants and unconfirmed attributions. Reports of earlier killings, including in lawsuits, were eligible. The detailed annotation was done by an AI model (Claude, Anthropic): it proposed labels and participant names, we refined the inclusion rules after inspecting them, and the model revised its labels accordingly. Automated checks confirmed completeness and structural consistency. 407 candidates (39\%) were labelled positive. A shared set of 50 sentences received the same AI labels in all three files, so it was not used to measure agreement between annotators.
+
+\subsection*{Network construction}
+Each retained pair is a directed killer$\rightarrow$victim edge. Repeated mentions of the same killing within a saga are merged into one edge. Parallel lists are paired in order (``A and B killed C and D'' gives A$\rightarrow$C and B$\rightarrow$D). Only where the saga credits a killing to a whole party does each member get an edge. Characters are identified by name within a saga and not merged across sagas.
+
+\subsection*{Family situation}
+For every killer and victim the AI looked up parents, siblings, spouses, children, in-laws, foster and sworn kin in the saga text, mainly from the character's introduction (\textit{X hét maður, sonur Y}), and cited a chapter for every entry. Characters whose family the saga does not give were marked as not found rather than guessed.
+
+\subsection*{Corrections and second pass}
+Reading the full passages exposed labelling errors: wrong killers in multi-person fights, swapped victims, a killer absent from the text, duplicates and out-of-scope killings (e.g.\ Romulus and Remus). We applied 19 documented corrections (12 reattributions and 7 removals) and merged three pairs of names that refer to the same person. A blind second AI pass then recoded every killing from the text alone, with no access to the first pass. It contradicted none of the attributions. It marked 23 as only partly supported (group attacks, or killings that are only reported) and found one more duplicate, leaving 206 killings. The two passes agreed on whether killer and victim are kin in 93.9\% of killings (Cohen's $\kappa=0.74$; relation category 92.4\%, $\kappa=0.69$; same family group 91.4\%, $\kappa=0.30$, low because positive cases are rare). A third pass applying the written rules below settled the 27 remaining disagreements. Two AI passes can share biases, so these figures measure consistency, not accuracy. No human-verified accuracy score was established.
+
+\subsection*{Coding rules}
+\textit{Blood}: descent or siblinghood up to second cousins. \textit{Affinity}: one marriage link existing at the time of the killing. \textit{Foster}: a direct fosterage tie. \textit{Sworn}: explicit sworn brotherhood. Longer chains, later marriages and betrothals count as no tie. Killer and victim are in the \textit{same family group} if they shared a household (including master and slave), were blood kin up to first cousins, or were tied by direct fosterage.
+
+\subsection*{SQ1 null model}
+The test statistic is the share of killings within a family group. We permute victims among killings within each saga 1{,}000 times. This preserves each character's number of killings committed and suffered. Permutations that create self-killings are rejected. We report a $z$-score and an empirical two-sided $p$-value.
+
+\subsection*{SQ2 communities}
+We ran Louvain community detection \cite{blondel2008} on the family network with 100 seeds, and compared the result with label propagation \cite{raghavan2007} using normalised mutual information (NMI). Conflict groups are the connected components of the undirected killing network. We compare family communities with conflict groups by NMI, and compare killings along affinity ties with killings along blood ties, each relative to the null model.
+}
+
+\showmatmethods{}
+
+\dataavail{The saga texts are available from sagadb.org. Labelled sentences, the corrections file, the family tables, the final killing list and all scripts are available at \TODO{repository URL}.}
+
+\acknow{\TODO{e.g. We thank the course staff of 02805 for feedback.} Annotation and family lookup were done with Claude (Anthropic), as described in Materials and Methods.}
+
+\showacknow{}
+
+\begin{thebibliography}{9}
+\bibitem{byock1982} J.~L. Byock, \textit{Feud in the Icelandic Saga} (University of California Press, Berkeley, 1982).
+\bibitem{miller1990} W.~I. Miller, \textit{Bloodtaking and Peacemaking: Feud, Law, and Society in Saga Iceland} (University of Chicago Press, Chicago, 1990).
+\bibitem{maccarron2013} P.~Mac~Carron, R.~Kenna, Network analysis of the Íslendinga sögur -- the Sagas of Icelanders. \textit{Eur. Phys. J. B} \textbf{86}, 407 (2013).
+\bibitem{blondel2008} V.~D. Blondel, J.-L. Guillaume, R.~Lambiotte, E.~Lefebvre, Fast unfolding of communities in large networks. \textit{J. Stat. Mech.} P10008 (2008).
+\bibitem{raghavan2007} U.~N. Raghavan, R.~Albert, S.~Kumara, Near linear time algorithm to detect community structures in large-scale networks. \textit{Phys. Rev. E} \textbf{76}, 036106 (2007).
+\end{thebibliography}
+
+\end{document}

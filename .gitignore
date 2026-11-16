@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+# saga texts: download from sagadb.org (see README)
+data/raw/is/*.txt
+data/raw/*.zip
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.pdf

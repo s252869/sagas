@@ -1,0 +1,245 @@
+[
+  {
+    "kid": "KL004",
+    "relation": "foster",
+    "relation_detail": "Killer was foster-father (fóstri) of the victim's wife Hallgerður; no blood or marriage tie of his own",
+    "same_group": "yes",
+    "decided_for": "neither",
+    "rule_applied": "foster: foster-father of the victim's spouse; same_group (a): Þjóstólfur moved with Hallgerður into Þorvaldur's household and lived there over the winter",
+    "evidence": "\"Þjóstólfur hét fóstri hennar\" (9. kafli); \"Þorvaldur reið heim frá boðinu og kona hans með honum og Þjóstólfur ... og fór svo fram um veturinn\" (10. kafli)"
+  },
+  {
+    "kid": "KL005",
+    "relation": "foster",
+    "relation_detail": "Killer was foster-father of the victim's wife Hallgerður",
+    "same_group": "yes",
+    "decided_for": "neither",
+    "rule_applied": "foster: foster-father of the victim's spouse; same_group (a): Glúmur let Þjóstólfur stay in his household at Varmalækur",
+    "evidence": "\"vildi eg að þú leyfðir honum að vera hér\" ... \"Síðan var hann þar og sat á sér um hríð\" (16. kafli)"
+  },
+  {
+    "kid": "KL006",
+    "relation": "none",
+    "relation_detail": "Victim was foster-father of the killer's niece Hallgerður; fosterage of a niece is not a direct tie under the rules; Þjóstólfur's own family not given",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: foster-father of a niece is outside the foster rule; same_group no: Þjóstólfur had been driven from Höskuldur's household and lived at Glúmur's, never in Hrútur's",
+    "evidence": "\"Þjóstólfur hafði barið húskarl Höskulds og rak Höskuldur hann í braut\" (16. kafli); \"Þá hjó Hrútur annað högg hann til bana\" (17. kafli)"
+  },
+  {
+    "kid": "KL030",
+    "relation": "none",
+    "relation_detail": "No kin tie; victim's family not given (rule: none, not unknown)",
+    "same_group": "yes",
+    "decided_for": "neither",
+    "rule_applied": "none: family not given; same_group (a): Hrappur was a lodger in Guðbrandur's household, where Ásvarður was the overseer (verkstjóri)",
+    "evidence": "\"Guðbrandur mælti: Hér munt þú vera hljóta\"; \"setti Guðbrandur til Ásvarð verkstjóra sinn\"; \"Hrappur höggur í sundur í honum hrygginn\" (87. kafli)"
+  },
+  {
+    "kid": "KL036",
+    "relation": "none",
+    "relation_detail": "No tie under the rules. Killer's wife Steinvör Sigfúsdóttir was sister of Þráinn and Ketill Sigfússon; Ketill was married to the victim's half-sister Þorgerður Njálsdóttir (two marriage steps)",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: chain with two marriage steps (wife's brother's wife's half-brother)",
+    "evidence": "\"Hann átti þá konu er Steinvör hét. Hún var Sigfúsdóttir, systir Þráins\" (98. kafli); \"Ketill í Mörk átti Þorgerði dóttur Njáls\" (93. kafli)"
+  },
+  {
+    "kid": "KL040",
+    "relation": "none",
+    "relation_detail": "Collective killer (Gestur's and Þangbrandur's men); victim the berserk Ótryggur, no family given",
+    "same_group": "no",
+    "decided_for": "p1",
+    "rule_applied": "none: no tie, family not given; same_group no: the berserk came from outside to Gestur's farm, no shared household or kin with the killers",
+    "evidence": "\"þangað væri von berserks þess er Ótryggur hét\" ... \"Gengu þá margir að og drápu berserkinn\" (103. kafli)"
+  },
+  {
+    "kid": "KL042",
+    "relation": "foster",
+    "relation_detail": "Foster-brothers: Höskuldur was raised by Njáll at Bergþórshvoll together with Njáll's sons (Skarphéðinn); also a remote affinal chain (Höskuldur's paternal uncle Ketill married Skarphéðinn's sister Þorgerður), which is outside the affinity rule",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "foster: foster-brothers raised together; same_group (c): foster-brothers",
+    "evidence": "\"Höskuldur fór heim með Njáli til fósturs ... Synir Njáls leiddu hann eftir sér\" (94. kafli)"
+  },
+  {
+    "kid": "KL043",
+    "relation": "foster",
+    "relation_detail": "Foster-brothers: Höskuldur was raised by Njáll at Bergþórshvoll together with Njáll's sons (Grímur Njálsson); also a remote affinal chain (Höskuldur's paternal uncle Ketill married Grímur Njálsson's sister Þorgerður), which is outside the affinity rule",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "foster: foster-brothers raised together; same_group (c): foster-brothers",
+    "evidence": "\"Höskuldur fór heim með Njáli til fósturs ... Synir Njáls leiddu hann eftir sér\" (94. kafli)"
+  },
+  {
+    "kid": "KL044",
+    "relation": "foster",
+    "relation_detail": "Foster-brothers: Höskuldur was raised by Njáll at Bergþórshvoll together with Njáll's sons (Helgi Njálsson); also a remote affinal chain (Höskuldur's paternal uncle Ketill married Helgi Njálsson's sister Þorgerður), which is outside the affinity rule",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "foster: foster-brothers raised together; same_group (c): foster-brothers",
+    "evidence": "\"Höskuldur fór heim með Njáli til fósturs ... Synir Njáls leiddu hann eftir sér\" (94. kafli)"
+  },
+  {
+    "kid": "KL045",
+    "relation": "none",
+    "relation_detail": "No tie under the rules: Kári's wife Helga Njálsdóttir was the victim's foster-sister (spouse's foster-sibling is not a direct fosterage tie)",
+    "same_group": "no",
+    "decided_for": "neither",
+    "rule_applied": "none: wife's foster-brother is outside the foster and affinity rules; same_group no: Kári lived with Njáll, Höskuldur in his own household at Ossabær; no kin or direct fosterage",
+    "evidence": "\"Höskuldur fór heim með Njáli til fósturs\" (94. kafli); \"Hljópu þeir þá að honum allir og unnu á honum\" (111. kafli)"
+  },
+  {
+    "kid": "KL046",
+    "relation": "blood",
+    "relation_detail": "Second cousins: Mörður's mother Unnur was daughter of Mörður gígja Sighvatsson; Höskuldur's father Þráinn was son of Sigfús Sighvatsson",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "blood: second cousins are within the blood rule; same_group no: beyond first cousins, separate households",
+    "evidence": "\"Mörður ... var sonur Sighvats hins rauða ... átti dóttur eina er Unnur hét\" (1. kafli); \"Þráinn ... var Sigfússon Sighvatssonar hins rauða\" (34. kafli)"
+  },
+  {
+    "kid": "KL054",
+    "relation": "none",
+    "relation_detail": "Text says only 'fóstbróðir Ásgríms'; it states neither a sworn-brotherhood rite nor that they were raised together, so neither foster nor sworn is established",
+    "same_group": "unknown",
+    "decided_for": "neither",
+    "rule_applied": "none: neither the foster rule (raised together) nor the sworn rule (explicit rite) is established by the text; same_group unknown: residence and the nature of the fóstbræðralag not given",
+    "evidence": "\"Gaukur Trandilsson var fóstbróðir Ásgríms ... Ásgrímur varð banamaður Gauks\" (26. kafli)"
+  },
+  {
+    "kid": "KL061",
+    "relation": "blood",
+    "relation_detail": "First cousins: Þrándur's father Þorbjörn Götuskeggur and the victims' father Sigmundur were brothers",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "blood: first cousins; same_group (b): blood kin up to first cousins (separate households is irrelevant)",
+    "evidence": "\"Sigmundur faðir þeirra og Þorbjörn Götuskeggur, faðir Þrándar, voru bræður\" (4. kafli)"
+  },
+  {
+    "kid": "KL062",
+    "relation": "blood",
+    "relation_detail": "First cousins: Þrándur's father Þorbjörn Götuskeggur and the victims' father Sigmundur were brothers",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "blood: first cousins; same_group (b): blood kin up to first cousins (separate households is irrelevant)",
+    "evidence": "\"Sigmundur faðir þeirra og Þorbjörn Götuskeggur, faðir Þrándar, voru bræður\" (4. kafli)"
+  },
+  {
+    "kid": "KL063",
+    "relation": "none",
+    "relation_detail": "Bjarni was maternal uncle of the victims' first cousin Þrándur, i.e. brother of the wife of the victims' paternal uncle Þorbjörn (who was already dead): two blood steps plus one marriage step, outside affinity",
+    "same_group": "no",
+    "decided_for": "p1",
+    "rule_applied": "none: uncle's wife's brother exceeds the affinity rule (and the marriage had ended with Þorbjörn's death)",
+    "evidence": "\"Hann var móðurbróðir Þrándar úr Götu\" (5. kafli); \"veita þeir Hafgrímur og Svíneyjar-Bjarni þegar aðsókn að þeim bræðrum\" (7. kafli)"
+  },
+  {
+    "kid": "KL064",
+    "relation": "none",
+    "relation_detail": "Bjarni was maternal uncle of the victims' first cousin Þrándur, i.e. brother of the wife of the victims' paternal uncle Þorbjörn (who was already dead): two blood steps plus one marriage step, outside affinity",
+    "same_group": "no",
+    "decided_for": "p1",
+    "rule_applied": "none: uncle's wife's brother exceeds the affinity rule (and the marriage had ended with Þorbjörn's death)",
+    "evidence": "\"Hann var móðurbróðir Þrándar úr Götu\" (5. kafli); \"veita þeir Hafgrímur og Svíneyjar-Bjarni þegar aðsókn að þeim bræðrum\" (7. kafli)"
+  },
+  {
+    "kid": "KL079",
+    "relation": "none",
+    "relation_detail": "Victim was the killer's hired shepherd; no kin tie",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "none; same_group (a): master–servant in the same household (Einar took service and moved to Aðalból)",
+    "evidence": "\"Einar fer nú heim eftir klæðum sínum og flytur heim á Aðalból\" (3. kafli); \"hjó hann banahögg\" (6. kafli)"
+  },
+  {
+    "kid": "KL096",
+    "relation": "none",
+    "relation_detail": "Victim's first cousin Þorvaldur Þorgilsson was marrying the killer's paternal aunt Sigríður Klakka-Ormsdóttir: long chain, outside the rules",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: chain far beyond one marriage step plus one blood step; same_group no: Glæðir was a wedding guest, not of the household",
+    "evidence": "\"Glæðir hét bróðurson Þorgils\"; \"gekk Þorkell eftir honum og hjó til hans í höfuðið og hafði Glæðir þegar bana\" (44. kafli)"
+  },
+  {
+    "kid": "KL102",
+    "relation": "blood",
+    "relation_detail": "Maternal uncle: Bjarni's mother Halla was Geitir's sister; also foster-father (Bjarni was fostered by Geitir in Krossavík)",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "blood > foster (priority); same_group (b) uncle is closer than first cousin, and (c) foster-father/foster-son",
+    "evidence": "\"Brodd-Helgi fékk Höllu Lýtingsdóttur ... Bjarni var að fóstri í Krossavík með Geiti\" (3. kafli); \"Bjarni hjó þá í höfuð Geiti\" (14. kafli)"
+  },
+  {
+    "kid": "KL109",
+    "relation": "none",
+    "relation_detail": "Victim was the slave of the killer's stepfather Hallsteinn; no kin tie",
+    "same_group": "yes",
+    "decided_for": "p2",
+    "rule_applied": "none; same_group (a): Helgi was wintering in Hallsteinn's household, where Þorgils was a slave",
+    "evidence": "\"bauð hann Helga þar að vera\"; \"Hallsteinn átti þræl er Þorgils hét\"; \"Helgi drap þegar þrælinn\" (7. kafli)"
+  },
+  {
+    "kid": "KL110",
+    "relation": "none",
+    "relation_detail": "Only a remote chain: Helgi Ásbjarnarson's wife Droplaug Spak-Bessadóttir was a first cousin of Grímur's father Þorvaldur (Bessi Hávarsson was brother of Yngveldur): spouse plus three blood steps",
+    "same_group": "no",
+    "decided_for": "p1",
+    "rule_applied": "none: exceeds one marriage step plus one blood step",
+    "evidence": "\"Hann átti Droplaugu Spak-Bessadóttur\" (3. kafli); \"Bessi hét son hans en Yngveldur dóttir\" (2. kafli)"
+  },
+  {
+    "kid": "KL132",
+    "relation": "none",
+    "relation_detail": "No kin tie; victim's family not given (rule: none, not unknown)",
+    "same_group": "yes",
+    "decided_for": "neither",
+    "rule_applied": "none: family not given; same_group (a): Grímur was taken into Grettir's household (vist) and lived with him through the winter",
+    "evidence": "\"skoraði á hann fast um vistina ... tók við honum. Hann var þar nú fram á veturinn\"; \"Hafði hann af honum þá sannar sögur og drap hann síðan\" (55. kafli)"
+  },
+  {
+    "kid": "KL152",
+    "relation": "none",
+    "relation_detail": "Victim was brother of Þórdís, wife of Halldór's foster-father Bersi; Halldór is Ólafur Höskuldsson's son. Foster-father's wife's brother is not a direct tie",
+    "same_group": "no",
+    "decided_for": "p1",
+    "rule_applied": "none: outside foster and affinity rules; same_group no: Vali lived on his own farm, not in Bersi's household",
+    "evidence": "\"flytur hann Halldór heim með sér\"; \"Þórdís leyfði Vala bróður sínum nytjar í Brekkulandi\"; \"Halldór komst á bak Vala og beitir á hásinar honum\" (16. kafli)"
+  },
+  {
+    "kid": "KL158",
+    "relation": "none",
+    "relation_detail": "Sigríður was only betrothed (festarkona) to the victim's brother Ásbjörn at the time; victim also cousin of Eiður, Þórður's foster-son (indirect)",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: betrothal is not a marriage existing at the time of the killing",
+    "evidence": "\"Hví mundi eg biðja festarkonu Ásbjarnar bróður þíns?\" (5. kafli); \"Þá hjó Þórður höfuð af Ormi\" (5. kafli)"
+  },
+  {
+    "kid": "KL159",
+    "relation": "none",
+    "relation_detail": "Victim was first cousin of Ormur and Ásbjörn (betrothed of Þórður's sister) and of Eiður, Þórður's foster-son; no direct tie",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: no marriage at the time, chain too long",
+    "evidence": "\"Jórunn hét móðir hans og var systir Miðfjarðar-Skeggja\" (6. kafli); \"Í því hjó Þórður til Össurar\" (9. kafli)"
+  },
+  {
+    "kid": "KL180",
+    "relation": "none",
+    "relation_detail": "No kin tie; Loðinn was a slave (verkþræll) at Brattahlíð, family not given (rule: none)",
+    "same_group": "yes",
+    "decided_for": "neither",
+    "rule_applied": "none: family not given; same_group (a): Þormóður was a lodger (heimamaður) in Þorkell's household at Brattahlíð where Loðinn was a slave",
+    "evidence": "\"Loðinn hét verkþræll í Brattahlíð\" (23. kafli); \"drepa Þormóð, heimamann þinn\"; \"höggur í höfuð Loðini\" (25. kafli)"
+  },
+  {
+    "kid": "KL200",
+    "relation": "none",
+    "relation_detail": "Former trading partners; ch. 4 calls them 'fóstbræður' in passing but gives no sworn rite and no shared upbringing",
+    "same_group": "no",
+    "decided_for": "p2",
+    "rule_applied": "none: 'fóstbræður' without an explicit rite does not meet the sworn rule",
+    "evidence": "\"einn vetur að þeir voru utan hér fóstbræður\" (4. kafli); \"lagði Þorsteinn að Einari með spjótinu\" (6. kafli)"
+  }
+]

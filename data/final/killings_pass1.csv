@@ -1,0 +1,208 @@
+kid,saga,killer,victim,annotator,n_sentences,first_sentence_id,chapter_hint,relation_p1,same_group_p1,correction,correction_reason,notes_p1
+KL001,bandamanna_saga,Óspakur,Vali,person1,3,bandamanna_saga:331,ch 1,none,no,,,"Vali was a kinsman of Óspakur's former master and patron, Oddur Ófeigsson."
+KL002,bandamanna_saga,Óspakur,Már,person1,3,bandamanna_saga:757,ch 4,none,no,,,"No kinship. Már had married Svala, Óspakur's former wife."
+KL003,bandamanna_saga,Bjálfi,Óspakur,person1,1,bandamanna_saga:763,ch 12,none,no,,,Revenge on the spot for his brother Már. Óspakur died later of the wound.
+KL004,brennu-njals_saga,Þjóstólfur,Þorvaldur,person1,5,brennu-njals_saga:507,ch 9,foster:killer was foster-father of the victim's wife (Hallgerður),no,,,No blood or marriage tie. The link runs through Hallgerður.
+KL005,brennu-njals_saga,Þjóstólfur,Glúmur,person1,5,brennu-njals_saga:724,ch 9,foster:killer was foster-father of the victim's wife (Hallgerður),no,,,
+KL006,brennu-njals_saga,Hrútur,Þjóstólfur,person1,3,brennu-njals_saga:752,ch 1,foster:victim was foster-father of the killer's niece (Hallgerður),yes,,,"Þjóstólfur is labelled a follower of Höskuldur's household (he was Hallgerður's fóstri), so this counts as within-group."
+KL007,brennu-njals_saga,Kolur,Svartur,person1,6,brennu-njals_saga:1418,ch 36,none,no,,,"The killer is Kolur, Hallgerður's foreman (Hlíðarendi); Svartur was Njáll's farmhand."
+KL008,brennu-njals_saga,Atli,Kolur,person1,7,brennu-njals_saga:1504,ch 37,none,no,,,"The victim is Kolur, Hallgerður's foreman."
+KL009,brennu-njals_saga,Brynjólfur,Atli,person1,4,brennu-njals_saga:1588,ch 38,none,no,,,
+KL010,brennu-njals_saga,Þórður leysingjason,Brynjólfur,person1,4,brennu-njals_saga:1642,ch 39,none,no,,,
+KL011,brennu-njals_saga,Sigmundur,Þórður leysingjason,person1,9,brennu-njals_saga:1734,ch 41,none,no,,,Þórður was foster-father of the Njálssons; Sigmundur Lambason was Gunnar's kinsman.
+KL012,brennu-njals_saga,Skjöldur,Þórður leysingjason,person1,8,brennu-njals_saga:1734,ch 42,none,no,,,Skjöldur cut off his hand and Sigmundur ran him through.
+KL013,brennu-njals_saga,Skarphéðinn,Sigmundur,person1,3,brennu-njals_saga:1884,ch 45,none,no,,,
+KL014,brennu-njals_saga,Gunnar,Otkell,person1,3,brennu-njals_saga:2344,ch 47,none,no,,,
+KL015,brennu-njals_saga,Gunnar,Hallbjörn hvíti,person1,1,brennu-njals_saga:2345,ch 54,none,no,,,Gunnar cut off Hallbjörn's hand in ch 54. The saga counts eight dead and Gunnar is charged with Hallbjörn's killing in ch 56.
+KL016,brennu-njals_saga,Gunnar,Auðólfur,person1,2,brennu-njals_saga:2345,ch 54,none,no,,,
+KL017,brennu-njals_saga,Gunnar,Skammkell,person1,1,brennu-njals_saga:2345,ch 54,none,no,,,
+KL018,brennu-njals_saga,Kolskeggur,Hallkell,person1,1,brennu-njals_saga:2346,ch 54,none,no,,,
+KL019,brennu-njals_saga,Gunnar,Sigurður svínhöfði,person1,1,brennu-njals_saga:2592,ch 63,none,no,,,
+KL020,brennu-njals_saga,Gunnar,Egill,person1,2,brennu-njals_saga:2624,ch 58,none,no,,,"The victim is Egill Kolsson í Sandgili (see the homonym note on ""Egill"")."
+KL021,brennu-njals_saga,Þórir austmaður,Hjörtur,person1,4,brennu-njals_saga:2682,ch 63,none,no,,,Hjörtur was Gunnar's brother.
+KL022,brennu-njals_saga,Kolskeggur,Kolur,person1,1,brennu-njals_saga:2723,ch 58,none,no,,,The victim is Kolur Egilsson (a homonym of the foreman Kolur). Kolskeggur is Gunnar's brother; Kolur's mother Steinvör was Starkaður's sister.
+KL023,brennu-njals_saga,Gunnar,Þórir austmaður,person1,1,brennu-njals_saga:2723,ch 63,none,no,,,
+KL024,brennu-njals_saga,Gunnar,Þorgeir Otkelsson,person1,1,brennu-njals_saga:2911,ch 72,none,no,,,
+KL025,brennu-njals_saga,Högni,Hróaldur,person1,2,brennu-njals_saga:3153,ch 79,,,corrected,ch 79: Högni killed Hróaldur,"LABELLING ERROR: Högni killed Hróaldur, not Skarphéðinn (ch 79: ""Högni hjó ... rekur atgeirinn í gegnum hann"")."
+KL026,brennu-njals_saga,Skarphéðinn,Tjörvi,person1,2,brennu-njals_saga:3153,ch 79,none,no,,,"Correct: ""Síðan höggur Skarphéðinn Tjörva banahögg""."
+KL027,brennu-njals_saga,Skarphéðinn,Starkaður,person1,2,brennu-njals_saga:3153,ch 79,none,no,,,Correct. The victim is Starkaður Barkarson undir Þríhyrningi himself.
+KL028,brennu-njals_saga,Högni,Þorgeir Starkaðarson,person1,2,brennu-njals_saga:3153,ch 79,,,corrected,ch 79: Högni killed Þorgeir,"LABELLING ERROR: Högni killed Þorgeir (""kemur Högni í mót Þorgeiri og vegur hann"")."
+KL029,brennu-njals_saga,Hrappur,Örlygur Ölvisson,person1,3,brennu-njals_saga:3389,ch 87,none,no,,,Known only from Hrappur's own account.
+KL030,brennu-njals_saga,Hrappur,Ásvarður,person1,2,brennu-njals_saga:3448,ch 87,none,no,,,
+KL031,brennu-njals_saga,Þráinn,Kolur,person1,1,brennu-njals_saga:3569,ch 82,none,no,,,"The victim is Kolur, son of Ásmundur eskisíða, a viking (homonym). The killing is in ch 82; the input sentence id points to a ch 88 recollection. Þráinn cut off his leg and then his men killed him."
+KL032,brennu-njals_saga,Mörður órækja,Oddur Halldórsson,person1,1,brennu-njals_saga:3634,ch 88,none,no,,,Mentioned only in passing. No kinship stated.
+KL033,brennu-njals_saga,Helgi Njálsson,Egill,person1,2,brennu-njals_saga:3655,ch 89,none,no,,,"Correct: ""vó Helgi Egil merkismann jarls"". The victim is Hákon jarl's standard-bearer, not Egill í Sandgili or Egill Þórðarson."
+KL034,brennu-njals_saga,Grímur Njálsson,Áslákur,person1,1,brennu-njals_saga:3660,ch 89,,,corrected,ch 89: Grímur killed Áslákur (killers swapped),"LABELLING ERROR: Grímur Njálsson killed Áslákur (""Grímur ... skaut undir kverk Ásláki"")."
+KL035,brennu-njals_saga,Skarphéðinn,Þráinn,person1,6,brennu-njals_saga:3900,ch 34,affinity:sister's husband's brother (Þráinn's brother Ketill í Mörk was married to Þorgerður Njálsdóttir),no,,,
+KL036,brennu-njals_saga,Lýtingur,Höskuldur Njálsson,person1,2,brennu-njals_saga:4144,ch 34,"affinity:distant (Lýtingur's wife Steinvör was sister of Ketill Sigfússon, who was married to the victim's half-sister Þorgerður)",no,,,Lýtingur's brothers Hallsteinn and Hallgrímur took part.
+KL037,brennu-njals_saga,Þangbrandur,Þorkell,person1,1,brennu-njals_saga:4208,ch 101,none,no,,,A duel (hólmganga).
+KL038,brennu-njals_saga,Þangbrandur,Veturliði,person1,1,brennu-njals_saga:4231,ch 102,none,no,,,Veturliði was the father-in-law of Högni Gunnarsson (ch 80).
+KL039,brennu-njals_saga,Guðleifur,Veturliði,person1,1,brennu-njals_saga:4231,ch 102,none,no,,,
+KL040,brennu-njals_saga,many men,berserkur,person1,1,brennu-njals_saga:4302,ch 103,none,no,,,"The killer is collective (""margir""). Þangbrandur speared him and Guðleifur cut off his arm first."
+KL041,brennu-njals_saga,Ámundi blindi,Lýtingur,person1,1,brennu-njals_saga:4383,ch 106,none,no,,,Revenge for his father Höskuldur Njálsson.
+KL042,brennu-njals_saga,Skarphéðinn,Höskuldur Hvítanesgoði,person1,15,brennu-njals_saga:4515,ch 94,foster:foster-brother (Höskuldur was Njáll's foster-son),no,,,Also an affinity link: Höskuldur's uncle Ketill was married to Skarphéðinn's sister.
+KL043,brennu-njals_saga,Grímur Njálsson,Höskuldur Hvítanesgoði,person1,15,brennu-njals_saga:4515,ch 94,foster:foster-brother (Höskuldur was Njáll's foster-son),no,,,Grímur Njálsson.
+KL044,brennu-njals_saga,Helgi Njálsson,Höskuldur Hvítanesgoði,person1,15,brennu-njals_saga:4515,ch 94,foster:foster-brother (Höskuldur was Njáll's foster-son),no,,,Helgi Njálsson.
+KL045,brennu-njals_saga,Kári,Höskuldur Hvítanesgoði,person1,15,brennu-njals_saga:4515,ch 90,foster:wife's foster-brother (Höskuldur was foster-son of Kári's father-in-law Njáll),no,,,
+KL046,brennu-njals_saga,Mörður Valgarðsson,Höskuldur Hvítanesgoði,person1,15,brennu-njals_saga:4515,ch 111,none,no,,,Mörður Valgarðsson. He gave Höskuldur a wound that was not named when the wounds were witnessed (ch 121).
+KL047,brennu-njals_saga,Kolbeinn,Arnór Örnólfsson,person1,1,brennu-njals_saga:4653,ch 116,none,no,,,"Kolbeinn Þórðarson, Flosi's brother. Known only from Hildigunnur's speech."
+KL048,brennu-njals_saga,Egill,Arnór Örnólfsson,person1,1,brennu-njals_saga:4653,ch 116,none,no,,,"Egill Þórðarson, Flosi's brother (homonym of Egill í Sandgili and Egill merkismaður)."
+KL049,brennu-njals_saga,Skafti Þóroddsson,Ketill úr Eldu,person1,1,brennu-njals_saga:4778,ch 119,none,no,,,Known only from Skarphéðinn's insult.
+KL050,brennu-njals_saga,Þorgrímur Digur-Ketilsson,Halli rauði,person1,1,brennu-njals_saga:4941,ch 122,none,no,,,Mentioned in retrospect by Hallur of Síða.
+KL051,brennu-njals_saga,Skarphéðinn,Hróaldur Össurarson,person1,1,brennu-njals_saga:5202,ch 128,none,no,,,
+KL052,brennu-njals_saga,Flosi,Njáll,person1,1,brennu-njals_saga:5421,ch 129,none,no,,,"A burning, not a blow: Njáll died in the fire Flosi led."
+KL053,brennu-njals_saga,Flosi,Helgi Njálsson,person1,4,brennu-njals_saga:5509,ch 130,none,no,,,
+KL054,brennu-njals_saga,Ásgrímur,Gaukur,person1,1,brennu-njals_saga:5909,ch 26,foster:foster-brother (fóstbróðir; could also mean sworn brother),no,,,Mentioned only in retrospect. Gaukur Trandilsson.
+KL055,brennu-njals_saga,Þórhallur Ásgrímsson,Grímur rauði,person1,1,brennu-njals_saga:6301,ch 145,none,no,,,"Grímur rauði was Flosi's kinsman. The killer was Njáll's foster-son, avenging the burning."
+KL056,brennu-njals_saga,Kári,Gunnar Lambason,person1,1,brennu-njals_saga:6955,ch 155,none,no,,,At Earl Sigurður's court in Orkney.
+KL057,brennu-njals_saga,Kári,Kolur Þorsteinsson,person1,2,brennu-njals_saga:7166,ch 158,none,no,,,In Wales.
+KL058,faereyinga_saga,Brestir,Hafgrímur,person1,1,faereyinga_saga:171,ch 4,none,no,,,Mutual killing on Litla Dímun.
+KL059,faereyinga_saga,Hafgrímur,Brestir,person1,5,faereyinga_saga:334,ch 4,none,no,,,
+KL060,faereyinga_saga,Sigmundur,Vandill,person1,1,faereyinga_saga:458,ch 19,none,no,,,
+KL061,faereyinga_saga,Þrándur,Brestir,person1,2,faereyinga_saga:635,ch 4,blood:first cousin (paternal),no,,,Different households but same paternal lineage. Þrándur instigated but did not take part in the attack (ch 7).
+KL062,faereyinga_saga,Þrándur,Beinir,person1,2,faereyinga_saga:635,ch 4,blood:first cousin (paternal),no,,,"As above; instigator, not active combatant."
+KL063,faereyinga_saga,Svínoyar-Bjarni,Brestir,person1,1,faereyinga_saga:636,ch 5,none,no,,,Bjarni is maternal uncle of Brestir's cousin Þrándur; no stated kinship with Brestir.
+KL064,faereyinga_saga,Svínoyar-Bjarni,Beinir,person1,1,faereyinga_saga:636,ch 5,none,no,,,
+KL065,faereyinga_saga,Sigmundur,Össur,person1,2,faereyinga_saga:638,ch 24,none,no,,,"Revenge for Sigmundur's father Brestir, killed by Össur's father Hafgrímur."
+KL066,faereyinga_saga,Þórður lági,Karl mærski,person1,2,faereyinga_saga:1229,ch 47,none,no,,,
+KL067,faereyinga_saga,Gautur rauði,Karl mærski,person1,2,faereyinga_saga:1229,ch 47,none,no,,,Gautur dealt the first (light) wound; Þórður the fatal blow.
+KL068,floamanna_saga,Þorgils,Snækollur,person1,1,floamanna_saga:524,ch 17,none,no,,,
+KL069,floamanna_saga,Þorgils,Snæbjörn,person1,1,floamanna_saga:524,ch 17,none,no,,,
+KL070,floamanna_saga,Kolur,Sörli,person1,2,floamanna_saga:607,ch 19,none,no,,,"Killed for courting Kolur's sister Guðrún. Killer is the free Kolur, not the thrall."
+KL071,floamanna_saga,Þorgils,Kolur (thrall),person1,1,floamanna_saga:1289,ch 32,none,yes,,,Master killed his own slave after discovering Ásgrímur's bribe; same household by the slave-label rule.
+KL072,floamanna_saga,Þorgils,Helgi,person1,1,floamanna_saga:1328,ch 33,none,no,,,Duel; Þorgils aged 70.
+KL073,gisla_saga_surssonar,Björn,Ari,person1,1,gisla_saga_surssonar:14,ch 1,none,no,,,Duel (hólmganga) in Norway.
+KL074,gisla_saga_surssonar,Gísli,Þorgrímur,person1,4,gisla_saga_surssonar:512,ch 5,affinity:brother-in-law (victim was husband of killer's sister Þórdís),no,,,"Also partial sworn-brothers (rite of ch 6 broke down). Revenge for Vésteinn, Gísli's wife's brother."
+KL075,gisla_saga_surssonar,Bergur,Þorkell,person1,4,gisla_saga_surssonar:798,ch 4,affinity:victim was brother of the husband (Gísli) of killer's paternal aunt Auður,no,,,"Revenge for Bergur's father Vésteinn, whose killing Þorkell was party to."
+KL076,graenlendinga_saga,Eiríkur rauði,Eyjólfur saurr,person1,1,graenlendinga_saga:12,"ch 1, ch 2",none,no,,,"Revenge for his thralls, killed by Eyjólfur."
+KL077,graenlendinga_saga,Eiríkur rauði,Hólmgöngu-Hrafn,person1,1,graenlendinga_saga:12,"ch 1, ch 2",none,no,,,
+KL078,gunnars_saga_keldugnupsfifls,Gunnar,Örn,person1,1,gunnars_saga_keldugnupsfifls:596,"ch 9, ch 16",none,no,,,Örn was an associate of Gunnar's enemies the Þorgrímssynir; Gunnar paid three wergilds to his sister Þórdís (ch 17).
+KL079,hrafnkels_saga_freysgoda,Hrafnkell,Einar,person1,7,hrafnkels_saga_freysgoda:128,ch 3,none,no,,,"Master killed his own shepherd for riding Freyfaxi; employment, not kinship."
+KL080,hrana_saga_hrings,Hrani,Sigfús,person1,4,hrana_saga_hrings:35,ch 3,none,no,,,Revenge for Vakr.
+KL081,hrana_saga_hrings,Sigfús,Vakr,person1,1,hrana_saga_hrings:50,ch 3,none,no,,,Quarrel over a sheep.
+KL082,hrana_saga_hrings,Hróaldur,Gauti,person1,1,hrana_saga_hrings:82,ch 5,none,no,,,Hróaldur's brother Sigfús had been Gauti's household man; Gauti refused to help him take revenge on Hrani.
+KL083,kroka-refs_saga,Þorbjörn,Barði,person1,4,kroka-refs_saga:80,ch 3,none,no,,,
+KL084,kroka-refs_saga,Refur,Þorbjörn,person1,3,kroka-refs_saga:123,ch 3,none,no,,,Revenge for his mother's shepherd Barði.
+KL085,kroka-refs_saga,Refur,Þengill,person1,2,kroka-refs_saga:368,ch 8,none,no,,,Five of the Vík family killed in one evening for slander.
+KL086,kroka-refs_saga,Refur,Þorgils,person1,1,kroka-refs_saga:384,ch 8,none,no,,,
+KL087,kroka-refs_saga,Refur,Þorsteinn,person1,1,kroka-refs_saga:385,ch 8,none,no,,,
+KL088,kroka-refs_saga,Refur,Grani,person1,2,kroka-refs_saga:773,ch 17,none,no,,,Grani tried to assault Refur's wife Helga.
+KL089,kroka-refs_saga,Refur,Bárður,person1,2,kroka-refs_saga:792,ch 15,none,no,,,
+KL090,valla-ljots_saga,Ljótur,Halli,person1,1,valla-ljots_saga:231,ch 4,none,no,,,
+KL091,valla-ljots_saga,Björn,Bessi,person1,1,valla-ljots_saga:358,ch 7,none,no,,,Eyjólfur Þorsteinsson tripped Bessi and Björn dealt the death blow. Revenge chain: Hrólfur gípa (Bessi's uncle) had killed Björn's brother Þorvarður (ch 5).
+KL092,vatnsdaela_saga,Þorsteinn,Jökull,person1,2,vatnsdaela_saga:119,ch 3,none,no,,,No relation at the time. Þorsteinn later married the victim's sister Þórdís as compensation (became brother-in-law after the killing).
+KL093,vatnsdaela_saga,Oddur,Ljótur,person1,1,vatnsdaela_saga:667,ch 18,none,no,,,Ljótur was Hrolleifur's escort.
+KL094,vatnsdaela_saga,Hrolleifur,Oddur,person1,2,vatnsdaela_saga:670,ch 18,none,no,,,Hrolleifur kept the victim's sister Hróðný as concubine against her family's will (not formal affinity).
+KL095,vatnsdaela_saga,Hrómundur,Högni,person1,2,vatnsdaela_saga:1060,ch 29,"affinity:distant (killer was son-in-law of Már Jörundarson, the victim's kinsman)",no,,,Battle between Ingimundarsynir and Már's party.
+KL096,vatnsdaela_saga,Þorkell krafla,Glæðir,person1,3,vatnsdaela_saga:1669,ch 44,affinity:distant (victim's first cousin Þorvaldur Þorgilsson was marrying killer's paternal aunt Sigríður),no,,,Killed during the wedding feast at Klakka-Ormur's after Glæðir's insults.
+KL097,vatnsdaela_saga,Hermundur,Galti Óttarsson,person1,2,vatnsdaela_saga:1725,ch 45,none,no,,,"Over Hallfreður's (victim's brother's) affair with Kolfinna, the killer's sister."
+KL098,vopnfirdinga_saga,Þorkell,Þorgils,person1,1,vopnfirdinga_saga:11,"ch 1, ch 7",none,no,,,Killer is not Þorkell Geitisson (see person note).
+KL099,vopnfirdinga_saga,Héðinn,Þorgils,person1,1,vopnfirdinga_saga:11,ch 1,none,no,,,
+KL100,vopnfirdinga_saga,Svartur,Skíði,person1,2,vopnfirdinga_saga:23,ch 2,none,no,,,Dispute over grazing.
+KL101,vopnfirdinga_saga,Bjarni,Tjörvi,person1,2,vopnfirdinga_saga:389,ch 13,none,no,,,Revenge for his father Brodd-Helgi; Tjörvi was in Geitir's party.
+KL102,vopnfirdinga_saga,Bjarni,Geitir,person1,2,vopnfirdinga_saga:449,ch 3,blood:maternal uncle (victim was killer's mother's brother); also foster:foster-father,no,,,"Kin-killing. Revenge for Brodd-Helgi, whom Geitir had killed (ch 13). Bjarni regretted it at once, and Geitir died in his lap."
+KL103,bardar_saga_snaefellsass,Þorbjörn öxnamegin,Atli Ásmundarson,person2,1,bardar_saga_snaefellsass:468,ch 11,none,no,,,Mentioned only in passing (ch 11). sentence_id 468 points at an unrelated wedding passage in ch 10; the actual mention is ch 11.
+KL104,bardar_saga_snaefellsass,Grettir,Þorbjörn öxnamegin,person2,1,bardar_saga_snaefellsass:468,ch 11,none,no,,,"Revenge for his brother Atli. Same sentence_id as the previous killing (468), which is wrong; the mention is ch 11."
+KL105,bjarnar_saga_hitdaelakappa,Björn,Steinn Guðbrandsson,person2,1,bjarnar_saga_hitdaelakappa:772,ch 25,none,no,,,"Self-defence against Þórður Kolbeinsson's ambush. sentence_id 772 is in ch 19 (Björn throttling the hired assassin Þorsteinn), so it points at a different killing."
+KL106,droplaugarsona_saga,Helgi Droplaugarson,Þorgrímur,person2,1,droplaugarsona_saga:193,ch 3,none,no,,,Revenge for slandering Droplaug. sentence_id 193 is the ch 4 settlement sentence; the killing itself is in ch 3.
+KL107,droplaugarsona_saga,Helgi Droplaugarson,Björn,person2,2,droplaugarsona_saga:278,ch 6,none,no,,,Björn was foster-father of Helgi Ásbjarnarson.
+KL108,droplaugarsona_saga,Þorgils,Hallsteinn,person2,2,droplaugarsona_saga:306,ch 7,none,yes,,,Slave killing his master. Helgi and Droplaug (Hallsteinn's stepson and wife) were suspected of plotting it.
+KL109,droplaugarsona_saga,Helgi Droplaugarson,Þorgils,person2,1,droplaugarsona_saga:307,ch 7,none,no,,,Helgi killed the slave straight after Hallsteinn's death. Nearby sentence_ids 306 and 307 label this pair the other way round in places.
+KL110,droplaugarsona_saga,Grímur Droplaugarson,Helgi Ásbjarnarson,person2,1,droplaugarsona_saga:617,ch 13,none,no,,,Revenge for his brother Helgi Droplaugarson (killed ch 10).
+KL111,egils_saga,Skalla-Grímur,Sigtryggur,person2,1,egils_saga:633,ch 18,none,no,,,Sigtryggur was a distant kinsman of King Haraldur. The killing avenged Þórólfur Kveld-Úlfsson.
+KL112,egils_saga,Egill,Bárður,person2,2,egils_saga:1005,ch 44,none,no,,,
+KL113,egils_saga,Eyvindur,Þorvaldur,person2,1,egils_saga:1146,ch 49,none,no,,,"Eyvindur skreyja killed Þorvaldur ofsi in a temple (vé). The sentence_id falls on ch 46-47, a little off."
+KL114,egils_saga,Egill,Aðils jarl,person2,1,egils_saga:1266,ch 54,none,no,,,Battle of Vínheiði. sentence_id 1266 is the ch 51 introduction.
+KL115,egils_saga,Egill,Rögnvaldur,person2,2,egils_saga:1489,ch 58,none,no,,,Rögnvaldur was a son of King Eiríkur and Gunnhildur.
+KL116,egils_saga,Egill,Úlfur,person2,1,egils_saga:2011,ch 76,none,no,,,Two brothers named Úlfur fell in this ambush.
+KL117,egils_saga,Lambi,Kóri,person2,1,egils_saga:2049,ch 78,none,no,,,Revenge on Ketill gufa's slaves for burning Lambi's father.
+KL118,egils_saga,Lambi,Skorri,person2,1,egils_saga:2050,ch 78,none,no,,,
+KL119,egils_saga,Lambi,Þormóður,person2,1,egils_saga:2050,ch 78,none,no,,,
+KL120,egils_saga,Þorsteinn Egilsson,Grani,person2,5,egils_saga:2246,ch 83,none,no,,,"Slave of Steinar Önundarson. sentence_id 2246 points at ch 70 (Egill wintering with Þorsteinn Þóruson), not at this killing."
+KL121,egils_saga,Þorsteinn Egilsson,Þrándur,person2,5,egils_saga:2283,ch 84,none,no,,,"Slave of Steinar Önundarson. sentence_id 2283 points at ch 72 (Ármóður skegg), not at this killing."
+KL122,grettis_saga,Grímur hersir,Öndóttur kráka,person2,4,grettis_saga:209,ch 7,none,no,,,"Dispute over Björn's inheritance. sentence_id 209 is ch 6, slightly early."
+KL123,grettis_saga,Grettir,Björn,person2,2,grettis_saga:1294,ch 21,none,no,,,Björn was a kinsman of Grettir's host Þorkell.
+KL124,grettis_saga,Þorgeir Hávarsson,Þorgils Máksson,person2,8,grettis_saga:1445,ch 25,none,no,,,Whale dispute. Þorgils was Grettir's kinsman. sentence_id 1445 is ch 24.
+KL125,grettis_saga,Þorgeir Hávarsson,Böggul-Torfi,person2,1,grettis_saga:1497,ch 27,none,no,,,
+KL126,grettis_saga,Þorgeir Hávarsson,Skúfur,person2,1,grettis_saga:1498,ch 27,none,no,,,
+KL127,grettis_saga,Þorgeir Hávarsson,Bjarni,person2,1,grettis_saga:1498,ch 27,none,no,,,
+KL128,grettis_saga,Grettir,Þorbjörn ferðalangur,person2,3,grettis_saga:2086,ch 37,none,no,,,"sentence_id 2086 is ch 35 (Glámur episode), so it points at the wrong passage."
+KL129,grettis_saga,Þorbjörn öxnamegin,Atli Ásmundarson,person2,8,grettis_saga:2380,ch 45,none,no,,,sentence_id 2380 is in ch 41.
+KL130,grettis_saga,Grettir,Þorbjörn öxnamegin,person2,6,grettis_saga:2525,ch 48,none,no,,,Revenge for his brother Atli.
+KL131,grettis_saga,Grettir,Arnór,person2,2,grettis_saga:2525,ch 48,none,no,,,"Arnór was Þorbjörn öxnamegin's son, killed with him."
+KL132,grettis_saga,Grettir,Grímur,person2,1,grettis_saga:2850,ch 55,none,no,,,Grímur was an outlaw paid to kill Grettir. sentence_id 2850 is ch 51 and has nothing to do with this killing.
+KL133,grettis_saga,Þorbjörn öngull,Grettir,person2,4,grettis_saga:4081,ch 82,none,no,,,sentence_id 4081 is inside a verse in ch 75.
+KL134,grettis_saga,Grettir,Skeggi,person2,1,grettis_saga:4082,ch 16,none,no,,,"Food-bag quarrel; Skeggi was a húskarl from Ás. sentence_id 4082 is a ch 75 verse, so it is probably mislabelled (ch 75 deals with the Drangey period)."
+KL135,gull-thoris_saga,Þórir,Frakki,person2,1,gull-thoris_saga:545,ch 14,none,no,,,
+KL136,gull-thoris_saga,Guðmundur,Bljúgur,person2,1,gull-thoris_saga:547,ch 14,none,no,,,
+KL137,gull-thoris_saga,Þórir,Styr,person2,1,gull-thoris_saga:549,ch 14,none,no,,,
+KL138,gull-thoris_saga,Gunnar,Þórarinn ákafi,person2,1,gull-thoris_saga:552,ch 14,none,no,,,
+KL139,gull-thoris_saga,Gunnar,Blígur,person2,1,gull-thoris_saga:588,ch 15,none,no,,,sentence_id 588 lands on Ólafur's death; Blígur's death is a little earlier in ch 15.
+KL140,gull-thoris_saga,Þórir,Helgi,person2,3,gull-thoris_saga:658,ch 17,none,no,,,
+KL141,gull-thoris_saga,Gunnar,Hergils,person2,1,gull-thoris_saga:760,ch 18,none,no,,,
+KL142,gunnlaugs_saga_ormstungu,Gunnlaugur,Grímur,person2,1,gunnlaugs_saga_ormstungu:620,ch 12,none,no,,,Duel at Dinganes. Grímur was Hrafn's cousin.
+KL143,gunnlaugs_saga_ormstungu,Gunnlaugur,Ólafur,person2,1,gunnlaugs_saga_ormstungu:620,ch 12,none,no,,,
+KL144,hallfredar_saga_vandraedaskalds,Önundur,Auðgísl,person2,1,hallfredar_saga_vandraedaskalds:465,ch 7,none,no,,,
+KL145,hallfredar_saga_vandraedaskalds,Hallfreður,Einar,person2,2,hallfredar_saga_vandraedaskalds:638,ch 10,none,no,,,Fight at Blanda while Grís pursued Hallfreður.
+KL146,hallfredar_saga_vandraedaskalds,Brandur Ávaldsson,Galti,person2,2,hallfredar_saga_vandraedaskalds:649,ch 1,foster:their fathers (Ávaldi and Óttar) were foster-brothers,no,,,"Brandur is the brother of Kolfinna, whom Hallfreður had dishonoured. The foster link is a generation back, so this could also be coded 'none'. Ch 10 settlement: the killing of Einar was set against the killing of Galti."
+KL147,heidarviga_saga,Styr,Þórhalli,person2,1,heidarviga_saga:334,ch 8,none,no,,,"The sentence_id (334, ch 9) is the scene where Styr offers the lamb as compensation; the killing itself is in ch 8."
+KL148,heidarviga_saga,Gestur,Styr,person2,4,heidarviga_saga:454,ch 10,none,no,,,"Revenge for his father. Gestur had grown up as foster-son of Þorleikur at Jörvi, where Styr always lodged. sentence_id 454 is in ch 11 (aftermath)."
+KL149,heidarviga_saga,Tindur,Þóroddur,person2,1,heidarviga_saga:1570,ch 33,none,no,,,Battle on Tvídægra (Heiðarvíg).
+KL150,kjalnesinga_saga,Kolfinnur,Örn austmaður,person2,3,kjalnesinga_saga:354,ch 8,,,corrected,ch 8: Kolfinnur killed Örn,"LABELLING ERROR: the saga says KOLFINNUR (son of Þorgerður at Vatn, Búi's rival) killed Örn: 'lauk svo að Örn féll en Kolfinnur varð sár' (ch 8). Búi was not involved."
+KL151,kormaks_saga,Bersi,Vali,person2,2,kormaks_saga:745,ch 14,affinity:wife's brother (brother-in-law),no,,,"Vali was the brother of Bersi's wife Þórdís, who had given him the use of Brekkuland."
+KL152,kormaks_saga,Halldór,Vali,person2,2,kormaks_saga:745,ch 16,none,no,,,Halldór (12) hamstrung Vali. His only link to Vali is indirect: Vali was the brother of his foster-father Bersi's wife.
+KL153,ljosvetninga_saga,Brandur,Hárekur,person2,1,ljosvetninga_saga:384,ch 11,none,no,,,pending
+KL154,ljosvetninga_saga,Eyjólfur Guðmundarson,Ótryggur,person2,3,ljosvetninga_saga:1539,ch 27,none,no,,,"Ótryggur was married into the Ljósvetningar (his wife was Þorkell hákur's daughter), but he had no kin tie to Eyjólfur."
+KL155,ljosvetninga_saga,Eyjólfur Guðmundarson,Þórarinn,person2,3,ljosvetninga_saga:1901,ch 33,none,no,,,Revenge for Koðrán. sentence_id 1901 is just after the killing sentence.
+KL156,thordar_saga_hredu,Hróaldur Ögmundarson,Ögmundur Valþjófsson,person2,1,thordar_saga_hredu:59,ch 1,none,unknown,,,sentence_id 59 is actually the sentence where Þórður kills Hróaldur. Hróaldur's killing of Ögmundur is the previous sentence (58).
+KL157,thordar_saga_hredu,Þórður hreða,Jón,person2,1,thordar_saga_hredu:363,ch 4,none,no,,,pending
+KL158,thordar_saga_hredu,Þórður hreða,Ormur,person2,16,thordar_saga_hredu:494,ch 5,"affinity:brother of his sister's betrothed (Ásbjörn, later her husband)",no,,,"Ormur had threatened to seduce Sigríður, who was betrothed to his brother Ásbjörn."
+KL159,thordar_saga_hredu,Þórður hreða,Össur,person2,5,thordar_saga_hredu:802,ch 3,affinity:first cousin of his sister's betrothed (distant),no,,,Össur was avenging his cousin Ormur. The tie is distant and could be coded 'none'.
+KL160,thordar_saga_hredu,Þórður hreða,Sörli,person2,2,thordar_saga_hredu:1205,ch 13,affinity:paternal uncle of his sister's husband Ásbjörn,no,,,Þórður calls Ásbjörn 'mág sinn' when settling for Sörli (ch 14).
+KL161,eiriks_saga_rauda,Eiríkur rauði,Eyjólfur saur,person3,1,eiriks_saga_rauda:42,ch 2,none,no,,,Revenge: Eyjólfur had killed Eiríkur's slaves.
+KL162,eiriks_saga_rauda,Eiríkur rauði,Hólmgöngu-Hrafn,person3,1,eiriks_saga_rauda:43,ch 2,none,no,,,
+KL163,eyrbyggja_saga,Þorgrímur,Vésteinn Vésteinsson,person3,1,eyrbyggja_saga:205,"ch 12, ch 5",affinity:wife's brother's brother-in-law (distant),no,,,Vésteinn was the brother of Gísli's wife Auður; Gísli was Þorgrímur's wife's brother. Þorgrímur says 'mig skyldir ekki til við Véstein' (Gísla ch 6).
+KL164,eyrbyggja_saga,Gísli Súrsson,Þorgrímur,person3,1,eyrbyggja_saga:206,ch 12,affinity:brother-in-law (sister's husband),no,,,'drap Gísli mágur hans hann'.
+KL165,eyrbyggja_saga,Þórarinn,Þorbjörn digri,person3,2,eyrbyggja_saga:625,ch 18,none,no,,,
+KL166,eyrbyggja_saga,Arnkell,Haukur,person3,1,eyrbyggja_saga:1205,ch 35,none,no,,,Haukur was Snorri goði's follower.
+KL167,eyrbyggja_saga,Þorleifur kimbi,Arnkell,person3,2,eyrbyggja_saga:1266,ch 37,none,no,,,
+KL168,eyrbyggja_saga,Þorgestur Þórhallsson (Gestur),Víga-Styr,person3,4,eyrbyggja_saga:1942,"ch 56, ch 11",none,no,,,Revenge for Gestur's father.
+KL169,eyrbyggja_saga,Eyjólfur hinn grái,Gísli Súrsson,person3,1,eyrbyggja_saga:2413,ch 66,none,no,,,
+KL170,finnboga_saga_ramma,Finnbogi,Álfur afturkemba,person3,3,finnboga_saga_ramma:634,ch 15,none,no,,,No kinship at the time of the killing; Finnbogi later married Álfur's daughter Ragnhildur in the settlement (ch 21).
+KL171,finnboga_saga_ramma,Finnbogi,Uxi,person3,3,finnboga_saga_ramma:864,ch 24,none,no,,,
+KL172,fostbraedra_saga,Jöður,Hávar,person3,6,fostbraedra_saga:103,ch 2,none,no,,,
+KL173,fostbraedra_saga,Þorgeir Hávarsson,Jöður,person3,3,fostbraedra_saga:166,ch 3,none,no,,,Revenge for his father Hávar.
+KL174,fostbraedra_saga,Þorgeir Hávarsson,Þorbrandur,person3,4,fostbraedra_saga:320,ch 5,,,corrected,ch 5: victims swapped,"LABEL ERROR: ch 5 says 'Þorbrandur féll fyrir Þorgeiri en Ingólfur fyrir Þormóði', so Þormóður killed Ingólfur and Þorgeir killed Þorbrandur (the input swaps them)."
+KL175,fostbraedra_saga,Þormóður Bersason,Ingólfur,person3,4,fostbraedra_saga:320,ch 5,,,corrected,ch 5: victims swapped,LABEL ERROR: per ch 5 Þorgeir killed Þorbrandur; Þormóður killed Ingólfur.
+KL176,fostbraedra_saga,Þorgeir Hávarsson,Þorgils Mársson,person3,3,fostbraedra_saga:456,ch 7,none,no,,,
+KL177,fostbraedra_saga,Þorgeir Hávarsson,Torfi,person3,1,fostbraedra_saga:507,ch 8,none,no,,,
+KL178,fostbraedra_saga,Þorgeir Hávarsson,Gautur Sleituson,person3,3,fostbraedra_saga:1114,ch 17,none,no,,,
+KL179,fostbraedra_saga,Þorgeir Hávarsson,Þórir austmaður,person3,1,fostbraedra_saga:1173,ch 19,none,no,,,Killed in the fight in which Þorgeir himself died.
+KL180,fostbraedra_saga,Þormóður Bersason,Loðinn,person3,3,fostbraedra_saga:1430,ch 25,none,no,,,
+KL181,fostbraedra_saga,Þormóður Bersason,Þorgrímur,person3,3,fostbraedra_saga:1560,ch 28,none,no,,,Revenge for Þorgeir (Þorgrímur trölli led the attack on him).
+KL182,hardar_saga_og_holmverja,Þorsteinn gullknappur,Hörður,person3,2,hardar_saga_og_holmverja:1285,ch 36,none,no,,,Struck Hörður from behind after the Hólmverjar were betrayed.
+KL183,havardar_saga_isfirdings,Þorbjörn Þjóðreksson,Ólafur Hávarðsson,person3,4,havardar_saga_isfirdings:386,ch 4,none,no,,,
+KL184,laxdaela_saga,Þórólfur,Hallur,person3,2,laxdaela_saga:501,ch 14,none,no,,,"Þórólfur (1), the Breiðafjörður man."
+KL185,laxdaela_saga,Hrútur,Eldgrímur,person3,1,laxdaela_saga:1854,ch 37,none,no,,,
+KL186,laxdaela_saga,Bolli Þorleiksson,Kjartan Ólafsson,person3,5,laxdaela_saga:2766,ch 27,blood:first cousin (paternal; their fathers were half-brothers); also foster:foster-brother,yes,,,Fathers Þorleikur and Ólafur pái were sons of Höskuldur by different mothers.
+KL187,laxdaela_saga,Auðgísl,Þorgils Hölluson,person3,1,laxdaela_saga:3563,ch 67,none,no,,,
+KL188,laxdaela_saga,Gunnar,Þiðrandi Geitisson,person3,1,laxdaela_saga:3621,ch 69,none,no,,,Killing only mentioned (told in saga Njarðvíkinga).
+KL189,laxdaela_saga,Þórólfur,Ólafur,person3,3,laxdaela_saga:4176,ch 80,none,no,,,Þórólfur (2) stertimaður killed the boy Ólafur Þórðarson.
+KL190,laxdaela_saga,Bolli,Þórólfur,person3,1,laxdaela_saga:4263,ch 82,none,no,,,Bolli Bollason killed Þórólfur (2) stertimaður in revenge for his kinsman Ólafur.
+KL191,reykdaela_saga_og_viga-skutu,Þóroddur harðjaxl,Helgi,person3,1,reykdaela_saga_og_viga-skutu:237,ch 6,none,no,,,
+KL192,reykdaela_saga_og_viga-skutu,Steinn Þorbjarnarson,Þorvaldur Galtason,person3,2,reykdaela_saga_og_viga-skutu:512,ch 13,,,corrected,ch 13: Steinn killed Þorvaldur,"LABEL ERROR: ch 13 says 'Þorvaldur son Galta ... féll í naustdyrunum fyrir Steini' - the killer is Steinn Þorbjarnarson, Helgi's brother. Helgi only appears in the settlement ('víg Þorvalds skal vera til sýknu Helga Þorbjarnarsonar')."
+KL193,reykdaela_saga_og_viga-skutu,Þórir Ketilsson,Áskell goði,person3,3,reykdaela_saga_og_viga-skutu:689,ch 16,none,no,,,"Þórir is called distantly related to Eyjólfur Valgerðarson, but no kinship with Áskell is stated."
+KL194,reykdaela_saga_og_viga-skutu,Már,Hávarður úr Ísólfstungu,person3,1,reykdaela_saga_og_viga-skutu:967,ch 24,none,no,,,
+KL195,reykdaela_saga_og_viga-skutu,Þórður illugi,Skúta Áskelsson,person3,1,reykdaela_saga_og_viga-skutu:1191,ch 30,none,no,,,
+KL196,svarfdaela_saga,Klaufi,Hrani,person3,2,svarfdaela_saga:569,ch 17,none,no,,,
+KL197,svarfdaela_saga,Klaufi,Örn,person3,2,svarfdaela_saga:571,ch 17,none,no,,,
+KL198,svarfdaela_saga,Klaufi,Björn,person3,2,svarfdaela_saga:661,ch 19,none,no,,,
+KL199,svarfdaela_saga,Klaufi,Sigurður,person3,2,svarfdaela_saga:661,ch 19,none,no,,,
+KL200,thorsteins_saga_hvita,Þorsteinn Þorfinnsson,Einar,person3,4,thorsteins_saga_hvita:150,ch 3,sworn (?): called 'fóstbræður' while trading partners abroad,no,,,They were trading partners (félag) and ch 4 calls them 'fóstbræður'; no blood or marriage tie at the time. Einar had married Þorsteinn's betrothed Helga.
+KL201,thorsteins_saga_hvita,Þorkell,Þorgils,person3,1,thorsteins_saga_hvita:202,ch 7,none,no,,,"Þorgils was killed by 'þeir bræður' (Einar and Þorkell Þorfinnsson). Þorgils was the brother-in-law of Einar Þórisson, whom Þorkell's brother Þorsteinn had killed."
+KL202,thorsteins_saga_hvita,Einar Þorfinnsson,Þorgils,person3,1,thorsteins_saga_hvita:202,ch 7,,,corrected,no Héðinn in text; the brothers Einar and Þorkell killed Þorgils,LABEL ERROR: no Héðinn in the text; the killers were the brothers Einar and Þorkell Þorfinnsson.
+KL203,thorsteins_saga_hvita,Þorkell Þorfinnsson,Þorgils,person3,1,thorsteins_saga_hvita:202,ch 7,,,corrected,no Héðinn in text; the brothers Einar and Þorkell killed Þorgils,LABEL ERROR: no Héðinn in the text; the killers were the brothers Einar and Þorkell Þorfinnsson.
+KL204,viga-glums_saga,Glúmur,Sigmundur Þorkelsson,person3,3,viga-glums_saga:330,ch 5,affinity:brother's wife's brother (Sigmundur's sister Hallfríður married Glúmur's brother Vigfús),no,,,
+KL205,viga-glums_saga,Arngrímur Þorgrímsson,Steinólfur,person3,1,viga-glums_saga:1048,ch 11,,,corrected,ch 21: Arngrímur killed Steinólfur,LABEL ERROR: ch 21 'Þá höggur Arngrímur til hans í höfuðið' - Arngrímur Þorgrímsson (Esphælingar side; Steinólfur's foster-brother and maternal first cousin) killed Steinólfur. Vigfús only appears in the settlement (ch 23). Relation given is for the pair as labelled.
+KL206,viga-glums_saga,Glúmur,Þorvaldur krókur,person3,1,viga-glums_saga:1131,ch 1,blood:second cousin (Glúmur's grandfather Ingjaldur and Þorvaldur's grandmother Ingunn were children of Helgi magri),no,,,The death blow was first attributed to Guðbrandur Þorvarðsson; Glúmur later admitted the killing (ch 26).
+KL207,viga-glums_saga,Klængur,Þorvaldur úr Haga,person3,2,viga-glums_saga:1185,ch 27,none,no,,,
