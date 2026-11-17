@@ -40,7 +40,7 @@ to prefill the family sheets and contains known errors. Don't use it for analysi
 
 ```bash
 # 1. put the 42 Icelandic texts (*.is.txt from sagadb.org's all_sagas_text.zip) in data/raw/is/
-pip install openpyxl networkx
+pip install openpyxl networkx matplotlib
 python scripts/make_family_sheets.py data/labelled data/family   # family sheets (overwrites!)
 python scripts/merge_family_results.py      # merge data/family/work/*_output.json into them
 python scripts/build_final_killings.py      # apply corrections → killings_pass1.csv
@@ -50,6 +50,23 @@ python scripts/apply_manual_checks.py       # manual corrections → killings_fi
 ```
 
 The script that extracted the 1,048 candidate sentences is not yet in this repository (TODO).
+
+## Analysis
+
+```bash
+python scripts/build_family_graph.py   # person table + family graph → data/analysis/
+python scripts/sq1_null_model.py       # SQ1 → data/analysis/sq1_results.csv, figures/sq1_null.png
+python scripts/sq2_communities.py      # SQ2 → data/analysis/sq2_results.csv, figures/sq2_ties.png
+```
+
+| Result | Observed | Chance (within-saga victim shuffles) | p |
+|---|---|---|---|
+| Killings within a family group | 4/189 (2.1%) | 6.1% | 0.002 |
+| Killer–victim direct kin tie | 8/201 (4.0%) | 4.5% | 0.88 |
+| …immediate blood (parent, child, sibling) | 0 | 4.8 | 0.008 |
+| …foster | 5 | 2.2 | 0.06 |
+| …marriage | 3 | 2.1 | 0.61 |
+| NMI family communities vs feuds | 0.860 | 0.843 | 0.006 |
 
 ## Paper
 

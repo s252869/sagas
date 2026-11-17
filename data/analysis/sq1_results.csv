@@ -1,0 +1,7 @@
+test,killings,n_scored,observed,observed_share,null_mean_share,null_sd,z,p_two_sided,ratio_obs_to_null
+same family group | all killings,201,189,4,0.0212,0.0611,0.0136,-2.94,0.002,0.35
+direct kin tie (graph) | all killings,201,201,8,0.0398,0.0446,0.0111,-0.43,0.8791,0.89
+same family group | without partly-supported,182,171,4,0.0234,0.0639,0.0144,-2.81,0.006,0.37
+direct kin tie (graph) | without partly-supported,182,182,6,0.033,0.0392,0.0111,-0.56,0.7852,0.84
+same family group | family known only,160,152,4,0.0263,0.0607,0.0153,-2.25,0.014,0.43
+direct kin tie (graph) | family known only,160,160,8,0.05,0.0475,0.0129,0.2,1.0,1.05

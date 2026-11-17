@@ -23,7 +23,7 @@
 
 \leadauthor{Ólafsdóttir}
 
-\significancestatement{\TODO{About 120 words, for a general reader, written once the results are in. Draft: The Sagas of Icelanders are often read as stories of family feuds, in which kin groups take revenge on one another. We test this reading quantitatively. We extracted every named killing from all 42 sagas and recorded how each killer and victim are related. Most saga killings are between people with no family tie. Where kin do kill each other, the tie is more often by fosterage or marriage than by blood. [Replace this with the main SQ1/SQ2 finding.] Our pipeline, which combines keyword screening, AI-assisted annotation and an independent second AI pass, shows one way to build networks from historical texts while reporting their reliability openly.}}
+\significancestatement{The Sagas of Icelanders are often read as stories of family feuds. We test this reading on all 42 sagas by building a network of every named killing together with the family ties of the people involved. Saga killings are overwhelmingly between families. Killings within a household or kin group are rarer than chance, and immediate blood relatives never kill each other. Foster kin, however, kill each other more than twice as often as chance predicts. In the sagas, violence within the family follows ties that are made, by fosterage or marriage, rather than ties of blood. We also show how such networks can be built from historical texts with AI assistance while reporting their accuracy openly.}
 
 \authorcontributions{\TODO{Confirm with the group. Draft based on the project plan: Y.M.Ó. built the family and killing networks and did the SQ1--SQ2 analysis; T.K.Á. handled data and validation; A.H. did the bridging and language analysis. All authors defined the annotation criteria and wrote the paper.}}
 \authordeclaration{The authors declare no competing interests.}
@@ -32,7 +32,7 @@
 \keywords{Icelandic sagas $|$ feud $|$ kinship networks $|$ null models $|$ community detection}
 
 \begin{abstract}
-\TODO{Single paragraph, at most 250 words, written last. Suggested structure: (1) the sagas are read as family feuds, but no one has tested it on the full corpus; (2) we build a killing network (201 killings, 288 characters) from all 42 sagas, together with each participant's family ties; (3) the SQ1 result against the null model; (4) the SQ2 result (family communities vs feuds; marriage vs blood ties); (5) what this means for how sagas depict violence.}
+The Sagas of Icelanders are famous for their feuds, but whether saga violence follows family lines has not been tested across the whole corpus. We extracted every named killing from all 42 sagas and recorded the family ties between each killer and victim. Candidate sentences were selected by keyword, annotated by an AI model under rules we defined, recoded in a blind second pass (agreement on kinship $\kappa=0.74$) and checked by hand on a random sample of 90 killings. The resulting network has 201 killings among 288 characters. Compared with a null model that reshuffles victims within each saga, killings within a family group are rarer than chance (2.1\% vs.\ 6.1\%, $p=0.002$). Direct kin ties between killer and victim are as common as chance predicts, but their type matters: immediate blood relatives never kill each other (0 vs.\ 4.8 expected, $p=0.008$), whereas foster kin do so more than twice as often as expected (5 vs.\ 2.2, $p=0.06$). Feuds line up only weakly with family communities in the kinship network. In the sagas, violence within the family travels along the made ties of fosterage and marriage, not along blood.
 \end{abstract}
 
 \dates{This manuscript was compiled on \today}
@@ -51,17 +51,35 @@ Network analysis of the sagas has so far treated them as social networks. Mac Ca
 \section*{Results}
 
 \subsection*{The killing network}
-Across the 42 sagas we identified 201 killings among 288 named characters. Most killings, 187 (93\%), are between people with no family tie under our strict definition. Of the rest, 6 are between blood kin, 5 between foster kin and 3 between in-laws. 16 killings fall within a family group. Under a wide definition that also counts indirect ties (e.g.\ a sister's husband's brother), 28 killings (14\%) are between kin. \TODO{Network figure: the killing network coloured by family group. Degree distribution; the largest feud components (e.g. Njáls saga).}
+Across the 42 sagas we identified 201 killings among 288 named characters. Most killings, 187 (93\%), are between people with no family tie under our strict definition. Of the rest, 6 are between blood kin, 5 between foster kin and 3 between in-laws. 16 killings fall within a family group. Under a wide definition that also counts indirect ties (e.g.\ a sister's husband's brother), 28 killings (14\%) are between kin.
 
 \subsection*{SQ1: Killings and family lines}
-\TODO{Observed share of within-group killings (16/199 with a known group = 8.0\%) against the within-saga permutation null model: z-score, p-value, and a histogram of the null distribution. Repeat (a) without the 19 partly-supported killings, (b) without the killings where a family is unknown, (c) with the wide kin definition, (d) with the two fóstbróðir cases recoded as sworn.}
+Killer and victim belonged to the same family group in only 4 of the 189 killings where both groups are known (2.1\%). Under the null model, which reshuffles victims within each saga, the expected share is 6.1\% $\pm$ 1.4\% ($z=-2.9$, $p=0.002$; Fig.~\ref{fig:sq1}A). The result holds without the 19 partly supported killings ($p=0.006$), and when only killings where both families are known are kept ($p=0.014$). Killings therefore run between family groups more often than chance predicts. A direct kin tie between killer and victim in the family network is a different matter: such ties occur in 8 of 201 killings (4.0\%), exactly as often as expected by chance (4.5\% $\pm$ 1.1\%, $z=-0.4$, $p=0.88$; Fig.~\ref{fig:sq1}B). Saga characters avoid killing members of their own household or kin group, but kinship as such does not protect them.
+
+\begin{figure}[tbhp]
+\centering
+\includegraphics[width=\linewidth]{sq1_null.pdf}
+\caption{SQ1. Observed share of killings (blue line) against 1{,}000 within-saga permutations of victims (gray). (A) Killer and victim in the same family group. (B) Killer and victim joined by a direct kin tie in the family network.}
+\label{fig:sq1}
+\end{figure}
 
 \subsection*{SQ2: Family communities and feuds}
-\TODO{Louvain on the family network: stability over 100 seeds, and NMI with label propagation. NMI between family communities and feud components. The share of killings along affinity vs blood ties, each relative to the null model.}
+The family network of the killing participants and their kin has 957 people and 997 ties. Louvain divides it into 137 communities with high modularity ($Q=0.955$). The partition is stable over 100 seeds (mean pairwise NMI $1.00$) and agrees with label propagation (NMI $0.93$). The high modularity partly reflects the fact that the network consists of many small kin clusters. Feuds, the connected components of the killing network, line up with family communities slightly more than shuffled feuds do (NMI $0.860$ vs.\ $0.843 \pm 0.005$, $z=3.2$, $p=0.006$; with blood ties only, $0.858$ vs.\ $0.849$, $p=0.09$). Feuds thus tend to involve a recurring set of families rather than a random mix, but the effect is small.
+
+The type of tie matters more (Fig.~\ref{fig:ties}). No killing in the corpus is between immediate blood relatives (parent, child or sibling), while chance predicts 4.8 ($p=0.008$). Killings between foster kin are more than twice as common as expected (5 vs.\ 2.2, $p=0.06$), and killings between in-laws occur at about the expected rate (3 vs.\ 2.1, $p=0.61$). Violence within the family follows the weaker, made ties of fosterage and marriage, not blood.
+
+\begin{figure}[tbhp]
+\centering
+\includegraphics[width=\linewidth]{sq2_ties.pdf}
+\caption{SQ2. Killings between killer and victim joined by a direct tie of each type (blue), against the 95\% range (gray bar) and mean (tick) of 1{,}000 within-saga permutations. Immediate blood kin never kill each other; foster kin do so more than twice as often as expected.}
+\label{fig:ties}
+\end{figure}
 
 % ---------------- Discussion ----------------
 \section*{Discussion}
-\TODO{What the results say about saga feuds. Fosterage and marriage as the ties where killing within the family happens, e.g. Bolli and Kjartan in Laxdæla, the sons of Njáll and their foster-brother Höskuldur. Limitations: keyword recall (killings told with \textit{hjó}, ``struck'', are missed); named participants only; AI annotation checked for consistency but not by humans; characters not merged across sagas.}
+Saga violence is overwhelmingly violence between families: 93\% of killings are between people with no family tie, and killings within a household or kin group are rarer than chance. The exceptions are revealing. Immediate blood relatives never kill each other, but foster kin do, at more than twice the rate expected by chance. These include some of the most famous killings in the corpus: the sons of Njáll killing their foster-brother Höskuldur Hvítanesgoði, and Bolli killing his cousin and foster-brother Kjartan in \textit{Laxdæla saga}. Fosterage and marriage created obligations between families, and these ties appear to be where loyalties conflicted most sharply. This fits historians' accounts of feud as a contest between kin groups, in which ties made by fosterage or marriage could pull a person to either side \cite{byock1982,miller1990}. \TODO{Group: discuss, add one or two sentences in your own words.}
+
+\textit{Limitations.} The candidate set covers only 14 word forms, so killings told with other verbs (e.g.\ \textit{hjó}, ``struck'') are missed; the network is a lower bound. Only killings with named participants are included. The family network contains only the kin recorded for the participants, and only direct ties, so cousins are not detected as tied in SQ2. Family-group labels assign followers to their master's household, so part of the SQ1 result reflects that people on the same side rarely kill each other. Annotation and kinship lookup were done by an AI model; a manual check of 90 killings found the attributions largely correct (82/90) but the kin codings weaker (14/22), and kinship counts are small. Characters are not merged across sagas.
 
 % ---------------- Materials and Methods ----------------
 \matmethods{
@@ -87,10 +105,10 @@ To measure accuracy, each author checked a different random sample of 30 killing
 \textit{Blood}: descent or siblinghood up to second cousins. \textit{Affinity}: one marriage link existing at the time of the killing. \textit{Foster}: a direct fosterage tie. \textit{Sworn}: explicit sworn brotherhood. Longer chains, later marriages and betrothals count as no tie. The \textit{wide} definition used for robustness additionally counts such indirect ties (two marriage or fosterage links, ties between the parents, betrothals). Killer and victim are in the \textit{same family group} if they shared a household (including master and slave), were blood kin up to first cousins, or were tied by direct fosterage.
 
 \subsection*{SQ1 null model}
-The test statistic is the share of killings within a family group. We permute victims among killings within each saga 1{,}000 times. This preserves each character's number of killings committed and suffered. Permutations that create self-killings are rejected. We report a $z$-score and an empirical two-sided $p$-value.
+The null model needs a family group for every person, not only for every killing, so SQ1 uses the per-person family-group label from the family lookup (available for 280 of 288 participants). This label is stricter than the pair-level rule above, which also counts first cousins and foster kin in other households (16 killings vs.\ 4). A second statistic uses direct ties in the family network (below). The test statistic is the share of killings within a family group. We permute victims among killings within each saga 1{,}000 times. This preserves each character's number of killings committed and suffered. Permutations that create self-killings are rejected. We report a $z$-score and an empirical two-sided $p$-value.
 
 \subsection*{SQ2 communities}
-We ran Louvain community detection \cite{blondel2008} on the family network with 100 seeds, and compared the result with label propagation \cite{raghavan2007} using normalised mutual information (NMI). Conflict groups are the connected components of the undirected killing network. We compare family communities with conflict groups by NMI, and compare killings along affinity ties with killings along blood ties, each relative to the null model.
+The family network has a node for every participant and every relative recorded for them, with blood (parent, child, sibling), affinity (spouse, in-law) and foster edges. We ran Louvain community detection \cite{blondel2008} on it with 100 seeds, and compared the result with label propagation \cite{raghavan2007} using normalised mutual information (NMI). Conflict groups are the connected components of the undirected killing network. Because both partitions are nested within sagas, which inflates NMI, we compare the observed NMI with the NMI obtained from feuds rebuilt from the 1{,}000 permutations of the SQ1 null model. We count killings along a direct blood, affinity and foster tie in the same way, against the same null model.
 }
 
 \showmatmethods{}
