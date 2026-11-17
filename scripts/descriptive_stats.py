@@ -80,7 +80,7 @@ add(f"- Avenger's relation to the avenged: {dict(collections.Counter(r['relation
 print("\n".join(L))
 
 # LaTeX table for the paper
-T = [("Sagas / words", f"{len(sagas)} / {words/1e3:.0f}k"), ("Candidate sentences / labelled killings", "1,048 / 407"),
+T = [("Sagas / words", f"{len(sagas)} / {words/1e3:.0f}k"), ("Candidate sentences (original + extension)", "1,048 + 1,745"),
      ("Distinct killings", f"{len(kill)}"), ("People (killers / victims / both)", f"{G.number_of_nodes()} ({len(killers)} / {len(victims)} / {len(killers & victims)})"),
      ("Killing chains (components); largest", f"{len(comps)}; {len(comps[0])} people"),
      ("Family network: people / ties", f"{F.number_of_nodes()} / {F.number_of_edges()}"),

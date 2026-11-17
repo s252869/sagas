@@ -19,7 +19,7 @@ kill = list(csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8"
 fam = [e for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")) if e["layer"] in ("blood", "affinity", "foster")]
 NICE = {"brennu-njals_saga": "Njáls saga", "laxdaela_saga": "Laxdæla saga", "egils_saga": "Egils saga", "grettis_saga": "Grettis saga",
         "eyrbyggja_saga": "Eyrbyggja saga", "vatnsdaela_saga": "Vatnsdæla saga", "gisla_saga_surssonar": "Gísla saga",
-        "fostbraedra_saga": "Fóstbræðra saga", "faereyinga_saga": "Færeyinga saga", "viga-glums_saga": "Víga-Glúms saga"}
+        "fostbraedra_saga": "Fóstbræðra saga", "faereyinga_saga": "Færeyinga saga", "viga-glums_saga": "Víga-Glúms saga", "reykdaela_saga_og_viga-skutu": "Reykdæla saga", "gull-thoris_saga": "Gull-Þóris saga"}
 
 
 def signed_graph(sagas=None):

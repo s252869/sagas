@@ -10,12 +10,12 @@ Ylfa Margrét Ólafsdóttir, Tanja Kristín Árnadóttir and Andrea Hermóðsdó
 | | |
 |---|---|
 | Sagas | 42 (modern-spelling Icelandic, [sagadb.org](https://sagadb.org/downloads)) |
-| Candidate sentences (14 forms of *drepa*, *vega*, *víg*) | 1,048 |
-| Labelled as killings | 407 |
-| Final distinct killings (killer → victim) | **194** |
-| Characters involved | 280 |
+| Candidate sentences (14 forms of *drepa*, *vega*, *víg*) + extension (other killing words) | 1,048 + 1,745 |
+| Sentences labelled as killings | 407 + 492 |
+| Final distinct killings (killer → victim) | **482** (194 original + 291 extension − 3 replaced) |
+| Characters involved | 624 |
 
-**Main file: [`data/final/killings_final.csv`](data/final/killings_final.csv)**, with one row per killing:
+**Main file: [`data/final/killings_all.csv`](data/final/killings_all.csv)** (`killings_final.csv` = the original 194, used as a robustness check), with one row per killing:
 saga, killer, victim, relation (`none` / `blood` / `affinity` / `foster` / `sworn`), same family group,
 whether the family is known, support (`yes` / `partly`), chapter, a quoted Icelandic clause as evidence,
 and how the row was decided.
@@ -46,7 +46,11 @@ python scripts/merge_family_results.py      # merge data/family/work/*_output.js
 python scripts/build_final_killings.py      # apply corrections → killings_pass1.csv
 python scripts/compare_passes.py            # agreement statistics, disagreements
 python scripts/finalize_killings.py         # → killings_final.csv (pre-review)
-python scripts/apply_manual_checks.py       # manual corrections → killings_final.csv
+python scripts/apply_manual_checks.py       # manual corrections → killings_final.csv (original 194)
+python scripts/ext_build_candidates.py      # extension: candidates with other killing words
+python scripts/ext_merge.py                 # merge AI labels → data/extension/new_killings.csv
+python scripts/ext_integrate.py             # verified new killings → data/final/killings_all.csv
+# every analysis script reads killings_all.csv; KILLINGS=killings_final.csv python ... runs it on the original 194
 ```
 
 The script that extracted the 1,048 candidate sentences is not yet in this repository (TODO).
@@ -63,17 +67,19 @@ python scripts/network_stats.py        # signed network statistics (Mac Carron &
 python scripts/descriptive_stats.py    # dataset overview → data/analysis/descriptive_stats.md, paper/table_overview.tex
 ```
 
-| Result | Observed | Chance (within-saga victim shuffles) | p |
+| Result (482 killings) | Observed | Chance (within-saga victim shuffles) | p |
 |---|---|---|---|
-| Killings within a family group | 4/182 (2.2%) | 5.8% | 0.004 |
-| Killer–victim direct kin tie | 7/194 (3.6%) | 4.5% | 0.59 |
-| …immediate blood (parent, child, sibling) | 0 | 4.7 | 0.008 |
-| …foster | 5 | 2.4 | 0.08 |
-| …marriage | 2 | 1.7 | 1.0 |
-| NMI family communities vs feuds | 0.858 | 0.841 | 0.006 |
-| Structural balance Δ (signed network, all sagas) | 15.4% | 34.7% | 0.002 |
-| Targeted revenge (network measure) | 22 | 7.5 | 0.002 |
-| Revenge killings (text) | 48/194 (25%), 32 strike the killer himself | | |
+| Killings within a family group / household | 15/468 (3.2%) | 9.0% | 0.002 |
+| Killer–victim direct kin tie | 12/482 (2.5%) | 4.9% | 0.008 |
+| …immediate blood (parent, child, sibling) | 2 | 14.2 | 0.002 |
+| …foster | 5 | 4.8 | 1.0 |
+| …marriage | 5 | 4.4 | 0.87 |
+| NMI family communities vs feuds | 0.839 | 0.825 | 0.002 |
+| Structural balance Δ (signed network, all sagas) | 10.8% | 41.9% | 0.002 |
+| Targeted revenge (network measure) | 70 | 37.9 | 0.002 |
+| Revenge killings (text) | 127 (26%); 80 strike the killer himself | | |
+
+Original 194 killings only: `data/analysis/original_only/`.
 
 ## Paper
 
