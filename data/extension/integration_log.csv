@@ -1,0 +1,301 @@
+kid,saga,killer,victim,decision,duplicate_of,note
+KL126,grettis_saga,Þorgeir Hávarsson,Skúfur,dropped: cross-saga duplicate,,Grettis ch 27 mention of the Hundadalur killing narrated in Fóstbræðra ch 8 (KN234)
+KL127,grettis_saga,Þorgeir Hávarsson,Bjarni,dropped: cross-saga duplicate,,Grettis ch 27 mention of the Hundadalur killing narrated in Fóstbræðra ch 8 (KN233)
+KL169,eyrbyggja_saga,Eyjólfur hinn grái,Gísli Súrsson,dropped: cross-saga duplicate,,Eyrbyggja mention of Gísli's death narrated in Gísla saga (KN106)
+KN001,brennu-njals_saga,Hrútur,Ásólfur,keep,,Sea-battle in Øresund; Ásólfur boarded Hrútur's ship and killed four men first.
+KN002,brennu-njals_saga,Hrútur,Atli Arnviðarson,keep,,Distinct from Atli of Bergþórshvoll (KL008/KL009).
+KN003,brennu-njals_saga,Gunnar,Vandill,keep,,"Death not stated explicitly: both legs cut off in sea-battle, Vandill not mentioned again and his brother Karl is speared through in the same moment; plunder taken."
+KN004,brennu-njals_saga,Gunnar,Kolskeggur víkingur,keep,,Off Eysýsla; Gunnar also kills Hallgrímur (not a candidate here).
+KN005,brennu-njals_saga,Grímur Njálsson,Skjöldur,keep,,Grímur cut off the foot; Helgi gave the fatal thrust. Revenge for Þórður leysingjason killed by Sigmundur and Skjöldur (KL011/KL012).
+KN006,brennu-njals_saga,Helgi Njálsson,Skjöldur,keep,,Helgi gave the fatal blow.
+KN007,brennu-njals_saga,Hallkell (brother of Ketilbjörn gamli),Grímur í Grímsnesi,keep,,"Genealogical aside only (killing narrated in Landnámabók, not in any saga in the corpus). Different person from Hallkell Otkell's brother (KL018). Consider dropping if genealogical asides are excluded."
+KN008,brennu-njals_saga,Gunnar,Úlfhéðinn,keep,,"Ambush at Knafahólar; death implied (arrow through the middle, falls; 14 of the attackers died). "
+KN009,brennu-njals_saga,Kolskeggur,Ögmundur flóki,keep,,Ambush at Rangá by Þorgeir Otkelsson and Þorgeir Starkaðarson.
+KN010,brennu-njals_saga,Gunnar,Þorgrímur austmaður,keep,,Attack on Hlíðarendi.
+KN011,brennu-njals_saga,Hróaldur,Gunnar,keep,,"Only Hróaldur's boast names a killer; the attack was led by Gissur hvíti and Geir goði (""þó kom þar að þeir drápu hann""). Gunnar's death is otherwise missing from the dataset; consider adding Gissur hvíti and Geir goði as leaders. KL025 (Högni kills Hróaldur) avenges this killing."
+KN012,brennu-njals_saga,Snækólfur,Ólafur elda,keep,,"Vikings attacking the merchant ship on which the Njálssons sail; Helgi later says Ólafur ""er fallinn hér fyrir víkingum""."
+KN013,brennu-njals_saga,Kári,Snækólfur,keep,,
+KN014,brennu-njals_saga,Helgi Njálsson,Grjótgarður Moldansson,keep,,Distinct from Grjótgarður í Sóknadal (KN054).
+KN015,thordar_saga_hredu,Hróaldur Ögmundarson,Klyppur Þórðarson,keep,,"Klyppur had just killed King Sigurður slefa (who slept with his wife) in the hall; Hróaldur, standing at the king's table, strikes him down at once. The king's killing is not in the dataset."
+KN016,thordar_saga_hredu,Þórður hreða,Hróaldur Ögmundarson,keep,,
+KN017,thordar_saga_hredu,Þórður hreða,Auðólfur Glúmsson,keep,,Quarrel over a cloak at Hvítárvellir; Auðólfur drew first. Auðólfur adjudged to fall óheilagur.
+KN018,thordar_saga_hredu,Þórður hreða,Sigurður austmaður,keep,,"Indriði, Ormur's sworn brother, attacks Þórður with four companions to avenge Ormur; four companions fall (Indriði survives)."
+KN019,thordar_saga_hredu,Þórður hreða,Þorfinnur,keep,,"Leg cut off; death inferred from Indriði's statement that four of his companions fell (""féllu fyrir Þórði fjórir mínir félagar"")."
+KN020,thordar_saga_hredu,Þórður hreða,Örn,keep,,Össur's ambush in Garðshvammur to avenge his kinsman Ormur; Örn is one of Össur's men.
+KN021,thordar_saga_hredu,Þórður hreða,Hafþór,keep,,Same ambush; Hafþór is frændi Össurar.
+KN022,thordar_saga_hredu,Miðfjarðar-Skeggi,Þórhallur á Miklabæ,keep,,"Frustrated at being forced to spare Þórður, Skeggi kills Þórður's cowardly host Þórhallur in bed so that the drawn Sköfnungur may taste blood (""klækismann""); Þórhallur had earlier betrayed Þórður's whereabouts to Össur."
+KN023,svarfdaela_saga,Þorsteinn svörfuður,Ljótur hinn bleiki,keep,,Viking expedition sought for fame.
+KN024,svarfdaela_saga,Þorsteinn svörfuður,Moldi,keep,,Moldi (half-berserk) challenged Þorsteinn at the jarl's Yule feast.
+KN025,svarfdaela_saga,Klaufi,Þórður fangari,keep,,Þórður challenged Klaufi to wrestle with an insult (ragmæli).
+KN026,svarfdaela_saga,Helgi hinn magri,Þorkatla hin gamla,keep,,"Place-name aside only (Kötlufjall); not narrated. Text does not call her a troll, but the story is legendary."
+KN027,svarfdaela_saga,Klaufi,Björn húskarl Hrólfs,keep,,Not Björn of Teigsfjall (KL198).
+KN028,svarfdaela_saga,Klaufi,Atli víkingur,keep,,Text lacunose; Atli was killing Karl hinn rauði's bound men.
+KN029,svarfdaela_saga,Þorleifur Ásgeirsson,Klaufi,keep,,Brothers killed him together at Ingvildur's instigation; Þorleifur's verse claims the blow. Klaufi cut up their bags; Karl forced their father to give him Ingvildur.
+KN030,svarfdaela_saga,Ólafur Ásgeirsson,Klaufi,keep,,Joint killing with Þorleifur; who struck is not stated.
+KN031,svarfdaela_saga,Karl hinn rauði,Grís,keep,,Grís was hiding the Ásgeirssynir and knew of the plot.
+KN032,svarfdaela_saga,Karl hinn rauði,Geiri,keep,,Karl was present and gave the order; actual killer unnamed. Reason not given; Ljótólfur pretends not to know.
+KN033,svarfdaela_saga,Skíði,Karl hinn rauði,keep,,Skíði led twelve men; Karl had dragged and maimed Skíði; battle at Hyltinganaust with Ljótólfur.
+KN034,svarfdaela_saga,Karl ómáli,Þorkell Skíðason,keep,,Karl Karlsson (called 'Karl ungi' in input) also beheaded Skíði's other sons; lacunose passage.
+KN035,kormaks_saga,Kormákur,Oddur Þórveigarson,keep,,Ambush outside Tunga.
+KN036,kormaks_saga,Kormákur,Guðmundur Þórveigarson,keep,,Died later of wounds.
+KN037,kormaks_saga,Bersi,Þorkell tanngnjóstur,keep,,Holmgang over Steingerður's bride-price and dowry.
+KN038,kormaks_saga,Bersi,Þórarinn rammi,keep,,"Bersi fetched Steinvör, abducted by Þórarinn; Þórarinn attacked with a knife."
+KN039,kormaks_saga,Bersi,Loftur Þórarinsson,keep,,Sons pursue Bersi; Álfur Þórarinsson also killed (not a candidate).
+KN040,kormaks_saga,Bersi,Skofti Þórarinsson,keep,,
+KN041,kormaks_saga,Kormákur,Narfi,keep,,Narfi had bribed a vagrant to recite a slanderous verse attributed to Kormákur.
+KN042,ljosvetninga_saga,Söxólfur Víðarsson,Sigurður austmaður,keep,,"Sölmundur refused to pay the Norwegian merchant Sigurður for his goods; Sigurður came with Forni and Arnór on a summons and was speared. Söxólfur outlawed for life, Sölmundur for three years."
+KN043,ljosvetninga_saga,Höskuldur Þorgeirsson,Sölmundur Víðarsson,keep,,"Input cited the ch 4 legal reference (""Sölmundur féll óhelgur""); the killing is narrated in ch 2. Sölmundur returned before his exile ended and was being escorted by Guðmundur and Þorgeir; the Þorgeirssons declared him óhelgur. Also linked to the Sigurður killing (KN042)."
+KN044,ljosvetninga_saga,Guðmundur ríki,Þorkell hákur,keep,,Input cited a later speech; the killing is ch 22. Guðmundur leads 20 men to Öxará after Þorkell's slander (fjandmæli); Þorsteinn rammi and others strike; Guðmundur present and declares the killing.
+KN045,ljosvetninga_saga,Hallur Ótryggsson,Koðrán Guðmundarson,keep,,"Battle at Kakalahóll (Eyjólfur Guðmundarson vs Þorvarður); Koðrán, trying to separate fighters, is struck by Hallur and dies that night."
+KN046,ljosvetninga_saga,Þormóður Ásgeirsson,Hallur Ótryggsson,keep,,"In Norway/Gautland with King Haraldur Sigurðarson; Þormóður had lain in wait for Hallur and strikes when the king calls him ""Koðránsbani""."
+KN047,kroka-refs_saga,Refur,Gellir,keep,,Refur repays two blows Gellir gave him after a wrestling bout ('Nú tel eg hefnt').
+KN048,graenlendinga_saga,Freydís Eiríksdóttir,Helgi,keep,,"Freydís present and directing; hands were her husband Þorvarður's men (Þorvarður led them and might also count). She wanted the brothers' larger ship and goods, pretending they had beaten her."
+KN049,graenlendinga_saga,Freydís Eiríksdóttir,Finnbogi,keep,,As KN048.
+KN050,brennu-njals_saga,Grímur Njálsson,Hrappur,keep,,Fight at Markarfljót; Helgi first cut off Hrappur's hand. Njálssons attack after Þráinn's party insulted them and refused compensation for their troubles in Norway caused by Hrappur.
+KN051,brennu-njals_saga,Kári,Tjörvi (Þráinn's companion),keep,,Not the Tjörvi of Oddi killed by Skarphéðinn (KL026).
+KN052,brennu-njals_saga,Þangbrandur,Þorvaldur veili,keep,,Þorvaldur had gathered men to ambush and kill Þangbrandur; religious conflict (pre-emptive attack on an ambusher).
+KN053,brennu-njals_saga,Guðleifur,Þorvaldur veili,keep,,Joint killing with Þangbrandur.
+KN054,brennu-njals_saga,Eiríkur örðigskeggi,Grjótgarður í Sóknadal,keep,,Genealogical aside in the pedigree of Þorkell Eiríksson; not narrated in any corpus saga. Drop if genealogical asides are excluded.
+KN055,brennu-njals_saga,Flosi,Grímur Njálsson,keep,,Burning of Bergþórshvoll led by Flosi (cf. KL052/KL053). Grímur was one of Höskuldur's killers (KL043).
+KN056,brennu-njals_saga,Ingjaldur frá Keldum,Þorsteinn Kolbeinsson,keep,,"Ingjaldur throws back the spear Flosi had thrown at him; aimed at Flosi, it kills Þorsteinn."
+KN057,brennu-njals_saga,Kári,Árni Kolsson,keep,,Battle at the Alþingi after the burning case.
+KN058,brennu-njals_saga,Þorgeir skorargeir,Þorvaldur Þrum-Ketilsson,keep,,Alþingi battle; Þorvaldur on Flosi's side.
+KN059,brennu-njals_saga,Flosi,Brúni Hafliðason,keep,,Alþingi battle.
+KN060,brennu-njals_saga,Kári,Eyjólfur Bölverksson,keep,,"Þorgeir urges Kári to ""launa honum hringinn"" (Eyjólfur took a bribe to defend the burners)."
+KN061,brennu-njals_saga,Þorgeir skorargeir,Þorkell Sigfússon,keep,,Kári and Þorgeir attack burners at Kringlumýri.
+KN062,brennu-njals_saga,Kári,Sigurður Lambason,keep,,
+KN063,brennu-njals_saga,Kári,Mörður Sigfússon,keep,,
+KN064,brennu-njals_saga,Þorgeir skorargeir,Leiðólfur sterki,keep,,"Joint killing: Þorgeir cleaved him to the chest, Kári then cut off his leg."
+KN065,brennu-njals_saga,Kári,Leiðólfur sterki,keep,,Contributing blow after Þorgeir's mortal stroke.
+KN066,brennu-njals_saga,Kári,Móðólfur Ketilsson,keep,,Kári and Björn í Mörk ambush burners by Skaftá.
+KN067,brennu-njals_saga,Kári,Lambi Sigurðarson,keep,,
+KN068,brennu-njals_saga,Kári,Gunnar úr Skál,keep,,Kári also kills Þorsteinn Geirleifsson in the same fight (not a candidate; check whether in dataset).
+KN069,brennu-njals_saga,Kári,Glúmur Hildisson,keep,,"Glúmur Hildisson, a burner; not Glúmur Óleifsson (KL005)."
+KN070,brennu-njals_saga,Kári,Vébrandur Þorfinnsson,keep,,"Death implied (run through), not stated explicitly."
+KN071,brennu-njals_saga,Bróðir,Brján konungur,keep,,"Text says the boy Taðkur raised his arm, which was cut off together with the king's head."
+KN072,reykdaela_saga_og_viga-skutu,Hrafn verkstjóri,Svartur,keep,,Raid to recover the oxen Vémundur had taken from Steingrímur.
+KN073,reykdaela_saga_og_viga-skutu,Vémundur kögur,Steinn Þorbjarnarson,keep,,Steinn took part with Gnúpur in killing Herjólfur (ch 13); that killing is not in the dataset. Fjörleif foretells vengeance.
+KN074,reykdaela_saga_og_viga-skutu,Þorbjörn úr Árskógi,Galti úr Arnarnesi,keep,,Also robbery of Galti's goods.
+KN075,reykdaela_saga_og_viga-skutu,Háls,Helgi Þorbjarnarson,keep,,Steingrímur's attack on Áskell's party at the ice of Eyjafjarðará; victim called 'Helgi úr Árskógi' in input (son of Þorbjörn).
+KN076,reykdaela_saga_og_viga-skutu,Glúmur Geirason,Þorsteinn Þorbergsson,keep,,Þorbergur planted a mare in Glúmur's barn and summoned him for theft; Glúmur struck when Þorsteinn shielded his father. Not Víga-Glúmur.
+KN077,reykdaela_saga_og_viga-skutu,Þorkell Geirason,Þorsteinn varastafur,keep,,Þorsteinn varastafur challenged Hallur after being refused his daughter.
+KN078,reykdaela_saga_og_viga-skutu,Ófeigur í Skörðum,Þorsteinn kvígur,keep,,Ófeigur challenged the opposing shield-bearer after the first duel.
+KN079,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þórir Ketilsson,keep,,Þórir is called 'son Ketils flatnefs'.
+KN080,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Ólafur,keep,,Outlaws sent by Þorgeir goði via Þorbergur to kill Skúta.
+KN081,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þorgautur,keep,,Accounts differ: marooned on a skerry or killed at once; both by Skúta.
+KN082,reykdaela_saga_og_viga-skutu,Bjarni Þorsteinsson,Þormóður,keep,,Þormóður sneered at the compensation for the blow Eyjólfur gave Bjarni at the horse-fight.
+KN083,reykdaela_saga_og_viga-skutu,Eyjólfur Þormóðsson,Bjarni Þorsteinsson,keep,,Not Eyjólfur Valgerðarson.
+KN084,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þrándur,keep,,Stand-off at Eyjarvað; thrown just after Már killed Skúta's friend Hávarður (KL194).
+KN085,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þorgeir Þórisson,keep,,Þorgeir set up an insulting pole on Skúta's booth site to lure him to the Althing for father-revenge.
+KN086,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Arnór smiður,keep,,Not Arnór úr Reykjahlíð. Skúta's housecarls killed the two hidden outlaws (unnamed hands).
+KN087,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Auðgísl,keep,,
+KN088,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Vestmaður,keep,,Pre-emptive strike against the ambush Þorgeir goði had laid.
+KN089,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Björn Þórisson,keep,,Killed in the attack that also killed Skúta (KL195).
+KN090,vatnsdaela_saga,Hrolleifur,Ingimundur gamli,keep,,Dispute over fishing in Vatnsdalsá; Ingimundur dies at home in his high seat.
+KN091,vatnsdaela_saga,Jökull Ingimundarson,Hrolleifur,keep,,Not the Jökull of KL092 (a forest robber in Gautland).
+KN092,vatnsdaela_saga,Jökull Ingimundarson,Þórólfur sleggja,keep,,Thief and sacrificer (also called heljarskinn) removed at the district's request ('héraðsbót').
+KN093,vatnsdaela_saga,Guðbrandur Þorsteinsson,Þórir sekur,keep,,"Þórir had just attacked Guðbrandur with an axe; Óttar (absent) paid compensation, Þórir ógildur."
+KN094,vatnsdaela_saga,Svartur suðureyski,Guðbrandur Þorsteinsson,keep,,"Hired killing on Óttar's behalf (Óttar absent), underlying cause Ingólfur's visits to Óttar's daughter Valgerður. Mutual killing: Guðbrandur cut Svartur in two (not in dataset). same_group yes because Svartur was living in Guðbrandur's household."
+KN095,gisla_saga_surssonar,Gísli Þorkelsson,Björn,keep,,Gísli (uncle of Gísli Súrsson) takes the holmgang to stop Björn taking Ari's land and wife; then marries Ari's widow Ingibjörg.
+KN096,gisla_saga_surssonar,Gísli Þorkelsson,Kolur,keep,,Mutual killing over the sword Grásíða; the reverse event Kolur > Gísli Þorkelsson is not in the dataset.
+KN097,gisla_saga_surssonar,Gísli,Bárður,keep,,Killed for dishonouring Þórdís; father Þorbjörn approved.
+KN098,gisla_saga_surssonar,Gísli,Kolbjörn,keep,,Burning led by 'þau Gísli' with 40 men from Friðarey; Gísli is the named leader (Þorkell may also have led).
+KN099,gisla_saga_surssonar,Gísli,Hólmgöngu-Skeggi,keep,,"Skeggi's sons Einar and Árni had led the burning; they were killed just before (Gísli killed three, Þorkell two, not individually named)."
+KN100,gisla_saga_surssonar,Þorgrímur,Þórarinn,keep,,The Austmen had killed Þorgrímur's son Þóroddur over a timber deal; Þorgrímur also kills Þórir (not in dataset).
+KN101,gisla_saga_surssonar,Gísli,Þorgrímur nef,keep,,Gísli seizes him and has him stoned to death (passive voice); Gísli present and leading.
+KN102,gisla_saga_surssonar,Þorgrímur Austmaður,Þórður huglausi,keep,,Mistaken for Gísli during Börkur's prosecution trip. In the same chapter Gísli kills Þóroddur and Þorgrímur Austmaður (not in dataset).
+KN103,gisla_saga_surssonar,Gísli,Saka-Steinn,keep,,
+KN104,gisla_saga_surssonar,Gísli,Njósnar-Helgi,keep,,Final attack on outlaw Gísli.
+KN105,gisla_saga_surssonar,Gísli,Þórður (frændi Eyjólfs),keep,,Gísli's last blow; he also kills Sveinn and others (unnamed/one named Sveinn not in dataset).
+KN106,gisla_saga_surssonar,Eyjólfur grái,Gísli,keep,,Eyjólfur led the attack; mortal spear-thrusts by 'þeir Eyjólfur og frændur hans'. This is the primary narration; KL169 (eyrbyggja_saga) is the same killing and looks like the passing reference.
+KN107,gisla_saga_surssonar,Ari Súrsson,Bergur,keep,,In Norway; Bergur names himself and his kin before Ari strikes.
+KN108,hallfredar_saga_vandraedaskalds,Óttar Þorvaldsson,Sokki,keep,,The viking Sokki had burned Óttar's father Þorvaldur and Ingjaldur (ch 1; burning not in the dataset). Óttar is Hallfreður's father.
+KN109,hallfredar_saga_vandraedaskalds,Hallfreður,Óttar upplenski,keep,,Drunken quarrel with an envious royal retainer in King Ólafur's hall.
+KN110,hallfredar_saga_vandraedaskalds,Hallfreður,Björn,keep,,"Björn, a farmer who offered Hallfreður lodging in Gautland, stabs at his bed; Hallfreður was waiting with drawn sword."
+KN111,hallfredar_saga_vandraedaskalds,Ávaldi,Sóti,keep,,"Wound narrated in ch 2; its fatality stated in the ch 12 retelling (""var það banasár""). Sóti is Sokki's brother; Ingjaldur was burned by Sokki's men. Ávaldi Ingjaldsson is Óttar's foster-brother."
+KN112,viga-glums_saga,Vigfús Glúmsson,Eysteinn berserkur,keep,,"Battle of Hrísateigur; the man in the skin cloak is Glúmur's outlawed son Vigfús. Þorvaldur tasaldi was only wounded (healed later), so Eysteinn > Þorvaldur tasaldi is NOT a killing. Eysteinn is listed among the five fallen Esphælingar."
+KN113,viglundar_saga,Trausti Þorgrímsson,Einar Hólmkelsson,keep,,"Both fell; Trausti survived his wounds, Einar was reported dead."
+KN114,viglundar_saga,Víglundur Þorgrímsson,Hákon,keep,,
+KN115,viglundar_saga,Víglundur Þorgrímsson,Jökull Hólmkelsson,keep,,
+KN116,hrafnkels_saga_freysgoda,Hrafnkell,Eyvindur Bjarnason,keep,,Hrafnkell led 18 men; individual blows not described. A maid's taunt ('að hefnd væri í honum') prompts the attack.
+KN117,grettis_saga,Önundur tréfótur,Vígbjóður,keep,,Sea battle at Bót; Vígbjóður dies of the arm wound (verse over the dying man).
+KN118,grettis_saga,Þorbjörn laxakappi,Ófeigur grettir Einarsson,keep,,"Killer also called laxakarl (ch3) and jarlakappi (ch10). Victim is Önundur tréfótur's father-in-law, distinct from his grandson Ófeigur grettir Önundarson (KN120). Brief narrative statement."
+KN119,grettis_saga,Þorgeir Önundarson,Þorfinnur húskarl Flosa,keep,,Þorfinnur declared ógildur at the settlement. Fight arose over a beached whale (property).
+KN120,grettis_saga,Ólafur Eyvindarson,Ófeigur grettir Önundarson,keep,,'Særði til ólífis' (mortally wounded); 'Ófeigur var bættur miklu fé' at settlement. Death not explicitly narrated.
+KN121,grettis_saga,Grettir,Hjarrandi,keep,,"Hjarrandi ambushed Grettir to avenge Björn; jarl later says Grettir 'hefir nú drepið þrjá bræður' (ch24), confirming death."
+KN122,grettis_saga,Grettir,Gunnar í Túnsbergi,keep,,Gunnar attacked Grettir in a booth to avenge his brothers. Byname added to distinguish from Gunnar Þórisson (KN124).
+KN123,grettis_saga,Þorgeir Hávarsson,Þorgils Máksson,cross_saga_duplicate,KL176,"Retelling (citing Þormóður's erfidrápa) of the whale-fight killing narrated in Fóstbræðra saga ch7 (KL176, Þorgils Mársson). Same killing."
+KN124,grettis_saga,Atli Ásmundarson,Gunnar Þórisson,keep,,Þórissynir ambushed Atli at Þorbjörn öxnamegin's urging.
+KN125,grettis_saga,Grímur Þórhallsson,Þorgeir Þórisson,keep,,Þorgeir was fleeing after his brother fell; killing settled at Húnavatnsþing (ch44).
+KN126,grettis_saga,Grettir,Þórir rauðskeggur,keep,,Rauðskeggur attacked Grettir with his own sword.
+KN127,grettis_saga,Grettir,Steinólfur Þorleifsson,keep,,Verse: 'Steinólfs höfuðskeina' cannot be healed; five men fell.
+KN128,grettis_saga,Grettir,Þorgils Ingjaldsson,keep,,Verse confirms death: 'Því er um Þorgils ævi þung von'.
+KN129,grettis_saga,Grettir,Víkar,keep,,"Same fight: Grettir also spears Kár, heimamaður of Halldór frá Hofi ('stóð þegar í gegnum hann'), which is not in the dataset."
+KN130,grettis_saga,Þorbjörn öngull,Illugi Ásmundarson,keep,,Öngull led the raid and decided Illugi's execution after he refused an oath not to take revenge; the blow is given by 'þeir' (unnamed).
+KN131,grettis_saga,Þorsteinn drómundur,Þorbjörn öngull,keep,,In Constantinople; Þorsteinn says he is Grettir's brother and has now achieved his revenge.
+KN132,faereyinga_saga,Þorkell þurrafrost,Þórálfur,keep,,Þórálfur and 30 men attack Þorkell on a hill; Þórálfur dies later of wounds and Þorkell is reported as his slayer (reported only).
+KN133,faereyinga_saga,Sigmundur,Randvér,keep,,Sea battle with the viking Randvér from Hólmgarður at Elfarsker.
+KN134,faereyinga_saga,Sigmundur,Björn (sýslumaður),keep,,Raid on Sweden ordered by Hákon jarl to avenge twelve Norwegian traders killed by King Eiríkur; Björn is the Swedish king's sýslumaður.
+KN135,faereyinga_saga,Þorgrímur illi,Sigmundur,keep,,"Input cited the ch 41 back-reference; the killing itself is narrated in ch 39 of this saga. Exhausted Sigmundur swims ashore after Þrándur's attack; Þorgrímur and his sons (Ormsteinn, Þorsteinn, who hold his hair) murder him for his gold ring. Þorgrímur strikes the blow."
+KN136,faereyinga_saga,Sigurður Þorláksson,Bjarngrímur,keep,,"Sigurður blames Bjarngrímur for the secret stabbing of Þórhallur (whose wife Birna Sigurður was seducing, and later married); saga hints suspicion fell on Sigurður himself. Gautur rauði kills the third brother Hergrímur in the same scene (not in input). Þórhallur's killer is unknown, so no kid."
+KN137,faereyinga_saga,Þórður lági,Hafgrímur (bróðir Bjarngríms),keep,,"Different Hafgrímur from the ch 7 Hafgrímur (KL058/KL059); one of three shipwrecked merchant brothers, sons of Arnljótur."
+KN138,faereyinga_saga,Björn (nábúi Sigurðar),Leifur Þórisson,keep,,"Debt-collecting quarrel; Björn's blow was aimed at Sigurður. Sigurður was the only witness and Þuríður and Þóra suspect Sigurður killed Leifur himself, hence partly/medium."
+KN139,faereyinga_saga,Sigurður Þorláksson,Björn (nábúi Sigurðar),keep,,"Immediate response to Björn's killing of Leifur, also self-defence (Björn attacked Sigurður)."
+KN140,faereyinga_saga,Sigurður Þorláksson,Heri Sigmundarson,keep,,"At the Skúfey meeting Heri runs out and throws a spear at Sigurður, who throws it back. Leifur Össurarson then mortally wounds Sigurður (not in input)."
+KN141,faereyinga_saga,Leifur Össurarson,Gautur rauði,keep,,Leifur attacks and burns the Straumsey farm the same evening; Gautur is kinsman of Heri's slayer Sigurður. Leifur then kills Þórður lági (not in input).
+KN142,faereyinga_saga,Þórður lági,Brandur Sigmundarson,keep,,During Leifur's attack on Straumsey; Þórður also kills two unnamed companions.
+KN143,bjarnar_saga_hitdaelakappa,Björn,Kaldimar,keep,,Single combat deciding a war over the kingdom of Garðaríki.
+KN144,bjarnar_saga_hitdaelakappa,Björn,Eyvindur,keep,,Ambush in Beruvíkurhraun. Brother Óttar also fell but his killer is not stated.
+KN145,bjarnar_saga_hitdaelakappa,Björn,Þorkell Dálksson,keep,,Þorkell recited Þórður's insulting Kolluvísur in Björn's hearing; Björn's plea at the Thing is that the reciter would fall óheilagur.
+KN146,bjarnar_saga_hitdaelakappa,Björn,Kolbeinn Þórðarson,keep,,Returned spear also kills an unnamed man.
+KN147,bjarnar_saga_hitdaelakappa,Björn,Þorvaldur Eiðsson,keep,,Final ambush on Björn at Hvítingshjalli.
+KN148,bjarnar_saga_hitdaelakappa,Björn,Þórður Eiðsson,keep,,Variant: some say he stabbed him with the shears.
+KN149,bjarnar_saga_hitdaelakappa,Björn,Grímur,keep,,Grímur took the blow meant for Þórður.
+KN150,bjarnar_saga_hitdaelakappa,Þórður Kolbeinsson,Björn,keep,,Kálfur dealt Björn a great wound first; Þórður dealt the final blows. Climax of a long rivalry; Dálkur also seeks revenge for his son.
+KN151,havardar_saga_isfirdings,Ólafur Hávarðsson,Skarfur,keep,,"Skarfur, sent by his mother Þórdís, strikes Ólafur from behind; Ólafur kills him before Þorbjörn deals Ólafur his death-wound (KL183)."
+KN152,havardar_saga_isfirdings,Brandur hinn sterki,Ánn,keep,,"Ambush at Laugaból by Hávarður's party; Brandur (Þorbjörn's homeman) strikes Ánn, foster-father of Hallgrímur, with a whale rib; Ánn reported dead (ch 11)."
+KN153,havardar_saga_isfirdings,Hallgrímur Ásbrandsson,Brandur hinn sterki,keep,,Hallgrímur (son of Hávarður's sister) sees his foster-father fall and immediately cleaves Brandur; also part of the attack to avenge Ólafur.
+KN154,havardar_saga_isfirdings,Hávarður,Þorbjörn Þjóðreksson,keep,,Input evidence sentence described Þorbjörn slipping; the killing blow follows (run through with Gunnlogi on the skerry). Hávarður explicitly recalls Ólafur's teeth.
+KN155,havardar_saga_isfirdings,Torfi Valbrandsson,Sturla Þjóðreksson,keep,,Torfi fights Sturla (Þorbjörn's brother) one-on-one; the death is only reported by Torfi (also unnamed housecarls). Hávarður's verse counts four slain for Ólafur.
+KN156,havardar_saga_isfirdings,Hávarður,Ljótur á Mánabergi,keep,,"Joint killing by Hávarður and Eyjólfur, each cuts off an arm. Ljótur is Þorbjörn's brother. Distinct from Hólmgöngu-Ljótur (another brother of Þorbjörn)."
+KN157,havardar_saga_isfirdings,Eyjólfur Valbrandsson,Ljótur á Mánabergi,keep,,Joint killing with Hávarður.
+KN158,havardar_saga_isfirdings,Þorsteinn Þorbjarnarson,Hólmgöngu-Ljótur,keep,,Ljótur had forced their father Þorbjörn to buy back his own share of a meadow; the boys call it arfrán. Joint killing. Þorsteinn (12) proposes and leads the attack. Ch 22 refers back to it.
+KN159,havardar_saga_isfirdings,Grímur Þorbjarnarson,Hólmgöngu-Ljótur,keep,,Ljótur had forced their father Þorbjörn to buy back his own share of a meadow; the boys call it arfrán. Joint killing. Grímur (10) cuts off Ljótur's hand. Ch 22 refers back to it.
+KN160,floamanna_saga,Leifur,Hersteinn Atlason,keep,,"Sea battle in Norway; Hersteinn (vowed to marry Helga, Ingólfur's sister) attacks Leifur. No individual striker named. Leifur leads the defending side."
+KN161,floamanna_saga,Ölmóður hinn gamli,Hersteinn Atlason,keep,,"Sea battle in Norway; Hersteinn (vowed to marry Helga, Ingólfur's sister) attacks Leifur. No individual striker named. Ölmóður Hörða-Kárason (Leifur's kinsman) arrives with five ships and fights with Leifur."
+KN162,floamanna_saga,Ingólfur,Hólmsteinn Atlason,keep,,"Hólmsteinn attacks Ingólfur and Leifur to avenge his brother Hersteinn and falls in the battle; no individual striker named. Hallsteinn's judgement: Hólmsteinn went for revenge, so the foster-brothers are exiled (Landnámabók link)."
+KN163,floamanna_saga,Leifur,Hólmsteinn Atlason,keep,,"Hólmsteinn attacks Ingólfur and Leifur to avenge his brother Hersteinn and falls in the battle; no individual striker named. Hallsteinn's judgement: Hólmsteinn went for revenge, so the foster-brothers are exiled (Landnámabók link)."
+KN164,floamanna_saga,Þórður Atlason,Hrafn Þorviðarson,keep,,Hrafn mortally wounded Atli in the woodland dispute (ch 7-8; that killing is not in the dataset). Þórður (15) avenges his father; settled with all claims cancelled.
+KN165,floamanna_saga,Þorgils,Surtur járnhaus,keep,,Duel (hólmganga) with a berserk viking who demanded the jarl's sister Guðrún; the jarl promised her to whoever killed Surtur. Surtur is a human berserk (brother of the dream-figure Auðunn).
+KN166,floamanna_saga,Helgi trausti,Þorgrímur örrabeinn,keep,,Helgi objects to Þorgrímur's visits to his mother as a dishonour to her and her kin; they fight at the crossroads.
+KN167,floamanna_saga,Hæringur Þorgrímsson,Helgi trausti,keep,,"Group attack at Helgahvoll; no individual striker named. Hæringur (17), son of the slain Þorgrímur, leads the avenging party. Settled, killings cancelled out."
+KN168,floamanna_saga,Teitur Ketilbjarnarson,Helgi trausti,keep,,"Group attack at Helgahvoll; no individual striker named. Teitur, Hæringur's frændi, co-leads the party of fifteen. Settled, killings cancelled out."
+KN169,floamanna_saga,Þorgils,Svartur,keep,,"Svartur, bribed by Ásgrímur, attacked Þorgils on the way home from a horse-fight."
+KN170,floamanna_saga,Kolur,Hallur,keep,,"Kolur (of Kálfaholt, Þorgils's follower) kills Eiríkur rauði's man Hallur, who mocked Þorgils in a mannjöfnuður at Brattahlíð."
+KN171,floamanna_saga,Þorgils,Gípar,keep,,Revenge for an insult/blow: the thrall Gípar struck Kolur with a drinking horn; Starkaður held back vengeance until Þorgils returned; host Anakol refused compensation. Group action led by Þorgils.
+KN172,floamanna_saga,Þorgils,Bjálfi,keep,,"Bjálfi (an Icelandic troublemaker, not the Greenland Bjálfi of ch 26) seduced Sámur's wife and challenged Sámur to a duel ""or give up your wife""; Þorgils takes Sámur's place."
+KN173,droplaugarsona_saga,Helgi Droplaugarson,Þórður skarfur,keep,,He hangs on the spear in the snowdrift all day; counted among the five dead of Helgi Ásbjarnarson's side (death implied).
+KN174,droplaugarsona_saga,Helgi hinn magri,Kári,keep,,Kári carried home on shields and a mound raised over him.
+KN175,droplaugarsona_saga,Össur,Helgi Droplaugarson,keep,,Össur had refused to fight Helgi but speared him when Helgi came at him.
+KN176,droplaugarsona_saga,Grímur Droplaugarson,Gaus,keep,,"Holmgang: Finngeir offered his sister to whoever killed Gaus, who had sought her. Gaus could blunt blades but is human. His mistress Gefjun later avenges him."
+KN177,gunnlaugs_saga_ormstungu,Gunnlaugur,Þórormur,keep,,Holmgang in England after Þórormur refused to repay a debt.
+KN178,gunnlaugs_saga_ormstungu,Hrafn Önundarson,Þorkell svarti,keep,,
+KN179,gunnlaugs_saga_ormstungu,Gunnlaugur,Hrafn Önundarson,keep,,Rivalry over Helga hin fagra; duel at Dinganes.
+KN180,gunnlaugs_saga_ormstungu,Hrafn Önundarson,Gunnlaugur,keep,,Gunnlaugur died three nights later.
+KN181,gunnlaugs_saga_ormstungu,Illugi svarti,Björn,keep,,Illugi led thirty men and gave the order; actual hand unnamed.
+KN182,egils_saga,Haraldur hárfagri,Þórólfur Kveldúlfsson,keep,,King burned and attacked Sandnes after slander by the Hildiríðarsynir that Þórólfur planned treason.
+KN183,egils_saga,Skalla-Grímur,Þórður Granason,keep,,Berserk rage at dusk during the game.
+KN184,egils_saga,Aðils jarl,Þórólfur Skalla-Grímsson,keep,,Battle of Vínheiði; the earl led the troop.
+KN185,egils_saga,Eiríkur blóðöx,Ólafur Haraldsson,keep,,Brief report; succession struggle.
+KN186,egils_saga,Eiríkur blóðöx,Sigurður Haraldsson,keep,,Brief report; succession struggle.
+KN187,egils_saga,Egill,Berg-Önundur,keep,,Dispute over Björn höldur's inheritance; Egill was outlawed by Eiríkur.
+KN188,egils_saga,Egill,Fróði,keep,,
+KN189,egils_saga,Egill,Haddur,keep,,
+KN190,egils_saga,Egill,Ljótur bleiki,keep,,Ljótur challenged Friðgeir after being refused his sister.
+KN191,egils_saga,Egill,Atli skammi,keep,,Holmgang over Ásgerður's inheritance held by Atli.
+KN192,eyrbyggja_saga,Þórólfur bægifótur,Úlfar kappi,keep,,Þórólfur challenged the old childless Úlfar for his land and took it.
+KN193,eyrbyggja_saga,Víga-Styr,Þorbjörn kjálki,keep,,"Brief; the berserks broke open his lock-bed, Styr struck. Reason not given."
+KN194,eyrbyggja_saga,Snorri goði,Vigfús í Drápuhlíð,keep,,Snorri led seven men; the blow is not assigned. Verse: 'Felldi fólksvaldi ... Vigfús'.
+KN195,eyrbyggja_saga,Víga-Styr,Halli berserkur,keep,,Swedish berserk but human; same household as followers of Styr.
+KN196,eyrbyggja_saga,Víga-Styr,Leiknir berserkur,keep,,Killed with his brother to end Halli's suit for Ásdís.
+KN197,eyrbyggja_saga,Arnkell,Þorleifur austfirski,keep,,Þorleifur attacked Arnkell with an axe; rumoured to be sent by Snorri goði (hence F3). Not Þorleifur kimbi.
+KN198,eyrbyggja_saga,Steinþór,Freysteinn bófi,keep,,"Fight on the ice at Vigrafjörður between Steinþór of Eyri's men and the Þorbrandssynir, an outgrowth of the Arnkell/Snorri feud; Freysteinn attacked Steinþór."
+KN199,eyrbyggja_saga,Þrándur stígandi,Hrafn víkingur,keep,,Suppression of a raiding band at its fort in Bitra; Hrafn dies of the wound.
+KN200,eyrbyggja_saga,Sturla Þjóðreksson,Óspakur Kjallaksson,keep,,Sturla wants it said that he alone was Óspakur's banamaður.
+KN201,hardar_saga_og_holmverja,Geir,Arnþór,keep,,Quarrel over Geir's cloak; Arnþór bled to death.
+KN202,hardar_saga_og_holmverja,Hörður,Auður,keep,,"Auður refused Hörður's offer of self-judgement for his son (killed by Helgi Sigmundarson, not in dataset) and gave the case to Torfi. Húskarl unnamed; two women burned unnamed."
+KN203,hardar_saga_og_holmverja,Hörður,Skroppa,drop,,Witch killed in the shape of a sow: excluded by dataset rules.
+KN204,hardar_saga_og_holmverja,Þorvaldur bláskeggur,Sigurður Torfafóstri,keep,,Mutual killing at Bláskeggsár; district men vs Hólmverjar.
+KN205,hardar_saga_og_holmverja,Sigurður Torfafóstri,Þorvaldur bláskeggur,keep,,
+KN206,hardar_saga_og_holmverja,Ormur austmaður,Geir,keep,,Geir lured ashore by Kjartan Kötluson's false truce.
+KN207,hardar_saga_og_holmverja,Hörður,Kjartan Kötluson,keep,,"Kjartan had betrayed the Hólmverjar; ""skamma stund skaltu eiga að fagna þessum svikum""."
+KN208,hardar_saga_og_holmverja,Hörður,Helgi Sigmundarson,keep,,Mercy/honour killing so the enemies cannot kill him; Helgi was nearly dead already. Sworn vs. none is uncertain (no oath described).
+KN209,hardar_saga_og_holmverja,Indriði Þorvaldsson,Þorsteinn gullknappur,keep,,Done at wife Þorbjörg's demand as atonement.
+KN210,heidarviga_saga,Styr,Þorbjörn kjálki,keep,,Long-standing dispute; Styr 'vilji launa hönum margar skapraunir'.
+KN211,heidarviga_saga,Styr,Halli,keep,,The berserks demanded wives (Leiknir wanted Styr's daughter); Leiknir burst in the scalding bath (not in input).
+KN212,heidarviga_saga,Styr,Einar,keep,,"Styr seized Einar's Akureyjar; Þórhalli of Jörvi had sheltered Einar, leading to KL147. Name only remembered by the reteller ('minnir mig')."
+KN213,heidarviga_saga,Snorri goði,Þorsteinn Gíslason,keep,,Snorri led four men; also narrated in Eyrbyggja saga (not in all_killings_other_sagas).
+KN214,heidarviga_saga,Barði Guðmundsson,Ketill brúsi,keep,,
+KN215,heidarviga_saga,Barði Guðmundsson,Þorgautur,keep,,
+KN216,heidarviga_saga,Barði Guðmundsson,Þorbjörn Brúnason,keep,,
+KN217,heidarviga_saga,Barði Guðmundsson,Tanni hinn handrammi,keep,,
+KN218,gunnars_saga_keldugnupsfifls,Gunnar,Jökull Þorgrímsson,keep,,Gunnar returned to kill them after they ambushed him with fifteen men and long insults.
+KN219,gunnars_saga_keldugnupsfifls,Gunnar,Grímur Þorgrímsson,keep,,
+KN220,gunnars_saga_keldugnupsfifls,Gunnar,Jökull víkingur,keep,,
+KN221,gunnars_saga_keldugnupsfifls,Helgi Þorbjarnarson,Svartur víkingur,keep,,Retold in ch 14 (second version); one killing.
+KN222,bardar_saga_snaefellsass,Bárður Snæfellsás,Rauðfeldur Þorkelsson,keep,,"Bárður is half-giant but lives as a human, so counts. Revenge for Rauðfeldur pushing his daughter Helga out on an ice floe (she survived, in Greenland). Boys aged 11-12. Þorkell then fights Bárður (non-fatal)."
+KN223,bardar_saga_snaefellsass,Bárður Snæfellsás,Sölvi Þorkelsson,keep,,"Bárður is half-giant but lives as a human, so counts. Revenge for Rauðfeldur pushing his daughter Helga out on an ice floe (she survived, in Greenland). Boys aged 11-12. Þorkell then fights Bárður (non-fatal)."
+KN224,bardar_saga_snaefellsass,Einar Sigmundarson,Lón-Einar,keep,,Lón-Einar summoned Einar's mother Hildigunnur for sorcery; Einar pursues and kills him (seven of Lón-Einar's men fall; Einar's slave Hreiðar kills two unnamed thralls).
+KN225,bardar_saga_snaefellsass,Þorvaldur Oddsson,Blund-Ketill,cross_saga_duplicate,,"Genealogical passing reference to the burning of Blund-Ketill narrated in Hænsa-Þóris saga; that killing is not in all_killings_other_sagas, so no kid can be given (effectively drop for this saga)."
+KN226,kjalnesinga_saga,Þorgrímur goði,Andríður,keep,,Þorgrímur led the raid and was present; executor unnamed. Búi had killed Þorgrímur's son Þorsteinn and burned the temple (that killing is missing from the dataset).
+KN227,kjalnesinga_saga,Búi Andríðsson,Kolfinnur,keep,,Kolfinnur ambushed Búi with eleven men.
+KN228,kjalnesinga_saga,Jökull Búason,Búi Andríðsson,drop,,"Dropped: the fatal fall is caused by the giantess's magic ('mátti móðir þín eigi hlutlaust láta vera'), not by a blow; wrestling, Búi dies three nights later. Reconsider if magically aided deaths are to count."
+KN229,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Naddur Þórhaddsson,keep,,"Þorsteinn takes vengeance for Þórhaddur's insults (illmæli) and the failed settlement, killing three sons of Þórhaddur at Kársstaðir. Chapter breaks off in a lacuna."
+KN230,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Þorvarður Þórhaddsson,keep,,"Þorsteinn takes vengeance for Þórhaddur's insults (illmæli) and the failed settlement, killing three sons of Þórhaddur at Kársstaðir. Chapter breaks off in a lacuna."
+KN231,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Helgi Þórhaddsson,keep,,"Þorsteinn takes vengeance for Þórhaddur's insults (illmæli) and the failed settlement, killing three sons of Þórhaddur at Kársstaðir. Sigurður hinn auðgi had also speared Helgi but Þorsteinn claims the death-blow. Chapter breaks off in a lacuna."
+KN232,fostbraedra_saga,Þorgeir Hávarsson,Butraldi,keep,,Taunt 'Rann kappinn nú?'; companions dare not avenge him.
+KN233,fostbraedra_saga,Þorgeir Hávarsson,Bjarni Skúfsson,keep,,Primary narration. KL127 (grettis_saga ch27) is a one-line passing reference to this killing and should probably be its cross_saga_duplicate.
+KN234,fostbraedra_saga,Þorgeir Hávarsson,Skúfur sauðamaður,keep,,Shepherd attacked Þorgeir after Bjarni fell. KL126 (grettis_saga ch27) is a passing reference to this killing.
+KN235,fostbraedra_saga,Þorgeir Hávarsson,Hækil-Snorri,keep,,Snorri wounded Þorgeir's packhorses in his hayfield. Þorgeir also kills Snorri's two unnamed housecarls.
+KN236,fostbraedra_saga,Þorgeir Hávarsson,Þórir á Hrófá,keep,,"King Ólafur ordered the revenge but was absent, so Þorgeir is the killer. The avenged man was wounded, not killed."
+KN237,fostbraedra_saga,Þórarinn ofsi,Þorgeir Hávarsson,keep,,Joint killing with Þorgrímur trölli (KN238); both struck Þorgeir down.
+KN238,fostbraedra_saga,Þorgrímur,Þorgeir Hávarsson,keep,,"Þorgrímur trölli Einarsson (existing person 'Þorgrímur', later killed by Þormóður, KL181) promised Þórarinn help with the revenge."
+KN239,fostbraedra_saga,Þorgeir Hávarsson,Már,keep,,Distinct from Þórir austmaður (KL179).
+KN240,fostbraedra_saga,Þormóður Bersason,Þorkell Hámundarson,keep,,Part of Þormóður's revenge for Þorgeir in Greenland. Brother Falgeir drowns grappling with Þormóður (not a weapon killing).
+KN241,fostbraedra_saga,Þormóður Bersason,Þórður Hámundarson,keep,,Counted among the 'þrír kappar' killed that evening (Skúfur's remark).
+KN242,fostbraedra_saga,Þormóður Bersason,Ljótur Þórunnarson,keep,,Joint attack by Þormóður and Gestur (Helgu-Steinar); the blow is not assigned. Ljótur had wounded Þormóður earlier (ch30).
+KN243,fostbraedra_saga,Gestur (Helgu-Steinar),Ljótur Þórunnarson,keep,,Steinar went to Greenland under the name Gestur 'að hefna Þorgeirs Hávarssonar' (ch31).
+KN244,laxdaela_saga,Ólafur pái,Stígandi,keep,,Ólafur led the party that captured the outlawed sorcerer and thief Stígandi; group stoning. Stígandi's family had earlier killed Kári Hrútsson by sorcery (excluded).
+KN245,laxdaela_saga,Kjartan Ólafsson,Guðlaugur,keep,,Ambush in Svínadalur.
+KN246,laxdaela_saga,Bolli Þorleiksson,Án hrísmagi,keep,,Án led the entry into the shieling to avenge Kjartan.
+KN247,laxdaela_saga,Helgi Harðbeinsson,Bolli Þorleiksson,keep,,"Gave the death wound (banasár, confirmed ch61). Attack led by Halldór Ólafsson; Bolli's killing is not in the existing dataset."
+KN248,laxdaela_saga,Steinþór Ólafsson,Bolli Þorleiksson,keep,,Beheaded the mortally wounded Bolli.
+KN249,laxdaela_saga,Helgi Harðbeinsson,Hrappur,keep,,Not Víga-Hrappur of Njáls saga.
+KN250,laxdaela_saga,Bolli,Helgi Harðbeinsson,keep,,"Bolli Bollason (the existing name ""Bolli"")."
+KN251,laxdaela_saga,Þorleikur Bollason,Eyjólfur,keep,,
+KN252,laxdaela_saga,Halldór (fóstbróðir Þorgils),Auðgísl,keep,,Immediate retaliation at the Alþingi.
+KN253,laxdaela_saga,Bolli,Helgi af Skeiði,keep,,Bolla þáttur; Helgi joined Þorsteinn's ambush. Death implied (hangs dead in the river on the spear).
+KN254,gull-thoris_saga,Askmaður,Már Hallvarðsson,keep,,"Hired killing: Hof-Hallur (absent, excluded) paid Askmaður and Kýlan three marks to kill one of Þórir's foster-brothers; Askmaður dealt the fatal spear-thrust."
+KN255,gull-thoris_saga,Hólmgöngu-Kýlan,Már Hallvarðsson,keep,,"Joint ambush; Kýlan cut off both hands, Askmaður gave the fatal thrust. Hired by Hof-Hallur. NB the text also narrates Þórir killing Kýlan (spear in the back, ch 10), not in input."
+KN256,gull-thoris_saga,Þórir,Askmaður,drop,,Victim killed in animal (boar) shape; excluded under the shape-shifter rule (cf. the witch killed as a sow).
+KN257,gull-thoris_saga,Þórir,Rauður Hallsson,keep,,Rauður and Steinólfur's hired men ambushed Þórir and Ketilbjörn (ambush part in a 19th-c. lacuna filling; the killing itself is original text). Settled as equal to the wounding of Þorsteinn.
+KN258,gull-thoris_saga,Guðmundur,Örn Þorbjarnarson,keep,,"Þórir comes to Uppsalir to take back property seized by Þorbjörn stokkur (Hof-Hallur's tenant on Þórir's patrimony); Guðmundur kills Örn, who was running to fetch Hallur. Örn compensated with 100 silver."
+KN259,gull-thoris_saga,Þórir,Þorbjörn stokkur,keep,,Þorbjörn stokkur had been placed by Hof-Hallur on Þórir's family farm and had seized Þórir's goods.
+KN260,gull-thoris_saga,Gunnar,Jósteinn Ólafsson,keep,,"Battle at Króksfjarðarnes; Jósteinn is son of Ólafur belgur of Ólafsdalur (ally of Steinólfur). Same battle: Þórir kills Þorgeir and Ólafur, Gunnar kills Árni (not in input)."
+KN261,gull-thoris_saga,Steinólfur,Þórarinn krókur,keep,,"Victim is Þórarinn krókur (landnámsmaður in Króksfjörður, Þórir's ally who pursued Steinólfur by boat), not Þórarinn ákafi. Group battle; no individual striker named; Steinólfur, Kjallakur and Knútur lead the winning side. Þórarinn and Steinólfur were also at odds over Steinólfsdalur."
+KN262,gull-thoris_saga,Kjallakur,Þórarinn krókur,keep,,"Victim is Þórarinn krókur (landnámsmaður in Króksfjörður, Þórir's ally who pursued Steinólfur by boat), not Þórarinn ákafi. Group battle; no individual striker named; Steinólfur, Kjallakur and Knútur lead the winning side. Þórarinn and Steinólfur were also at odds over Steinólfsdalur."
+KN263,gull-thoris_saga,Knútur,Þórarinn krókur,keep,,"Victim is Þórarinn krókur (landnámsmaður in Króksfjörður, Þórir's ally who pursued Steinólfur by boat), not Þórarinn ákafi. Group battle; no individual striker named; Steinólfur, Kjallakur and Knútur lead the winning side. Þórarinn and Steinólfur were also at odds over Steinólfsdalur."
+KN264,gull-thoris_saga,Gunnar,Hrómundur í Gröf,keep,,"Quarrel between Þórir and Hrómundur over sheep grazing; Gunnar strikes in, Þórir angrily expels him. (Þórir had a son, Atli, by Hrómundur's wife.)"
+KN265,gull-thoris_saga,Þórir,Þormóður,keep,,"Þormóður, a northern outlaw taken in by Helgi of Hjallar on condition he attack Þórir, ambushed him. Þórir then kills Helgi (existing KL140)."
+KN266,gull-thoris_saga,Hof-Hallur,Ásmundur Naðursson,keep,,Night attack/burning at Tunga led by Steinólfur and Hallur to weaken Þórir by killing his foster-brothers (Hallur's plan).
+KN267,gull-thoris_saga,Steinólfur,Ketilbjörn Gillason,keep,,Same attack at Tunga. Steinólfur gives the crippling blow; Ketilbjörn kills two more before falling; death confirmed (Þórir buries him and vows vengeance).
+KN268,gull-thoris_saga,Gunnar,Þorgils Þorbjarnarson,keep,,"Fragmentary chapter (manuscript leaf missing). Battle vs the Djúpfirðingar (Þrándur son of Helgi of Hjallar, Styrkár, Kerling, Þorgils son of Þorbjörn loki). Grímur = Vafspjara-Grímur Eyjólfsson of Múli. Joint kill credited to both."
+KN269,gull-thoris_saga,Grímur Eyjólfsson,Þorgils Þorbjarnarson,keep,,"Fragmentary chapter (manuscript leaf missing). Battle vs the Djúpfirðingar (Þrándur son of Helgi of Hjallar, Styrkár, Kerling, Þorgils son of Þorbjörn loki). Grímur = Vafspjara-Grímur Eyjólfsson of Múli. Joint kill credited to both."
+KN270,finnboga_saga_ramma,Finnbogi,Þorsteinn Brettingsson,keep,,Brettingssons and Ingasons attack Finnbogi on the ridge (Finnbogakambur).
+KN271,finnboga_saga_ramma,Finnbogi,Grímur Brettingsson,keep,,
+KN272,finnboga_saga_ramma,Finnbogi,Þorvaldur moðskegg,keep,,"Þorvaldur had just dashed out both boys' brains (not in dataset). Called 'eigi einhamur' and a troll by the boy, but lives as a man."
+KN273,finnboga_saga_ramma,Þórarinn,Þorkell Sigurðarson,keep,,Þórarinn goði of Víðimýri and two men attack Þorkell; who struck the blow not stated.
+KN274,finnboga_saga_ramma,Finnbogi,Kolur,keep,,Joint killing with Bergur (KN275).
+KN275,finnboga_saga_ramma,Bergur,Kolur,keep,,Bergur's spear felled him; Finnbogi gave the death blow (KN274).
+KN276,finnboga_saga_ramma,Finnbogi,Þórarinn,keep,,
+KN277,finnboga_saga_ramma,Gunnbjörn Finnbogason,Rauður víkingur,keep,,
+KN278,finnboga_saga_ramma,Finnbogi,Bersi,keep,,Jökull and Bersi ambushed Finnbogi's son Gunnbjörn; Finnbogi came to his aid.
+KN279,finnboga_saga_ramma,Finnbogi,Þorbjörn sleggja,keep,,
+KN280,fljotsdaela_saga,Helgi Droplaugarson,Þorgrímur tordýfill,cross_saga_duplicate,KL106,"Same killing as KL106 (Droplaugarsona saga, Þorgrímur tordýfill). Fully narrated here too, not a passing reference."
+KN281,fljotsdaela_saga,Þiðrandi Geitisson,Ketill þrymur,keep,,Ketill attacked Þiðrandi after Gunnsteinn Kóreksson's spear-throw at his servant Ásbjörn; Þiðrandi repeatedly offered terms. Ketill's son is Þorkell (fullspakur).
+KN282,hrana_saga_hrings,Hrani,Kári (Hróaldur's follower),keep,,
+KN283,hrana_saga_hrings,Hrani,Hróaldur,keep,,Hróaldur galti came to avenge his brother Sigfús (KL080).
+KN284,hrana_saga_hrings,Eysteinn harðverkr,Grímr járnkarl,keep,,"Killing credited to Eysteinn as leader of the force; no individual blow named. Grímr was ""seiðmagnaðr"" but human."
+KN285,hrana_saga_hrings,Hrani,Arnhöfði,keep,,"""segir eigi framar af honum""; next paragraph ""höfðu fellt bræðr""."
+KN286,hrana_saga_hrings,Einarr Sölvason,Hildir,keep,,
+KN287,vopnfirdinga_saga,Brodd-Helgi,Svartur,keep,,Svartur had been outlawed (on Brodd-Helgi's prosecution) for killing Skíði and was stealing Hof's sheep; Brodd-Helgi was 12.
+KN288,vopnfirdinga_saga,Brodd-Helgi,Þormóður stikublindur,keep,,Dispute over a shared wood; killed while summoning Þórður at Hof.
+KN289,vopnfirdinga_saga,Blængur,Birningur,keep,,Battle in Böðvarsdalur between Þorkell Geitisson's party (avenging Geitir) and Bjarni's party.
+KN290,vopnfirdinga_saga,Bjarni,Blængur,keep,,"Blængur attacked Bjarni; kin-killing within the Hofsverjar/Krossvíkingar feud (cf. KL102 Bjarni > Geitir, also blood)."
+KN291,haensna-thoris_saga,Þorvaldur Oddsson,Blund-Ketill,keep,,"Burning led by ""þeir Þorvaldur"" with Þórir and Arngrímur. Helgi Arngrímsson was shot by Blund-Ketill's guest Örn (killing not in dataset, so no avenges_kid)."
+KN292,haensna-thoris_saga,Hænsna-Þórir,Blund-Ketill,keep,,"Þórir instigated the burning (""Brenni, brenni Blund-Ketil inni"")."
+KN293,haensna-thoris_saga,Arngrímur goði,Blund-Ketill,keep,,Arngrímur was outlawed for the burning.
+KN294,haensna-thoris_saga,Hersteinn Blund-Ketilsson,Hænsna-Þórir,keep,,Þórir's ambush on Hersteinn turned; the twelve men are unnamed.
+KN295,valla-ljots_saga,Halli,Torfi,keep,,Torfi compared Halli to a sow; Halli also opposed the marriage as beneath the family.
+KN296,valla-ljots_saga,Eyjólfur Þorsteinsson,Böðvar,keep,,They tell Ljótur 'að þeir hafa mannhefndir framdar eftir frændur þeirra'. Böðvar is brother of Hrólfur gípa and Halli. Avenged killing is not in the dataset.
+KN297,valla-ljots_saga,Bessi,Sigmundur,keep,,Sigmundur had alerted the attackers; Bessi killed him in the ambush before Björn killed Bessi (KL091).

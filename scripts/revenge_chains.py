@@ -18,12 +18,15 @@ import csv, re, random, statistics, collections
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+import os
+KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv = original keyword set only
+
 A, FIG = ROOT / "data/analysis", ROOT / "figures"
 N, SEED = 1000, 2805
 import sys
 DEPTH = int(sys.argv[1]) if len(sys.argv) > 1 else 1   # 1 = direct ties only (main); 2 = also 2-step paths (loose)
 AMBIGUOUS = {("brennu-njals_saga", "Egill"), ("brennu-njals_saga", "Kolur")}  # several different men share these names
-kill = [dict(r, ch=int(re.findall(r"\d+", r["chapter"])[0])) for r in csv.DictReader(open(ROOT / "data/final/killings_final.csv", encoding="utf-8"))]
+kill = [dict(r, ch=int(re.findall(r"\d+", r["chapter"])[0])) for r in csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8"))]
 grp = {(r["saga"], r["name"]): r["family_group"] for r in csv.DictReader(open(A / "persons.csv", encoding="utf-8"))}
 adj = collections.defaultdict(dict)
 RANK = {"blood": 0, "foster": 1, "affinity": 2}

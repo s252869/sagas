@@ -11,8 +11,11 @@ from pathlib import Path
 import networkx as nx
 
 ROOT = Path(__file__).resolve().parents[1]
+import os
+KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv = original keyword set only
+
 A, FIG = ROOT / "data/analysis", ROOT / "figures"
-kill = list(csv.DictReader(open(ROOT / "data/final/killings_final.csv", encoding="utf-8")))
+kill = list(csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8")))
 fam = [e for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")) if e["layer"] in ("blood", "affinity", "foster")]
 NICE = {"brennu-njals_saga": "Njáls saga", "laxdaela_saga": "Laxdæla saga", "egils_saga": "Egils saga", "grettis_saga": "Grettis saga",
         "eyrbyggja_saga": "Eyrbyggja saga", "vatnsdaela_saga": "Vatnsdæla saga", "gisla_saga_surssonar": "Gísla saga",

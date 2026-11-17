@@ -13,6 +13,9 @@ from pathlib import Path
 import openpyxl
 
 ROOT = Path(__file__).resolve().parents[1]
+import os
+KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv = original keyword set only
+
 OUT = ROOT / "data/analysis"; OUT.mkdir(parents=True, exist_ok=True)
 alias = {(r["saga"], r["name"]): r["canonical"] for r in csv.DictReader(open(ROOT / "data/final/aliases.csv", encoding="utf-8"))}
 canon = lambda s, n: alias.get((s, n), n)
@@ -53,7 +56,21 @@ for p in ["person1", "person2", "person3"]:
                 if n != me:
                     edges.add((saga, *sorted([me, n]), layer))
 
-kill = list(csv.DictReader(open(ROOT / "data/final/killings_final.csv", encoding="utf-8")))
+import json as _json
+_np = ROOT / "data/extension/new_people.json"
+if KILLINGS == "killings_all.csv" and _np.exists():
+    for d in _json.loads(_np.read_text(encoding="utf-8")):
+        saga = d["saga"]; me = canon(saga, d["name"])
+        if (saga, me) not in persons:
+            persons[(saga, me)] = {"saga": saga, "name": me, "family_group": norm_group(d.get("family_group")), "status": d.get("status") or ""}
+        for col, layer in {"parents": "blood", "siblings": "blood", "children": "blood", "spouses": "affinity", "in_laws": "affinity",
+                           "foster_sworn": "foster", "other_kin": "other"}.items():
+            for n in names(d.get(col)):
+                n = canon(saga, n)
+                if n != me:
+                    edges.add((saga, *sorted([me, n]), layer))
+
+kill = list(csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8")))
 part = {(r["saga"], n) for r in kill for n in (r["killer"], r["victim"])}
 for key in part:
     persons.setdefault(key, {"saga": key[0], "name": key[1], "family_group": "", "status": "not in family sheets"})

@@ -1,0 +1,298 @@
+kid,saga,killer,victim,chapter,n_sentences,cids
+KN001,brennu-njals_saga,Hrútur,Ásólfur,5,1,brennu-njals_saga:x211
+KN002,brennu-njals_saga,Hrútur,Atli Arnviðarson,5,1,brennu-njals_saga:x221
+KN003,brennu-njals_saga,Gunnar,Vandill,30,1,brennu-njals_saga:x1133
+KN004,brennu-njals_saga,Gunnar,Kolskeggur víkingur,30,1,brennu-njals_saga:x1175
+KN005,brennu-njals_saga,Grímur Njálsson,Skjöldur,45,1,brennu-njals_saga:x1868
+KN006,brennu-njals_saga,Helgi Njálsson,Skjöldur,45,1,brennu-njals_saga:x1868
+KN007,brennu-njals_saga,Hallkell (brother of Ketilbjörn),Grímur í Grímsnesi,47,1,brennu-njals_saga:x1926
+KN008,brennu-njals_saga,Gunnar,Úlfhéðinn,63,1,brennu-njals_saga:x2592
+KN009,brennu-njals_saga,Kolskeggur,Ögmundur flóki,72,1,brennu-njals_saga:x2885
+KN010,brennu-njals_saga,Gunnar,Þorgrímur austmaður,77,1,brennu-njals_saga:x3029
+KN011,brennu-njals_saga,Hróaldur,Gunnar,77,1,brennu-njals_saga:x3084
+KN012,brennu-njals_saga,Snækólfur,Ólafur,84,1,brennu-njals_saga:x3290
+KN013,brennu-njals_saga,Kári,Snækólfur,84,1,brennu-njals_saga:x3309
+KN014,brennu-njals_saga,Helgi Njálsson,Grjótgarður,84,1,brennu-njals_saga:x3313
+KN015,thordar_saga_hredu,Hróaldur Ögmundarson,Klyppur,1,2,thordar_saga_hredu:x54 thordar_saga_hredu:x69
+KN016,thordar_saga_hredu,Þórður hreða,Hróaldur Ögmundarson,1,1,thordar_saga_hredu:x59
+KN017,thordar_saga_hredu,Þórður hreða,Auðólfur,4,2,thordar_saga_hredu:x336 thordar_saga_hredu:x337
+KN018,thordar_saga_hredu,Þórður hreða,Sigurður austmaður,7,1,thordar_saga_hredu:x630
+KN019,thordar_saga_hredu,Þórður hreða,Þorfinnur,7,1,thordar_saga_hredu:x633
+KN020,thordar_saga_hredu,Þórður hreða,Örn,8,1,thordar_saga_hredu:x779
+KN021,thordar_saga_hredu,Þórður hreða,Hafþór,8,2,thordar_saga_hredu:x780 thordar_saga_hredu:x781
+KN022,thordar_saga_hredu,Skeggi,Þórhallur,10,1,thordar_saga_hredu:x985
+KN023,svarfdaela_saga,Þorsteinn svörfuður,Ljótur hinn bleiki,5,3,svarfdaela_saga:x179 svarfdaela_saga:x320 svarfdaela_saga:x401
+KN024,svarfdaela_saga,Þorsteinn svörfuður,Moldi,9,1,svarfdaela_saga:x333
+KN025,svarfdaela_saga,Klaufi,Þórður fangari,16,1,svarfdaela_saga:x548
+KN026,svarfdaela_saga,Helgi hinn magri,Þorkatla hin gamla,17,1,svarfdaela_saga:x557
+KN027,svarfdaela_saga,Klaufi,Björn (húskarl Hrólfs),17,1,svarfdaela_saga:x577
+KN028,svarfdaela_saga,Klaufi,Atli víkingur,18,1,svarfdaela_saga:x611
+KN029,svarfdaela_saga,Þorleifur Ásgeirsson,Klaufi,22,1,svarfdaela_saga:x777
+KN030,svarfdaela_saga,Ólafur Ásgeirsson,Klaufi,22,1,svarfdaela_saga:x777
+KN031,svarfdaela_saga,Karl hinn rauði,Grís,23,1,svarfdaela_saga:x827
+KN032,svarfdaela_saga,Karl hinn rauði,Geiri,25,1,svarfdaela_saga:x966
+KN033,svarfdaela_saga,Skíði,Karl hinn rauði,26,1,svarfdaela_saga:x1034
+KN034,svarfdaela_saga,Karl ungi,Þorkell Skíðason,29,2,svarfdaela_saga:x1144 svarfdaela_saga:x1326
+KN035,kormaks_saga,Kormákur,Oddur,5,1,kormaks_saga:x187
+KN036,kormaks_saga,Kormákur,Guðmundur,5,1,kormaks_saga:x187
+KN037,kormaks_saga,Bersi,Þorkell,14,1,kormaks_saga:x614
+KN038,kormaks_saga,Bersi,Þórarinn rammi,15,2,kormaks_saga:x665 kormaks_saga:x685
+KN039,kormaks_saga,Bersi,Loftur,15,1,kormaks_saga:x677
+KN040,kormaks_saga,Bersi,Skofti,15,1,kormaks_saga:x677
+KN041,kormaks_saga,Kormákur,Narfi,20,1,kormaks_saga:x901
+KN042,ljosvetninga_saga,Söxólfur,Sigurður,1,1,ljosvetninga_saga:x41
+KN043,ljosvetninga_saga,Höskuldur Þorgeirsson,Sölmundur,4,1,ljosvetninga_saga:x167
+KN044,ljosvetninga_saga,Guðmundur ríki,Þorkell hákur,22,1,ljosvetninga_saga:x1045
+KN045,ljosvetninga_saga,Hallur Ótryggsson,Koðrán Guðmundarson,27,1,ljosvetninga_saga:x1543
+KN046,ljosvetninga_saga,Þormóður,Hallur Ótryggsson,33,1,ljosvetninga_saga:x1957
+KN047,kroka-refs_saga,Refur,Gellir,6,2,kroka-refs_saga:x225 kroka-refs_saga:x229
+KN048,graenlendinga_saga,Freydís Eiríksdóttir,Helgi,0,1,graenlendinga_saga:x361
+KN049,graenlendinga_saga,Freydís Eiríksdóttir,Finnbogi,0,1,graenlendinga_saga:x361
+KN050,brennu-njals_saga,Grímur Njálsson,Hrappur,92,1,brennu-njals_saga:x3886
+KN051,brennu-njals_saga,Kári,Tjörvi (Þráinn's companion),92,1,brennu-njals_saga:x3889
+KN052,brennu-njals_saga,Þangbrandur,Þorvaldur veili,102,1,brennu-njals_saga:x4257
+KN053,brennu-njals_saga,Guðleifur,Þorvaldur veili,102,1,brennu-njals_saga:x4257
+KN054,brennu-njals_saga,Eiríkur örðigskeggi,Grjótgarður,119,1,brennu-njals_saga:x4810
+KN055,brennu-njals_saga,Flosi,Grímur Njálsson,130,1,brennu-njals_saga:x5315
+KN056,brennu-njals_saga,Ingjaldur frá Keldum,Þorsteinn Kolbeinsson,130,1,brennu-njals_saga:x5386
+KN057,brennu-njals_saga,Kári,Árni Kolsson,145,2,brennu-njals_saga:x6309 brennu-njals_saga:x6310
+KN058,brennu-njals_saga,Þorgeir skorargeir,Þorvaldur Þrum-Ketilsson,145,2,brennu-njals_saga:x6315 brennu-njals_saga:x6317
+KN059,brennu-njals_saga,Flosi,Brúni Hafliðason,145,1,brennu-njals_saga:x6378
+KN060,brennu-njals_saga,Kári,Eyjólfur Bölverksson,145,1,brennu-njals_saga:x6389
+KN061,brennu-njals_saga,Þorgeir skorargeir,Þorkell Sigfússon,146,1,brennu-njals_saga:x6508
+KN062,brennu-njals_saga,Kári,Sigurður Lambason,146,1,brennu-njals_saga:x6516
+KN063,brennu-njals_saga,Kári,Mörður Sigfússon,146,2,brennu-njals_saga:x6517 brennu-njals_saga:x6518
+KN064,brennu-njals_saga,Þorgeir skorargeir,Leiðólfur sterki,146,2,brennu-njals_saga:x6520 brennu-njals_saga:x6523
+KN065,brennu-njals_saga,Kári,Leiðólfur sterki,146,2,brennu-njals_saga:x6520 brennu-njals_saga:x6523
+KN066,brennu-njals_saga,Kári,Móðólfur Ketilsson,150,4,brennu-njals_saga:x6740 brennu-njals_saga:x6741 brennu-njals_saga:x6742 brennu-njals_saga:x6743
+KN067,brennu-njals_saga,Kári,Lambi Sigurðarson,150,2,brennu-njals_saga:x6750 brennu-njals_saga:x6753
+KN068,brennu-njals_saga,Kári,Gunnar úr Skál,150,1,brennu-njals_saga:x6756
+KN069,brennu-njals_saga,Kári,Glúmur Hildisson,151,1,brennu-njals_saga:x6806
+KN070,brennu-njals_saga,Kári,Vébrandur Þorfinnsson,151,1,brennu-njals_saga:x6808
+KN071,brennu-njals_saga,Bróðir,Brján konungur,157,2,brennu-njals_saga:x7086 brennu-njals_saga:x7088
+KN072,reykdaela_saga_og_viga-skutu,Hrafn verkstjóri,Svartur,11,1,reykdaela_saga_og_viga-skutu:x368
+KN073,reykdaela_saga_og_viga-skutu,Vémundur kögur,Steinn Þorbjarnarson,13,1,reykdaela_saga_og_viga-skutu:x510
+KN074,reykdaela_saga_og_viga-skutu,Þorbjörn,Galti,13,1,reykdaela_saga_og_viga-skutu:x522
+KN075,reykdaela_saga_og_viga-skutu,Háls,Helgi úr Árskógi,16,1,reykdaela_saga_og_viga-skutu:x642
+KN076,reykdaela_saga_og_viga-skutu,Glúmur Geirason,Þorsteinn Þorbergsson,18,1,reykdaela_saga_og_viga-skutu:x761
+KN077,reykdaela_saga_og_viga-skutu,Þorkell Geirason,Þorsteinn varastafur,19,2,reykdaela_saga_og_viga-skutu:x794 reykdaela_saga_og_viga-skutu:x795
+KN078,reykdaela_saga_og_viga-skutu,Ófeigur,Þorsteinn kvígur,19,1,reykdaela_saga_og_viga-skutu:x798
+KN079,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þórir Ketilsson,20,1,reykdaela_saga_og_viga-skutu:x831
+KN080,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Ólafur,22,1,reykdaela_saga_og_viga-skutu:x871
+KN081,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þorgautur,22,2,reykdaela_saga_og_viga-skutu:x872 reykdaela_saga_og_viga-skutu:x874
+KN082,reykdaela_saga_og_viga-skutu,Bjarni,Þormóður,23,1,reykdaela_saga_og_viga-skutu:x913
+KN083,reykdaela_saga_og_viga-skutu,Eyjólfur,Bjarni,23,1,reykdaela_saga_og_viga-skutu:x936
+KN084,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þrándur,24,1,reykdaela_saga_og_viga-skutu:x971
+KN085,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Þorgeir Þórisson,25,1,reykdaela_saga_og_viga-skutu:x999
+KN086,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Arnór,27,1,reykdaela_saga_og_viga-skutu:x1114
+KN087,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Auðgísl,28,1,reykdaela_saga_og_viga-skutu:x1138
+KN088,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Vestmaður,29,1,reykdaela_saga_og_viga-skutu:x1152
+KN089,reykdaela_saga_og_viga-skutu,Skúta Áskelsson,Björn,30,1,reykdaela_saga_og_viga-skutu:x1183
+KN090,vatnsdaela_saga,Hrolleifur,Ingimundur gamli,22,4,vatnsdaela_saga:x773 vatnsdaela_saga:x784 vatnsdaela_saga:x810 vatnsdaela_saga:x811
+KN091,vatnsdaela_saga,Jökull Ingimundarson,Hrolleifur,26,1,vatnsdaela_saga:x889
+KN092,vatnsdaela_saga,Jökull Ingimundarson,Þórólfur sleggja,30,1,vatnsdaela_saga:x1101
+KN093,vatnsdaela_saga,Guðbrandur,Þórir sekur,39,1,vatnsdaela_saga:x1393
+KN094,vatnsdaela_saga,Svartur,Guðbrandur,40,1,vatnsdaela_saga:x1450
+KN095,gisla_saga_surssonar,Gísli Þorkelsson,Björn,1,1,gisla_saga_surssonar:x18
+KN096,gisla_saga_surssonar,Gísli Þorkelsson,Kolur,1,1,gisla_saga_surssonar:x26
+KN097,gisla_saga_surssonar,Gísli,Bárður,2,1,gisla_saga_surssonar:x42
+KN098,gisla_saga_surssonar,Gísli,Kolbjörn,3,1,gisla_saga_surssonar:x79
+KN099,gisla_saga_surssonar,Gísli,Hólmgöngu-Skeggi,3,1,gisla_saga_surssonar:x84
+KN100,gisla_saga_surssonar,Þorgrímur,Þórarinn,7,1,gisla_saga_surssonar:x152
+KN101,gisla_saga_surssonar,Gísli,Þorgrímur nef,19,1,gisla_saga_surssonar:x503
+KN102,gisla_saga_surssonar,Þorgrímur Austmaður,Þórður huglausi,20,1,gisla_saga_surssonar:x550
+KN103,gisla_saga_surssonar,Gísli,Saka-Steinn,27,1,gisla_saga_surssonar:x723
+KN104,gisla_saga_surssonar,Gísli,Njósnar-Helgi,34,1,gisla_saga_surssonar:x963
+KN105,gisla_saga_surssonar,Gísli,Þórður,36,1,gisla_saga_surssonar:x992
+KN106,gisla_saga_surssonar,Eyjólfur grái,Gísli,37,1,gisla_saga_surssonar:x1002
+KN107,gisla_saga_surssonar,Ari Súrsson,Bergur,38,1,gisla_saga_surssonar:x1020
+KN108,hallfredar_saga_vandraedaskalds,Óttar,Sokki,2,1,hallfredar_saga_vandraedaskalds:x63
+KN109,hallfredar_saga_vandraedaskalds,Hallfreður,Óttar upplenski,6,1,hallfredar_saga_vandraedaskalds:x306
+KN110,hallfredar_saga_vandraedaskalds,Hallfreður,Björn,8,1,hallfredar_saga_vandraedaskalds:x485
+KN111,hallfredar_saga_vandraedaskalds,Ávaldi,Sóti,12,1,hallfredar_saga_vandraedaskalds:x827
+KN112,viga-glums_saga,Vigfús Glúmsson,Eysteinn,23,1,viga-glums_saga:x991
+KN113,viglundar_saga,Trausti Þorgrímsson,Einar Hólmkelsson,16,1,viglundar_saga:x515
+KN114,viglundar_saga,Víglundur Þorgrímsson,Hákon,16,1,viglundar_saga:x518
+KN115,viglundar_saga,Víglundur Þorgrímsson,Jökull Hólmkelsson,16,1,viglundar_saga:x529
+KN116,hrafnkels_saga_freysgoda,Hrafnkell,Eyvindur Bjarnason,18,1,hrafnkels_saga_freysgoda:x565
+KN117,grettis_saga,Önundur tréfótur,Vígbjóður,4,3,grettis_saga:x145 grettis_saga:x147 grettis_saga:x149
+KN118,grettis_saga,Þorbjörn laxakappi,Ófeigur grettir,10,1,grettis_saga:x306
+KN119,grettis_saga,Þorgeir Önundarson,Þorfinnur,12,1,grettis_saga:x418
+KN120,grettis_saga,Ólafur Eyvindarson,Ófeigur grettir Önundarson,12,1,grettis_saga:x437
+KN121,grettis_saga,Grettir,Hjarrandi,23,1,grettis_saga:x1321
+KN122,grettis_saga,Grettir,Gunnar (bróðir Hjarranda),24,3,grettis_saga:x1363 grettis_saga:x1364 grettis_saga:x1365
+KN123,grettis_saga,Þorgeir Hávarsson,Þorgils Máksson,25,1,grettis_saga:x1440
+KN124,grettis_saga,Atli Ásmundarson,Gunnar Þórisson,43,2,grettis_saga:x2284 grettis_saga:x2285
+KN125,grettis_saga,Grímur Þórhallsson,Þorgeir Þórisson,43,1,grettis_saga:x2290
+KN126,grettis_saga,Grettir,Þórir rauðskeggur,56,1,grettis_saga:x2904
+KN127,grettis_saga,Grettir,Steinólfur úr Hraundal,60,1,grettis_saga:x3101
+KN128,grettis_saga,Grettir,Þorgils Ingjaldsson,60,1,grettis_saga:x3101
+KN129,grettis_saga,Grettir,Víkar,82,1,grettis_saga:x4043
+KN130,grettis_saga,Þorbjörn öngull,Illugi Ásmundarson,82,1,grettis_saga:x4101
+KN131,grettis_saga,Þorsteinn drómundur,Þorbjörn öngull,86,3,grettis_saga:x4222 grettis_saga:x4224 grettis_saga:x4259
+KN132,faereyinga_saga,Þorkell þurrafrost,Þórálfur,15,1,faereyinga_saga:x315
+KN133,faereyinga_saga,Sigmundur,Randvér,18,1,faereyinga_saga:x393
+KN134,faereyinga_saga,Sigmundur,Björn (sýslumaður),19,1,faereyinga_saga:x430
+KN135,faereyinga_saga,Þorgrímur illi,Sigmundur,41,1,faereyinga_saga:x998
+KN136,faereyinga_saga,Sigurður Þorláksson,Bjarngrímur,51,1,faereyinga_saga:x1327
+KN137,faereyinga_saga,Þórður lági,Hafgrímur (bróðir Bjarngríms),51,1,faereyinga_saga:x1328
+KN138,faereyinga_saga,Björn,Leifur Þórisson,54,1,faereyinga_saga:x1361
+KN139,faereyinga_saga,Sigurður Þorláksson,Björn,54,1,faereyinga_saga:x1362
+KN140,faereyinga_saga,Sigurður Þorláksson,Heri,58,1,faereyinga_saga:x1484
+KN141,faereyinga_saga,Leifur Össurarson,Gautur rauði,58,1,faereyinga_saga:x1503
+KN142,faereyinga_saga,Þórður lági,Brandur Sigmundarson,58,1,faereyinga_saga:x1504
+KN143,bjarnar_saga_hitdaelakappa,Björn,Kaldimar,4,1,bjarnar_saga_hitdaelakappa:x137
+KN144,bjarnar_saga_hitdaelakappa,Björn,Eyvindur,18,1,bjarnar_saga_hitdaelakappa:x578
+KN145,bjarnar_saga_hitdaelakappa,Björn,Þorkell Dálksson,20,2,bjarnar_saga_hitdaelakappa:x671 bjarnar_saga_hitdaelakappa:x679
+KN146,bjarnar_saga_hitdaelakappa,Björn,Kolbeinn Þórðarson,26,1,bjarnar_saga_hitdaelakappa:x785
+KN147,bjarnar_saga_hitdaelakappa,Björn,Þorvaldur Eiðsson,32,1,bjarnar_saga_hitdaelakappa:x1037
+KN148,bjarnar_saga_hitdaelakappa,Björn,Þórður Eiðsson,32,2,bjarnar_saga_hitdaelakappa:x1041 bjarnar_saga_hitdaelakappa:x1042
+KN149,bjarnar_saga_hitdaelakappa,Björn,Grímur,32,1,bjarnar_saga_hitdaelakappa:x1055
+KN150,bjarnar_saga_hitdaelakappa,Þórður Kolbeinsson,Björn,32,2,bjarnar_saga_hitdaelakappa:x1067 bjarnar_saga_hitdaelakappa:x1068
+KN151,havardar_saga_isfirdings,Ólafur Hávarðsson,Skarfur,4,1,havardar_saga_isfirdings:x314
+KN152,havardar_saga_isfirdings,Brandur hinn sterki,Ánn,10,1,havardar_saga_isfirdings:x659
+KN153,havardar_saga_isfirdings,Hallgrímur,Brandur hinn sterki,10,1,havardar_saga_isfirdings:x660
+KN154,havardar_saga_isfirdings,Hávarður,Þorbjörn Þjóðreksson,11,1,havardar_saga_isfirdings:x674
+KN155,havardar_saga_isfirdings,Torfi Valbrandsson,Sturla Þjóðreksson,11,1,havardar_saga_isfirdings:x695
+KN156,havardar_saga_isfirdings,Hávarður,Ljótur á Mánabergi,12,2,havardar_saga_isfirdings:x742 havardar_saga_isfirdings:x744
+KN157,havardar_saga_isfirdings,Eyjólfur Valbrandsson,Ljótur á Mánabergi,12,2,havardar_saga_isfirdings:x742 havardar_saga_isfirdings:x744
+KN158,havardar_saga_isfirdings,Þorsteinn Þorbjarnarson,Hólmgöngu-Ljótur,14,3,havardar_saga_isfirdings:x872 havardar_saga_isfirdings:x873 havardar_saga_isfirdings:x1151
+KN159,havardar_saga_isfirdings,Grímur Þorbjarnarson,Hólmgöngu-Ljótur,14,3,havardar_saga_isfirdings:x872 havardar_saga_isfirdings:x873 havardar_saga_isfirdings:x1151
+KN160,floamanna_saga,Leifur,Hersteinn,3,1,floamanna_saga:x77
+KN161,floamanna_saga,Ölmóður hinn gamli,Hersteinn,3,1,floamanna_saga:x77
+KN162,floamanna_saga,Ingólfur,Hólmsteinn,3,1,floamanna_saga:x85
+KN163,floamanna_saga,Leifur,Hólmsteinn,3,1,floamanna_saga:x85
+KN164,floamanna_saga,Þórður Atlason,Hrafn,9,1,floamanna_saga:x219
+KN165,floamanna_saga,Þorgils,Surtur járnhaus,16,1,floamanna_saga:x437
+KN166,floamanna_saga,Helgi trausti,Þorgrímur örrabeinn,18,1,floamanna_saga:x552
+KN167,floamanna_saga,Hæringur Þorgrímsson,Helgi trausti,18,1,floamanna_saga:x567
+KN168,floamanna_saga,Teitur Ketilbjarnarson,Helgi trausti,18,1,floamanna_saga:x567
+KN169,floamanna_saga,Þorgils,Svartur,19,1,floamanna_saga:x638
+KN170,floamanna_saga,Kolur,Hallur,25,1,floamanna_saga:x983
+KN171,floamanna_saga,Þorgils,Gípar,26,1,floamanna_saga:x1081
+KN172,floamanna_saga,Þorgils,Bjálfi,31,1,floamanna_saga:x1233
+KN173,droplaugarsona_saga,Helgi Droplaugarson,Þórður skarfur,10,1,droplaugarsona_saga:x464
+KN174,droplaugarsona_saga,Helgi hinn magri,Kári,10,1,droplaugarsona_saga:x470
+KN175,droplaugarsona_saga,Össur,Helgi Droplaugarson,10,4,droplaugarsona_saga:x489 droplaugarsona_saga:x497 droplaugarsona_saga:x526 droplaugarsona_saga:x719
+KN176,droplaugarsona_saga,Grímur Droplaugarson,Gaus,15,2,droplaugarsona_saga:x698 droplaugarsona_saga:x699
+KN177,gunnlaugs_saga_ormstungu,Gunnlaugur,Þórormur,7,1,gunnlaugs_saga_ormstungu:x295
+KN178,gunnlaugs_saga_ormstungu,Hrafn,Þorkell svarti,12,1,gunnlaugs_saga_ormstungu:x622
+KN179,gunnlaugs_saga_ormstungu,Gunnlaugur,Hrafn,12,1,gunnlaugs_saga_ormstungu:x626
+KN180,gunnlaugs_saga_ormstungu,Hrafn,Gunnlaugur,12,2,gunnlaugs_saga_ormstungu:x633 gunnlaugs_saga_ormstungu:x643
+KN181,gunnlaugs_saga_ormstungu,Illugi svarti,Björn,13,1,gunnlaugs_saga_ormstungu:x663
+KN182,egils_saga,Haraldur hárfagri,Þórólfur Kveldúlfsson,22,3,egils_saga:x489 egils_saga:x555 egils_saga:x556
+KN183,egils_saga,Skalla-Grímur,Þórður Granason,40,1,egils_saga:x910
+KN184,egils_saga,Aðils jarl,Þórólfur Skalla-Grímsson,54,2,egils_saga:x1260 egils_saga:x1275
+KN185,egils_saga,Eiríkur blóðöx,Ólafur Haraldsson,58,1,egils_saga:x1433
+KN186,egils_saga,Eiríkur blóðöx,Sigurður Haraldsson,58,1,egils_saga:x1433
+KN187,egils_saga,Egill,Berg-Önundur,58,1,egils_saga:x1475
+KN188,egils_saga,Egill,Fróði,58,1,egils_saga:x1476
+KN189,egils_saga,Egill,Haddur,58,1,egils_saga:x1476
+KN190,egils_saga,Egill,Ljótur bleiki,65,3,egils_saga:x1731 egils_saga:x1734 egils_saga:x1803
+KN191,egils_saga,Egill,Atli skammi,66,1,egils_saga:x1769
+KN192,eyrbyggja_saga,Þórólfur bægifótur,Úlfar kappi,8,1,eyrbyggja_saga:x126
+KN193,eyrbyggja_saga,Víga-Styr,Þorbjörn kjálki,25,1,eyrbyggja_saga:x731
+KN194,eyrbyggja_saga,Snorri goði,Vigfús í Drápuhlíð,26,1,eyrbyggja_saga:x761
+KN195,eyrbyggja_saga,Víga-Styr,Halli berserkur,28,1,eyrbyggja_saga:x858
+KN196,eyrbyggja_saga,Víga-Styr,Leiknir berserkur,28,1,eyrbyggja_saga:x859
+KN197,eyrbyggja_saga,Arnkell,Þorleifur,36,1,eyrbyggja_saga:x1189
+KN198,eyrbyggja_saga,Steinþór,Freysteinn bófi,45,1,eyrbyggja_saga:x1608
+KN199,eyrbyggja_saga,Þrándur stígandi,Hrafn víkingur,62,1,eyrbyggja_saga:x2173
+KN200,eyrbyggja_saga,Sturla Þjóðreksson,Óspakur Kjallaksson,62,2,eyrbyggja_saga:x2179 eyrbyggja_saga:x2180
+KN201,hardar_saga_og_holmverja,Geir,Arnþór,13,2,hardar_saga_og_holmverja:x432 hardar_saga_og_holmverja:x440
+KN202,hardar_saga_og_holmverja,Hörður,Auður,21,1,hardar_saga_og_holmverja:x765
+KN203,hardar_saga_og_holmverja,Hörður,Skroppa,26,1,hardar_saga_og_holmverja:x937
+KN204,hardar_saga_og_holmverja,Þorvaldur bláskeggur,Sigurður Torfafóstri,33,1,hardar_saga_og_holmverja:x1145
+KN205,hardar_saga_og_holmverja,Sigurður Torfafóstri,Þorvaldur bláskeggur,33,1,hardar_saga_og_holmverja:x1148
+KN206,hardar_saga_og_holmverja,Ormur austmaður,Geir,35,1,hardar_saga_og_holmverja:x1200
+KN207,hardar_saga_og_holmverja,Hörður,Kjartan,36,1,hardar_saga_og_holmverja:x1222
+KN208,hardar_saga_og_holmverja,Hörður,Helgi,36,1,hardar_saga_og_holmverja:x1245
+KN209,hardar_saga_og_holmverja,Indriði,Þorsteinn gullknappur,38,1,hardar_saga_og_holmverja:x1304
+KN210,heidarviga_saga,Styr,Þorbjörn kjálki,5,1,heidarviga_saga:x128
+KN211,heidarviga_saga,Styr,Halli,5,1,heidarviga_saga:x198
+KN212,heidarviga_saga,Styr,Einar,6,1,heidarviga_saga:x224
+KN213,heidarviga_saga,Snorri goði,Þorsteinn Gíslason,13,2,heidarviga_saga:x671 heidarviga_saga:x823
+KN214,heidarviga_saga,Barði Guðmundsson,Ketill,31,1,heidarviga_saga:x1455
+KN215,heidarviga_saga,Barði Guðmundsson,Þorgautur,31,1,heidarviga_saga:x1456
+KN216,heidarviga_saga,Barði Guðmundsson,Þorbjörn,31,1,heidarviga_saga:x1470
+KN217,heidarviga_saga,Barði Guðmundsson,Tanni,32,1,heidarviga_saga:x1510
+KN218,gunnars_saga_keldugnupsfifls,Gunnar,Jökull Þorgrímsson,4,1,gunnars_saga_keldugnupsfifls:x241
+KN219,gunnars_saga_keldugnupsfifls,Gunnar,Grímur Þorgrímsson,4,3,gunnars_saga_keldugnupsfifls:x245 gunnars_saga_keldugnupsfifls:x246 gunnars_saga_keldugnupsfifls:x247
+KN220,gunnars_saga_keldugnupsfifls,Gunnar,Jökull víkingur,7,2,gunnars_saga_keldugnupsfifls:x519 gunnars_saga_keldugnupsfifls:x520
+KN221,gunnars_saga_keldugnupsfifls,Helgi,Svartur víkingur,7,2,gunnars_saga_keldugnupsfifls:x527 gunnars_saga_keldugnupsfifls:x784
+KN222,bardar_saga_snaefellsass,Bárður Snæfellsás,Rauðfeldur Þorkelsson,5,1,bardar_saga_snaefellsass:x193
+KN223,bardar_saga_snaefellsass,Bárður Snæfellsás,Sölvi Þorkelsson,5,1,bardar_saga_snaefellsass:x193
+KN224,bardar_saga_snaefellsass,Einar Sigmundarson,Lón-Einar,6,1,bardar_saga_snaefellsass:x238
+KN225,bardar_saga_snaefellsass,Þorvaldur Oddsson,Blund-Ketill,10,1,bardar_saga_snaefellsass:x448
+KN226,kjalnesinga_saga,Þorgrímur goði,Andríður,5,1,kjalnesinga_saga:x263
+KN227,kjalnesinga_saga,Búi Andríðsson,Kolfinnur,16,1,kjalnesinga_saga:x821
+KN228,kjalnesinga_saga,Jökull Búason,Búi Andríðsson,18,1,kjalnesinga_saga:x910
+KN229,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Naddur,6,1,thorsteins_saga_sidu-hallssonar:x267
+KN230,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Þorvarður Þórhaddsson,6,1,thorsteins_saga_sidu-hallssonar:x268
+KN231,thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,Helgi Þórhaddsson,6,1,thorsteins_saga_sidu-hallssonar:x274
+KN232,fostbraedra_saga,Þorgeir Hávarsson,Butraldi,6,2,fostbraedra_saga:x412 fostbraedra_saga:x413
+KN233,fostbraedra_saga,Þorgeir Hávarsson,Bjarni Skúfsson,8,2,fostbraedra_saga:x544 fostbraedra_saga:x545
+KN234,fostbraedra_saga,Þorgeir Hávarsson,Skúfur sauðamaður,8,1,fostbraedra_saga:x548
+KN235,fostbraedra_saga,Þorgeir Hávarsson,Hækil-Snorri,13,3,fostbraedra_saga:x869 fostbraedra_saga:x870 fostbraedra_saga:x881
+KN236,fostbraedra_saga,Þorgeir Hávarsson,Þórir á Hrófá,14,1,fostbraedra_saga:x931
+KN237,fostbraedra_saga,Þórarinn ofsi,Þorgeir Hávarsson,19,4,fostbraedra_saga:x1162 fostbraedra_saga:x1178 fostbraedra_saga:x1179 fostbraedra_saga:x1198
+KN238,fostbraedra_saga,Þorgrímur,Þorgeir Hávarsson,19,4,fostbraedra_saga:x1162 fostbraedra_saga:x1178 fostbraedra_saga:x1179 fostbraedra_saga:x1198
+KN239,fostbraedra_saga,Þorgeir Hávarsson,Már,19,1,fostbraedra_saga:x1170
+KN240,fostbraedra_saga,Þormóður Bersason,Þorkell,29,2,fostbraedra_saga:x1610 fostbraedra_saga:x1640
+KN241,fostbraedra_saga,Þormóður Bersason,Þórður,29,1,fostbraedra_saga:x1615
+KN242,fostbraedra_saga,Þormóður Bersason,Ljótur Þórunnarson,31,1,fostbraedra_saga:x1929
+KN243,fostbraedra_saga,Gestur,Ljótur Þórunnarson,31,1,fostbraedra_saga:x1929
+KN244,laxdaela_saga,Ólafur pái,Stígandi,38,1,laxdaela_saga:x1933
+KN245,laxdaela_saga,Kjartan Ólafsson,Guðlaugur,49,1,laxdaela_saga:x2742
+KN246,laxdaela_saga,Bolli Þorleiksson,Án,55,2,laxdaela_saga:x2992 laxdaela_saga:x2993
+KN247,laxdaela_saga,Helgi Harðbeinsson,Bolli Þorleiksson,55,2,laxdaela_saga:x3009 laxdaela_saga:x3241
+KN248,laxdaela_saga,Steinþór Ólafsson,Bolli Þorleiksson,55,2,laxdaela_saga:x3009 laxdaela_saga:x3241
+KN249,laxdaela_saga,Helgi Harðbeinsson,Hrappur,64,1,laxdaela_saga:x3420
+KN250,laxdaela_saga,Bolli,Helgi Harðbeinsson,64,1,laxdaela_saga:x3439
+KN251,laxdaela_saga,Þorleikur Bollason,Eyjólfur,64,1,laxdaela_saga:x3443
+KN252,laxdaela_saga,Halldór,Auðgísl,67,1,laxdaela_saga:x3554
+KN253,laxdaela_saga,Bolli,Helgi af Skeiði,88,1,laxdaela_saga:x4456
+KN254,gull-thoris_saga,Askmaður,Már,10,1,gull-thoris_saga:x346
+KN255,gull-thoris_saga,Kýlan,Már,10,1,gull-thoris_saga:x346
+KN256,gull-thoris_saga,Þórir,Askmaður,10,1,gull-thoris_saga:x366
+KN257,gull-thoris_saga,Þórir,Rauður,12,1,gull-thoris_saga:x436
+KN258,gull-thoris_saga,Guðmundur,Örn,13,2,gull-thoris_saga:x454 gull-thoris_saga:x455
+KN259,gull-thoris_saga,Þórir,Þorbjörn,13,2,gull-thoris_saga:x468 gull-thoris_saga:x469
+KN260,gull-thoris_saga,Gunnar,Jósteinn,15,1,gull-thoris_saga:x602
+KN261,gull-thoris_saga,Steinólfur,Þórarinn,15,1,gull-thoris_saga:x621
+KN262,gull-thoris_saga,Kjallakur,Þórarinn,15,1,gull-thoris_saga:x621
+KN263,gull-thoris_saga,Knútur,Þórarinn,15,1,gull-thoris_saga:x621
+KN264,gull-thoris_saga,Gunnar,Hrómundur,16,1,gull-thoris_saga:x639
+KN265,gull-thoris_saga,Þórir,Þormóður,17,2,gull-thoris_saga:x651 gull-thoris_saga:x656
+KN266,gull-thoris_saga,Hallur,Ásmundur,18,1,gull-thoris_saga:x724
+KN267,gull-thoris_saga,Steinólfur,Ketilbjörn,18,1,gull-thoris_saga:x731
+KN268,gull-thoris_saga,Gunnar,Þorgils,20,1,gull-thoris_saga:x831
+KN269,gull-thoris_saga,Grímur,Þorgils,20,1,gull-thoris_saga:x831
+KN270,finnboga_saga_ramma,Finnbogi,Þorsteinn Brettingsson,27,2,finnboga_saga_ramma:x913 finnboga_saga_ramma:x914
+KN271,finnboga_saga_ramma,Finnbogi,Grímur Brettingsson,27,1,finnboga_saga_ramma:x919
+KN272,finnboga_saga_ramma,Finnbogi,Þorvaldur moðskegg,29,1,finnboga_saga_ramma:x980
+KN273,finnboga_saga_ramma,Þórarinn,Þorkell,35,1,finnboga_saga_ramma:x1241
+KN274,finnboga_saga_ramma,Finnbogi,Kolur,35,1,finnboga_saga_ramma:x1242
+KN275,finnboga_saga_ramma,Bergur,Kolur,35,1,finnboga_saga_ramma:x1242
+KN276,finnboga_saga_ramma,Finnbogi,Þórarinn,35,1,finnboga_saga_ramma:x1260
+KN277,finnboga_saga_ramma,Gunnbjörn,Rauður,35,1,finnboga_saga_ramma:x1307
+KN278,finnboga_saga_ramma,Finnbogi,Bersi,37,1,finnboga_saga_ramma:x1420
+KN279,finnboga_saga_ramma,Finnbogi,Þorbjörn sleggja,40,2,finnboga_saga_ramma:x1554 finnboga_saga_ramma:x1567
+KN280,fljotsdaela_saga,Helgi Droplaugarson,Þorgrímur tordýfill,12,1,fljotsdaela_saga:x702
+KN281,fljotsdaela_saga,Þiðrandi Geitisson,Ketill,16,2,fljotsdaela_saga:x1124 fljotsdaela_saga:x1229
+KN282,hrana_saga_hrings,Hrani,Kári,0,2,hrana_saga_hrings:x131 hrana_saga_hrings:x142
+KN283,hrana_saga_hrings,Hrani,Hróaldur,0,3,hrana_saga_hrings:x133 hrana_saga_hrings:x134 hrana_saga_hrings:x427
+KN284,hrana_saga_hrings,Eysteinn harðverkr,Grímr járnkarl,0,1,hrana_saga_hrings:x340
+KN285,hrana_saga_hrings,Hrani,Arnhöfði,0,1,hrana_saga_hrings:x382
+KN286,hrana_saga_hrings,Einarr,Hildir,0,1,hrana_saga_hrings:x387
+KN287,vopnfirdinga_saga,Brodd-Helgi,Svartur,2,1,vopnfirdinga_saga:x46
+KN288,vopnfirdinga_saga,Brodd-Helgi,Þormóður stikublindur,7,1,vopnfirdinga_saga:x240
+KN289,vopnfirdinga_saga,Blængur,Birningur,18,1,vopnfirdinga_saga:x539
+KN290,vopnfirdinga_saga,Bjarni,Blængur,18,1,vopnfirdinga_saga:x546
+KN291,haensna-thoris_saga,Þorvaldur Oddsson,Blund-Ketill,9,4,haensna-thoris_saga:x290 haensna-thoris_saga:x341 haensna-thoris_saga:x398 haensna-thoris_saga:x431
+KN292,haensna-thoris_saga,Hænsna-Þórir,Blund-Ketill,9,4,haensna-thoris_saga:x290 haensna-thoris_saga:x341 haensna-thoris_saga:x398 haensna-thoris_saga:x431
+KN293,haensna-thoris_saga,Arngrímur goði,Blund-Ketill,9,4,haensna-thoris_saga:x290 haensna-thoris_saga:x341 haensna-thoris_saga:x398 haensna-thoris_saga:x431
+KN294,haensna-thoris_saga,Hersteinn Blund-Ketilsson,Hænsna-Þórir,15,1,haensna-thoris_saga:x533
+KN295,valla-ljots_saga,Halli,Torfi,1,1,valla-ljots_saga:x55
+KN296,valla-ljots_saga,Eyjólfur Þorsteinsson,Böðvar,7,1,valla-ljots_saga:x356
+KN297,valla-ljots_saga,Bessi,Sigmundur,7,1,valla-ljots_saga:x359

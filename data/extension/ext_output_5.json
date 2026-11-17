@@ -1,0 +1,3482 @@
+[
+ {
+  "cid": "fostbraedra_saga:x14",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 1,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Grettir's hanging prevented"
+ },
+ {
+  "cid": "fostbraedra_saga:x96",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 2,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = cut down the packs"
+ },
+ {
+  "cid": "fostbraedra_saga:x163",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Jöður",
+  "chapter": 3,
+  "duplicate_of": "KL173",
+  "event": "Þorgeir Hávarsson > Jöður",
+  "note": "Þorgeir spears Jöður in the doorway"
+ },
+ {
+  "cid": "fostbraedra_saga:x192",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Jöður",
+  "chapter": 3,
+  "duplicate_of": "KL173",
+  "event": "Þorgeir Hávarsson > Jöður",
+  "note": "Þorgeir's account of killing Jöður"
+ },
+ {
+  "cid": "fostbraedra_saga:x207",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Jöður",
+  "chapter": 3,
+  "duplicate_of": "KL173",
+  "event": "Þorgeir Hávarsson > Jöður",
+  "note": "report of Jöður's killing"
+ },
+ {
+  "cid": "fostbraedra_saga:x237",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa á dyr = knock"
+ },
+ {
+  "cid": "fostbraedra_saga:x265",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "exhortation"
+ },
+ {
+  "cid": "fostbraedra_saga:x275",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa á dyr = knock"
+ },
+ {
+  "cid": "fostbraedra_saga:x291",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þorbrandur",
+  "chapter": 5,
+  "duplicate_of": "KL174",
+  "event": "Þorgeir Hávarsson > Þorbrandur",
+  "note": "Þorbrandur fell before Þorgeir; same sentence: Ingólfur fell before Þormóður = KL175"
+ },
+ {
+  "cid": "fostbraedra_saga:x295",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þorbrandur",
+  "chapter": 5,
+  "duplicate_of": "KL174",
+  "event": "Þorgeir Hávarsson > Þorbrandur",
+  "note": "verse: Þorbrandur fell before the warrior"
+ },
+ {
+  "cid": "fostbraedra_saga:x321",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "commentary on the killings (KL174/KL175)"
+ },
+ {
+  "cid": "fostbraedra_saga:x401",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "",
+  "note": "river flows"
+ },
+ {
+  "cid": "fostbraedra_saga:x412",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Butraldi",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Butraldi",
+  "note": "Þorgeir hews Butraldi in the chest, a fatal wound"
+ },
+ {
+  "cid": "fostbraedra_saga:x413",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Butraldi",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Butraldi",
+  "note": "Butraldi falls"
+ },
+ {
+  "cid": "fostbraedra_saga:x420",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "",
+  "note": "livestock died in winter"
+ },
+ {
+  "cid": "fostbraedra_saga:x449",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þorgils Mársson",
+  "chapter": 7,
+  "duplicate_of": "KL176",
+  "event": "Þorgeir Hávarsson > Þorgils Mársson",
+  "note": "Þorgils falls before Þorgeir"
+ },
+ {
+  "cid": "fostbraedra_saga:x483",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "",
+  "note": "tide had risen"
+ },
+ {
+  "cid": "fostbraedra_saga:x494",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cutting brushwood"
+ },
+ {
+  "cid": "fostbraedra_saga:x544",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Bjarni Skúfsson",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Bjarni Skúfsson",
+  "note": "Þorgeir spears Bjarni, son of Skúfur in Hundadalur, dead off his horse"
+ },
+ {
+  "cid": "fostbraedra_saga:x545",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Bjarni Skúfsson",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Bjarni Skúfsson",
+  "note": "Skúfur the shepherd sees Bjarni fall"
+ },
+ {
+  "cid": "fostbraedra_saga:x548",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Skúfur sauðamaður",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Skúfur sauðamaður",
+  "note": "Þorgeir cleaves the shepherd Skúfur to the shoulders"
+ },
+ {
+  "cid": "fostbraedra_saga:x658",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal wound to Þormóður"
+ },
+ {
+  "cid": "fostbraedra_saga:x660",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows do not bite"
+ },
+ {
+  "cid": "fostbraedra_saga:x662",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "no killing"
+ },
+ {
+  "cid": "fostbraedra_saga:x675",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows did not bite"
+ },
+ {
+  "cid": "fostbraedra_saga:x735",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 11,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wind dropped"
+ },
+ {
+  "cid": "fostbraedra_saga:x851",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "horses"
+ },
+ {
+  "cid": "fostbraedra_saga:x867",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cutting spear shaft"
+ },
+ {
+  "cid": "fostbraedra_saga:x868",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cutting spear shaft (killing in next sentence)"
+ },
+ {
+  "cid": "fostbraedra_saga:x869",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Hækil-Snorri",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Hækil-Snorri",
+  "note": "Þorgeir cleaves Snorri's skull"
+ },
+ {
+  "cid": "fostbraedra_saga:x870",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Hækil-Snorri",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Hækil-Snorri",
+  "note": "Snorri dies of the wound"
+ },
+ {
+  "cid": "fostbraedra_saga:x881",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Hækil-Snorri",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Hækil-Snorri",
+  "note": "verse on the killing of Hækil-Snorri"
+ },
+ {
+  "cid": "fostbraedra_saga:x913",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa á dyr = knock"
+ },
+ {
+  "cid": "fostbraedra_saga:x931",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þórir á Hrófá",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Þórir á Hrófá",
+  "note": "Þorgeir spears Þórir at Hrófá (ch14); not the same as Þórir austmaður (KL179, ch19)"
+ },
+ {
+  "cid": "fostbraedra_saga:x954",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "break open a chest"
+ },
+ {
+  "cid": "fostbraedra_saga:x977",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þorgeir hanging on a cliff; no killing"
+ },
+ {
+  "cid": "fostbraedra_saga:x1097",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut spear and shield"
+ },
+ {
+  "cid": "fostbraedra_saga:x1103",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow"
+ },
+ {
+  "cid": "fostbraedra_saga:x1110",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Gautur Sleituson",
+  "chapter": 17,
+  "duplicate_of": "KL178",
+  "event": "Þorgeir Hávarsson > Gautur Sleituson",
+  "note": "Gautur dies of Þorgeir's blow"
+ },
+ {
+  "cid": "fostbraedra_saga:x1139",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "plan"
+ },
+ {
+  "cid": "fostbraedra_saga:x1148",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Helgi selseista kills an unnamed man of Þórarinn"
+ },
+ {
+  "cid": "fostbraedra_saga:x1158",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "general fighting"
+ },
+ {
+  "cid": "fostbraedra_saga:x1159",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "general fighting, unnamed victims"
+ },
+ {
+  "cid": "fostbraedra_saga:x1162",
+  "killing": "yes",
+  "killer": "Þórarinn ofsi; Þorgrímur",
+  "victim": "Þorgeir Hávarsson",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "Þórarinn ofsi; Þorgrímur > Þorgeir Hávarsson",
+  "note": "verse: Þorgeir falls on the ship (ch19)"
+ },
+ {
+  "cid": "fostbraedra_saga:x1166",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "general fighting"
+ },
+ {
+  "cid": "fostbraedra_saga:x1170",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Már",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "Þorgeir Hávarsson > Már",
+  "note": "Þorgeir strikes the Austmaður Már banahögg; after-sentence: Þórir austmaður = KL179"
+ },
+ {
+  "cid": "fostbraedra_saga:x1177",
+  "killing": "yes",
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þórir austmaður",
+  "chapter": 19,
+  "duplicate_of": "KL179",
+  "event": "Þorgeir Hávarsson > Þórir austmaður",
+  "note": "Þórir had fallen; Þorgeir still standing"
+ },
+ {
+  "cid": "fostbraedra_saga:x1178",
+  "killing": "yes",
+  "killer": "Þórarinn ofsi; Þorgrímur",
+  "victim": "Þorgeir Hávarsson",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "Þórarinn ofsi; Þorgrímur > Þorgeir Hávarsson",
+  "note": "Þórarinn and Þorgrímur strike Þorgeir down, he dies"
+ },
+ {
+  "cid": "fostbraedra_saga:x1179",
+  "killing": "yes",
+  "killer": "Þórarinn ofsi; Þorgrímur",
+  "victim": "Þorgeir Hávarsson",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "Þórarinn ofsi; Þorgrímur > Þorgeir Hávarsson",
+  "note": "Þórarinn ofsi takes Þorgeir's head"
+ },
+ {
+  "cid": "fostbraedra_saga:x1198",
+  "killing": "yes",
+  "killer": "Þórarinn ofsi; Þorgrímur",
+  "victim": "Þorgeir Hávarsson",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "Þórarinn ofsi; Þorgrímur > Þorgeir Hávarsson",
+  "note": "reference to Þorgeir's death"
+ },
+ {
+  "cid": "fostbraedra_saga:x1254",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 21,
+  "duplicate_of": "",
+  "event": "",
+  "note": "river; apparitions"
+ },
+ {
+  "cid": "fostbraedra_saga:x1417",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Loðinn",
+  "chapter": 25,
+  "duplicate_of": "KL180",
+  "event": "Þormóður Bersason > Loðinn",
+  "note": "Þormóður kills Loðinn"
+ },
+ {
+  "cid": "fostbraedra_saga:x1418",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Loðinn",
+  "chapter": 25,
+  "duplicate_of": "KL180",
+  "event": "Þormóður Bersason > Loðinn",
+  "note": "Loðinn fallen"
+ },
+ {
+  "cid": "fostbraedra_saga:x1425",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 25,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "fostbraedra_saga:x1426",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 25,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "fostbraedra_saga:x1544",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þorgrímur",
+  "chapter": 28,
+  "duplicate_of": "KL181",
+  "event": "Þormóður Bersason > Þorgrímur",
+  "note": "verse on Þormóður's blow to Þorgrímur"
+ },
+ {
+  "cid": "fostbraedra_saga:x1545",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þorgrímur",
+  "chapter": 28,
+  "duplicate_of": "KL181",
+  "event": "Þormóður Bersason > Þorgrímur",
+  "note": "discussion of the blow that killed Þorgrímur"
+ },
+ {
+  "cid": "fostbraedra_saga:x1546",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þorgrímur",
+  "chapter": 28,
+  "duplicate_of": "KL181",
+  "event": "Þormóður Bersason > Þorgrímur",
+  "note": "discussion of the blow that killed Þorgrímur"
+ },
+ {
+  "cid": "fostbraedra_saga:x1610",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þorkell",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "Þormóður Bersason > Þorkell",
+  "note": "Þormóður cleaves Þorkell's skull (brother of Þórður and Falgeir)"
+ },
+ {
+  "cid": "fostbraedra_saga:x1615",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þórður",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "Þormóður Bersason > Þórður",
+  "note": "Þormóður sinks his axe between Þórður's shoulders (counted among 'three champions' killed, x1640)"
+ },
+ {
+  "cid": "fostbraedra_saga:x1616",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Falgeir wounds Þormóður"
+ },
+ {
+  "cid": "fostbraedra_saga:x1621",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "axe falls"
+ },
+ {
+  "cid": "fostbraedra_saga:x1640",
+  "killing": "yes",
+  "killer": "Þormóður Bersason",
+  "victim": "Þorkell",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "Þormóður Bersason > Þorkell",
+  "note": "summary: Þormóður bane of three champions (Þorkell, Þórður, and Falgeir who drowned grappling with him)"
+ },
+ {
+  "cid": "fostbraedra_saga:x1691",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intent"
+ },
+ {
+  "cid": "fostbraedra_saga:x1708",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "fostbraedra_saga:x1742",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "burn an idol"
+ },
+ {
+  "cid": "fostbraedra_saga:x1793",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa á dyr = knock"
+ },
+ {
+  "cid": "fostbraedra_saga:x1809",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wound; Ljótur survives (killed later, ch31)"
+ },
+ {
+  "cid": "fostbraedra_saga:x1811",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Ljótur falls wounded but survives"
+ },
+ {
+  "cid": "fostbraedra_saga:x1929",
+  "killing": "yes",
+  "killer": "Þormóður Bersason; Gestur",
+  "victim": "Ljótur Þórunnarson",
+  "chapter": 31,
+  "duplicate_of": "",
+  "event": "Þormóður Bersason; Gestur > Ljótur Þórunnarson",
+  "note": "Þormóður and Gestur attack Ljótur's boat; Ljótur falls with three unnamed men"
+ },
+ {
+  "cid": "fostbraedra_saga:x1986",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 32,
+  "duplicate_of": "",
+  "event": "",
+  "note": "burn the land (hypothetical)"
+ },
+ {
+  "cid": "fostbraedra_saga:x2006",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 32,
+  "duplicate_of": "",
+  "event": "",
+  "note": "King Ólafur fell at Stiklastaðir; killer not named here"
+ },
+ {
+  "cid": "fostbraedra_saga:x2007",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 32,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed victims"
+ },
+ {
+  "cid": "fostbraedra_saga:x2011",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 32,
+  "duplicate_of": "",
+  "event": "",
+  "note": "arrow from unknown shooter"
+ },
+ {
+  "cid": "fostbraedra_saga:x2059",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 33,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þormóður dies of wound, shooter unnamed"
+ },
+ {
+  "cid": "fostbraedra_saga:x2088",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "general tally"
+ },
+ {
+  "cid": "fostbraedra_saga:x2103",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed victims"
+ },
+ {
+  "cid": "fostbraedra_saga:x2125",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Ólafur konungur fallen, no killer named"
+ },
+ {
+  "cid": "fostbraedra_saga:x2149",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hand cut off, Kimbi survives"
+ },
+ {
+  "cid": "fostbraedra_saga:x2179",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow to the farmer (Kimbi)"
+ },
+ {
+  "cid": "fostbraedra_saga:x2219",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þormóður dies of arrow wound, shooter unnamed"
+ },
+ {
+  "cid": "laxdaela_saga:x55",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þorsteinn rauður killed by Scots, killers unnamed"
+ },
+ {
+  "cid": "laxdaela_saga:x56",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þorsteinn rauður fell, killers unnamed Scots"
+ },
+ {
+  "cid": "laxdaela_saga:x428",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "stream fell"
+ },
+ {
+  "cid": "laxdaela_saga:x594",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blood fell, nosebleed"
+ },
+ {
+  "cid": "laxdaela_saga:x612",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "",
+  "note": "plot to kill, not carried out"
+ },
+ {
+  "cid": "laxdaela_saga:x646",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "revenant (Hrappur) kills household"
+ },
+ {
+  "cid": "laxdaela_saga:x683",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "sea rose; drowning"
+ },
+ {
+  "cid": "laxdaela_saga:x691",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drowning report"
+ },
+ {
+  "cid": "laxdaela_saga:x702",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drowning report"
+ },
+ {
+  "cid": "laxdaela_saga:x704",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "ordeal, turf falls"
+ },
+ {
+  "cid": "laxdaela_saga:x705",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "ordeal, staged"
+ },
+ {
+  "cid": "laxdaela_saga:x706",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "staged scuffle, nobody killed"
+ },
+ {
+  "cid": "laxdaela_saga:x761",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "slaughter of sheep"
+ },
+ {
+  "cid": "laxdaela_saga:x768",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "laxdaela_saga:x901",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 21,
+  "duplicate_of": "",
+  "event": "",
+  "note": "sea flowed out"
+ },
+ {
+  "cid": "laxdaela_saga:x978",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 21,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fallinn = suited"
+ },
+ {
+  "cid": "laxdaela_saga:x1139",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 24,
+  "duplicate_of": "",
+  "event": "",
+  "note": "illness"
+ },
+ {
+  "cid": "laxdaela_saga:x1213",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 24,
+  "duplicate_of": "",
+  "event": "",
+  "note": "burning revenant's corpse"
+ },
+ {
+  "cid": "laxdaela_saga:x1228",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 25,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þorleikur Höskuldsson's men kill Hrútur's freedman, but the freedman is unnamed"
+ },
+ {
+  "cid": "laxdaela_saga:x1244",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 26,
+  "duplicate_of": "",
+  "event": "",
+  "note": "illness"
+ },
+ {
+  "cid": "laxdaela_saga:x1325",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 28,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cradle falls"
+ },
+ {
+  "cid": "laxdaela_saga:x1336",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 28,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hair fell"
+ },
+ {
+  "cid": "laxdaela_saga:x1366",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut timber"
+ },
+ {
+  "cid": "laxdaela_saga:x1387",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "",
+  "note": "felldi hug = fell in love"
+ },
+ {
+  "cid": "laxdaela_saga:x1413",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wind dropped"
+ },
+ {
+  "cid": "laxdaela_saga:x1437",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "sea flows"
+ },
+ {
+  "cid": "laxdaela_saga:x1446",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 30,
+  "duplicate_of": "",
+  "event": "",
+  "note": "curse/prophecy"
+ },
+ {
+  "cid": "laxdaela_saga:x1483",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 31,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Harri is an ox, slaughtered"
+ },
+ {
+  "cid": "laxdaela_saga:x1489",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 31,
+  "duplicate_of": "",
+  "event": "",
+  "note": "dream about the ox"
+ },
+ {
+  "cid": "laxdaela_saga:x1638",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "talk arose"
+ },
+ {
+  "cid": "laxdaela_saga:x1760",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 36,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þórður Ingunnarson drowned (through Kotkell's sorcery)"
+ },
+ {
+  "cid": "laxdaela_saga:x1770",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 36,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "laxdaela_saga:x1844",
+  "killing": "yes",
+  "killer": "Hrútur",
+  "victim": "Eldgrímur",
+  "chapter": 37,
+  "duplicate_of": "KL185",
+  "event": "Hrútur > Eldgrímur",
+  "note": "Hrútur kills Eldgrímur"
+ },
+ {
+  "cid": "laxdaela_saga:x1871",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Kári Hrútsson dies from the seiðr (sorcery) of Kotkell's family; no physical killer (flag for review)"
+ },
+ {
+  "cid": "laxdaela_saga:x1877",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "",
+  "note": "order/plan"
+ },
+ {
+  "cid": "laxdaela_saga:x1933",
+  "killing": "yes",
+  "killer": "Ólafur pái",
+  "victim": "Stígandi",
+  "chapter": 38,
+  "duplicate_of": "",
+  "event": "Ólafur pái > Stígandi",
+  "note": "place-name sentence; next sentence: Ólafur's party stones Stígandi (Kotkell's son) to death"
+ },
+ {
+  "cid": "laxdaela_saga:x2064",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Hákon jarl had fallen, killer unnamed here; Noregur fallið = came under"
+ },
+ {
+  "cid": "laxdaela_saga:x2139",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat to burn the king"
+ },
+ {
+  "cid": "laxdaela_saga:x2153",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "laxdaela_saga:x2157",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "laxdaela_saga:x2221",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 41,
+  "duplicate_of": "",
+  "event": "",
+  "note": "plan"
+ },
+ {
+  "cid": "laxdaela_saga:x2518",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 46,
+  "duplicate_of": "",
+  "event": "",
+  "note": "river flows"
+ },
+ {
+  "cid": "laxdaela_saga:x2713",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 49,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "laxdaela_saga:x2737",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 49,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows, not fatal"
+ },
+ {
+  "cid": "laxdaela_saga:x2741",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 49,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Án svarti falls but survives (revives later)"
+ },
+ {
+  "cid": "laxdaela_saga:x2742",
+  "killing": "yes",
+  "killer": "Kjartan Ólafsson",
+  "victim": "Guðlaugur",
+  "chapter": 49,
+  "duplicate_of": "",
+  "event": "Kjartan Ólafsson > Guðlaugur",
+  "note": "Kjartan cuts off Guðlaugur's leg, enough to kill him"
+ },
+ {
+  "cid": "laxdaela_saga:x2752",
+  "killing": "yes",
+  "killer": "Bolli Þorleiksson",
+  "victim": "Kjartan Ólafsson",
+  "chapter": 49,
+  "duplicate_of": "KL186",
+  "event": "Bolli Þorleiksson > Kjartan Ólafsson",
+  "note": "Bolli gives Kjartan his death wound"
+ },
+ {
+  "cid": "laxdaela_saga:x2779",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 49,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intent"
+ },
+ {
+  "cid": "laxdaela_saga:x2980",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 55,
+  "duplicate_of": "",
+  "event": "",
+  "note": "stream"
+ },
+ {
+  "cid": "laxdaela_saga:x2992",
+  "killing": "yes",
+  "killer": "Bolli Þorleiksson",
+  "victim": "Án",
+  "chapter": 55,
+  "duplicate_of": "",
+  "event": "Bolli Þorleiksson > Án",
+  "note": "Bolli cleaves Án (Án hrísmagi/svarti) to the shoulders"
+ },
+ {
+  "cid": "laxdaela_saga:x2993",
+  "killing": "yes",
+  "killer": "Bolli Þorleiksson",
+  "victim": "Án",
+  "chapter": 55,
+  "duplicate_of": "",
+  "event": "Bolli Þorleiksson > Án",
+  "note": "Án dies"
+ },
+ {
+  "cid": "laxdaela_saga:x2998",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 55,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Lambi maimed, survives"
+ },
+ {
+  "cid": "laxdaela_saga:x3009",
+  "killing": "yes",
+  "killer": "Helgi Harðbeinsson; Steinþór Ólafsson",
+  "victim": "Bolli Þorleiksson",
+  "chapter": 55,
+  "duplicate_of": "",
+  "event": "Helgi Harðbeinsson; Steinþór Ólafsson > Bolli Þorleiksson",
+  "note": "Steinþór beheads the mortally wounded Bolli; Helgi Harðbeinsson gave him the death wound"
+ },
+ {
+  "cid": "laxdaela_saga:x3095",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 58,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wrestling fall"
+ },
+ {
+  "cid": "laxdaela_saga:x3165",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 59,
+  "duplicate_of": "",
+  "event": "",
+  "note": "plan"
+ },
+ {
+  "cid": "laxdaela_saga:x3215",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 60,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fallinn = suited"
+ },
+ {
+  "cid": "laxdaela_saga:x3241",
+  "killing": "yes",
+  "killer": "Helgi Harðbeinsson; Steinþór Ólafsson",
+  "victim": "Bolli Þorleiksson",
+  "chapter": 61,
+  "duplicate_of": "",
+  "event": "Helgi Harðbeinsson; Steinþór Ólafsson > Bolli Þorleiksson",
+  "note": "retrospective: Helgi gave Bolli banasár"
+ },
+ {
+  "cid": "laxdaela_saga:x3420",
+  "killing": "yes",
+  "killer": "Helgi Harðbeinsson",
+  "victim": "Hrappur",
+  "chapter": 64,
+  "duplicate_of": "",
+  "event": "Helgi Harðbeinsson > Hrappur",
+  "note": "Helgi spears Hrappur through the window"
+ },
+ {
+  "cid": "laxdaela_saga:x3435",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 64,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wound to Helgi, not fatal itself"
+ },
+ {
+  "cid": "laxdaela_saga:x3439",
+  "killing": "yes",
+  "killer": "Bolli",
+  "victim": "Helgi Harðbeinsson",
+  "chapter": 64,
+  "duplicate_of": "",
+  "event": "Bolli > Helgi Harðbeinsson",
+  "note": "Bolli Bollason runs Helgi through, his death wound"
+ },
+ {
+  "cid": "laxdaela_saga:x3443",
+  "killing": "yes",
+  "killer": "Þorleikur Bollason",
+  "victim": "Eyjólfur",
+  "chapter": 64,
+  "duplicate_of": "",
+  "event": "Þorleikur Bollason > Eyjólfur",
+  "note": "Þorleikur cuts off Eyjólfur's leg, he falls dead"
+ },
+ {
+  "cid": "laxdaela_saga:x3444",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 64,
+  "duplicate_of": "",
+  "event": "",
+  "note": "text says Húnbogi cuts 'Þorgils' in two, but Þorgils lives on (ch67); victim unclear in this text (other editions: Sölvi) - flag"
+ },
+ {
+  "cid": "laxdaela_saga:x3553",
+  "killing": "yes",
+  "killer": "Auðgísl",
+  "victim": "Þorgils Hölluson",
+  "chapter": 67,
+  "duplicate_of": "KL187",
+  "event": "Auðgísl > Þorgils Hölluson",
+  "note": "Auðgísl beheads Þorgils"
+ },
+ {
+  "cid": "laxdaela_saga:x3554",
+  "killing": "yes",
+  "killer": "Halldór",
+  "victim": "Auðgísl",
+  "chapter": 67,
+  "duplicate_of": "",
+  "event": "Halldór > Auðgísl",
+  "note": "Halldór, Þorgils's foster-brother, kills Auðgísl Þórarinsson in the booth door"
+ },
+ {
+  "cid": "laxdaela_saga:x3642",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 69,
+  "duplicate_of": "",
+  "event": "",
+  "note": "promise to kill"
+ },
+ {
+  "cid": "laxdaela_saga:x3775",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 71,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intent"
+ },
+ {
+  "cid": "laxdaela_saga:x3878",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 74,
+  "duplicate_of": "",
+  "event": "",
+  "note": "figure of speech"
+ },
+ {
+  "cid": "laxdaela_saga:x3902",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 74,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut timber"
+ },
+ {
+  "cid": "laxdaela_saga:x3960",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 75,
+  "duplicate_of": "",
+  "event": "",
+  "note": "felldi sig við = engaged in"
+ },
+ {
+  "cid": "laxdaela_saga:x3998",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 76,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drowning foreseen"
+ },
+ {
+  "cid": "laxdaela_saga:x4024",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 76,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drowning; St Olaf fell (not narrated)"
+ },
+ {
+  "cid": "laxdaela_saga:x4029",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 76,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fallinn = suited"
+ },
+ {
+  "cid": "laxdaela_saga:x4049",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 76,
+  "duplicate_of": "",
+  "event": "",
+  "note": "vegur = way"
+ },
+ {
+  "cid": "laxdaela_saga:x4161",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 80,
+  "duplicate_of": "",
+  "event": "",
+  "note": "bull killed"
+ },
+ {
+  "cid": "laxdaela_saga:x4255",
+  "killing": "yes",
+  "killer": "Bolli",
+  "victim": "Þórólfur",
+  "chapter": 83,
+  "duplicate_of": "KL190",
+  "event": "Bolli > Þórólfur",
+  "note": "Bolli runs Þórólfur through"
+ },
+ {
+  "cid": "laxdaela_saga:x4358",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 85,
+  "duplicate_of": "",
+  "event": "",
+  "note": "suggestion"
+ },
+ {
+  "cid": "laxdaela_saga:x4452",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 88,
+  "duplicate_of": "",
+  "event": "",
+  "note": "exhortation"
+ },
+ {
+  "cid": "laxdaela_saga:x4456",
+  "killing": "yes",
+  "killer": "Bolli",
+  "victim": "Helgi af Skeiði",
+  "chapter": 88,
+  "duplicate_of": "",
+  "event": "Bolli > Helgi af Skeiði",
+  "note": "Bolli Bollason spears Helgi, who hangs dead in the river"
+ },
+ {
+  "cid": "gull-thoris_saga:x114",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "sleep fell on them"
+ },
+ {
+  "cid": "gull-thoris_saga:x142",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "sleep fell on them"
+ },
+ {
+  "cid": "gull-thoris_saga:x151",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "river falls"
+ },
+ {
+  "cid": "gull-thoris_saga:x153",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut down a tree"
+ },
+ {
+  "cid": "gull-thoris_saga:x187",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "dragon (non-human); Hyrningur poisoned"
+ },
+ {
+  "cid": "gull-thoris_saga:x223",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "victims unnamed robbers"
+ },
+ {
+  "cid": "gull-thoris_saga:x277",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þórarinn Hallsteinsson kills an unnamed man of Hallur"
+ },
+ {
+  "cid": "gull-thoris_saga:x308",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 9,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intent, not carried out"
+ },
+ {
+  "cid": "gull-thoris_saga:x341",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows that do not bite"
+ },
+ {
+  "cid": "gull-thoris_saga:x343",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wounding; Már killed in x346"
+ },
+ {
+  "cid": "gull-thoris_saga:x346",
+  "killing": "yes",
+  "killer": "Askmaður; Kýlan",
+  "victim": "Már",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "Askmaður; Kýlan > Már",
+  "note": "Kýlan cuts off Már's hands, Askmaður spears him through the back"
+ },
+ {
+  "cid": "gull-thoris_saga:x365",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "burning of Askmaður's house; people given quarter; Askmaður's death at x366"
+ },
+ {
+  "cid": "gull-thoris_saga:x366",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Askmaður",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "Þórir > Askmaður",
+  "note": "Þórir hurls a burning brand at the boar, which turns out to be Askmaður, dead (shape-shifter, treated as human; marginal)"
+ },
+ {
+  "cid": "gull-thoris_saga:x377",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal wound to Þorsteinn Kinnarson"
+ },
+ {
+  "cid": "gull-thoris_saga:x395",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 11,
+  "duplicate_of": "",
+  "event": "",
+  "note": "victim unnamed"
+ },
+ {
+  "cid": "gull-thoris_saga:x429",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 12,
+  "duplicate_of": "",
+  "event": "",
+  "note": "victims unnamed"
+ },
+ {
+  "cid": "gull-thoris_saga:x436",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Rauður",
+  "chapter": 12,
+  "duplicate_of": "",
+  "event": "Þórir > Rauður",
+  "note": "Rauður falls before Þórir"
+ },
+ {
+  "cid": "gull-thoris_saga:x454",
+  "killing": "yes",
+  "killer": "Guðmundur",
+  "victim": "Örn",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Guðmundur > Örn",
+  "note": "Guðmundur (Þórisson) spears Örn through; Örn falls"
+ },
+ {
+  "cid": "gull-thoris_saga:x455",
+  "killing": "yes",
+  "killer": "Guðmundur",
+  "victim": "Örn",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Guðmundur > Örn",
+  "note": "Örn falls on the path"
+ },
+ {
+  "cid": "gull-thoris_saga:x457",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blows"
+ },
+ {
+  "cid": "gull-thoris_saga:x458",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blows"
+ },
+ {
+  "cid": "gull-thoris_saga:x459",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blows"
+ },
+ {
+  "cid": "gull-thoris_saga:x468",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Þorbjörn",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Þórir > Þorbjörn",
+  "note": "Þorbjörn falls before Þórir"
+ },
+ {
+  "cid": "gull-thoris_saga:x469",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Þorbjörn",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "Þórir > Þorbjörn",
+  "note": "Þorbjörn fallen"
+ },
+ {
+  "cid": "gull-thoris_saga:x517",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Helgi knocked off horse, not killed (Gunnar killing Þórarinn ákafi = KL138 is the preceding sentence)"
+ },
+ {
+  "cid": "gull-thoris_saga:x538",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "the horse falls dead"
+ },
+ {
+  "cid": "gull-thoris_saga:x539",
+  "killing": "yes",
+  "killer": "Guðmundur",
+  "victim": "Bljúgur",
+  "chapter": 14,
+  "duplicate_of": "KL136",
+  "event": "Guðmundur > Bljúgur",
+  "note": "Þórir stuns Bljúgur; Guðmundur then kills him (KL136)"
+ },
+ {
+  "cid": "gull-thoris_saga:x588",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Ketilbjörn kills an unnamed man; preceding sentence (Þórir kills Þorgeir and his father Ólafur with one blow) has no candidate word"
+ },
+ {
+  "cid": "gull-thoris_saga:x602",
+  "killing": "yes",
+  "killer": "Gunnar",
+  "victim": "Jósteinn",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "Gunnar > Jósteinn",
+  "note": "Vöflu-Gunnar cuts Jósteinn in two"
+ },
+ {
+  "cid": "gull-thoris_saga:x603",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þorvaldur fallen in battle with Þórir's side, killer not stated"
+ },
+ {
+  "cid": "gull-thoris_saga:x604",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "order to stop killing"
+ },
+ {
+  "cid": "gull-thoris_saga:x621",
+  "killing": "yes",
+  "killer": "Steinólfur; Kjallakur; Knútur",
+  "victim": "Þórarinn",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "Steinólfur; Kjallakur; Knútur > Þórarinn",
+  "note": "battle: Knútur joins Steinólfur's side and Þórarinn (Þórir's ally, not Þórarinn ákafi) falls; credited to party (marginal)"
+ },
+ {
+  "cid": "gull-thoris_saga:x639",
+  "killing": "yes",
+  "killer": "Gunnar",
+  "victim": "Hrómundur",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "Gunnar > Hrómundur",
+  "note": "Vöflu-Gunnar kills Hrómundur"
+ },
+ {
+  "cid": "gull-thoris_saga:x651",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Þormóður",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "Þórir > Þormóður",
+  "note": "Þórir strikes Þormóður banahögg"
+ },
+ {
+  "cid": "gull-thoris_saga:x656",
+  "killing": "yes",
+  "killer": "Þórir",
+  "victim": "Þormóður",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "Þórir > Þormóður",
+  "note": "place where Þormóður fell"
+ },
+ {
+  "cid": "gull-thoris_saga:x716",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed man dies"
+ },
+ {
+  "cid": "gull-thoris_saga:x720",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow parried"
+ },
+ {
+  "cid": "gull-thoris_saga:x722",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow by unnamed man"
+ },
+ {
+  "cid": "gull-thoris_saga:x723",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Ásmundur kills an unnamed man"
+ },
+ {
+  "cid": "gull-thoris_saga:x724",
+  "killing": "yes",
+  "killer": "Hallur",
+  "victim": "Ásmundur",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "Hallur > Ásmundur",
+  "note": "Hallur beheads Ásmundur"
+ },
+ {
+  "cid": "gull-thoris_saga:x731",
+  "killing": "yes",
+  "killer": "Steinólfur",
+  "victim": "Ketilbjörn",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "Steinólfur > Ketilbjörn",
+  "note": "Steinólfur cuts off Ketilbjörn's foot; Ketilbjörn kills two then falls (Steinólfur's party)"
+ },
+ {
+  "cid": "gull-thoris_saga:x763",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow at Þórir, not fatal"
+ },
+ {
+  "cid": "gull-thoris_saga:x801",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wound to Steinólfur, not fatal"
+ },
+ {
+  "cid": "gull-thoris_saga:x804",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "wound; Steinólfur survives"
+ },
+ {
+  "cid": "gull-thoris_saga:x826",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Steinn falls, killer lost in manuscript lacuna"
+ },
+ {
+  "cid": "gull-thoris_saga:x831",
+  "killing": "yes",
+  "killer": "Gunnar; Grímur",
+  "victim": "Þorgils",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "Gunnar; Grímur > Þorgils",
+  "note": "Þorgils falls before Gunnar and Grímur"
+ },
+ {
+  "cid": "gull-thoris_saga:x832",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Styrkár and seven men fall, killer unnamed"
+ },
+ {
+  "cid": "gull-thoris_saga:x870",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þórir's end: he vanished (became a dragon); no killer"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x134",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "",
+  "note": "felldi = threw in wrestling/game"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x254",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "",
+  "note": "beacon burned"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x369",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll = stream fell"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x421",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 11,
+  "duplicate_of": "",
+  "event": "",
+  "note": "a bear kills men and livestock (non-human)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x487",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 12,
+  "duplicate_of": "",
+  "event": "",
+  "note": "about the bear; hypothetical"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x547",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fire burning in cave"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x568",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "refers to Finnbogi killing the bear (non-human)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x569",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 14,
+  "duplicate_of": "",
+  "event": "",
+  "note": "about the bear; hypothetical"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x627",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "about the bear"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x846",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 24,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa undir = put under (load)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x851",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 24,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = falls flat, misses"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x853",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Uxi",
+  "chapter": 24,
+  "duplicate_of": "KL171",
+  "event": "Finnbogi > Uxi",
+  "note": "Uxi falls, head on stone, after Finnbogi trips him"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x911",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 27,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow at Finnbogi"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x913",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þorsteinn Brettingsson",
+  "chapter": 27,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þorsteinn Brettingsson",
+  "note": "Finnbogi stuns Þorsteinn with a stone then beheads him"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x914",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þorsteinn Brettingsson",
+  "chapter": 27,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þorsteinn Brettingsson",
+  "note": "Finnbogi beheads Þorsteinn"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x919",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Grímur Brettingsson",
+  "chapter": 27,
+  "duplicate_of": "",
+  "event": "Finnbogi > Grímur Brettingsson",
+  "note": "Finnbogi cleaves Grímur (son of Brettingur, ch1 genealogy) to the shoulders"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x944",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 28,
+  "duplicate_of": "",
+  "event": "",
+  "note": "speculation/hypothetical"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x980",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þorvaldur moðskegg",
+  "chapter": 29,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þorvaldur moðskegg",
+  "note": "Finnbogi wrestles Moðskegg (named Þorvaldur), bites through his throat; called a troll in insult but treated as a man (marginal)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1073",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 31,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = cut a spear shaft"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1138",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 32,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow does not bite (helmet)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1196",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 34,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll í óvit = knocked unconscious"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1239",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = cut a spear shaft"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1241",
+  "killing": "yes",
+  "killer": "Þórarinn",
+  "victim": "Þorkell",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "Þórarinn > Þorkell",
+  "note": "Þórarinn (goði, kinsman of Jökull) and two men attack Þorkell, who falls"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1242",
+  "killing": "yes",
+  "killer": "Finnbogi; Bergur",
+  "victim": "Kolur",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "Finnbogi; Bergur > Kolur",
+  "note": "Bergur spears Kolur, Finnbogi crushes his skull with a stone"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1253",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow to Jökull (Jökull beheading Bergur is in the preceding sentence)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1256",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows to both sides, no named victim"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1260",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þórarinn",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þórarinn",
+  "note": "Finnbogi cuts Þórarinn goði in two"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1300",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed casualties"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1307",
+  "killing": "yes",
+  "killer": "Gunnbjörn",
+  "victim": "Rauður",
+  "chapter": 35,
+  "duplicate_of": "",
+  "event": "Gunnbjörn > Rauður",
+  "note": "Gunnbjörn wrestles down the viking Rauður and cuts off his head"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1328",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 36,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll í óvit = knocked out by a slap"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1384",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fell to knee in wrestling"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1386",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fell to knee in wrestling"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1407",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow on shield, Jökull unhurt"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1420",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Bersi",
+  "chapter": 37,
+  "duplicate_of": "",
+  "event": "Finnbogi > Bersi",
+  "note": "Finnbogi beheads Bersi; his húskarl only knocked out"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1554",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þorbjörn sleggja",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þorbjörn sleggja",
+  "note": "Þorbjörn falls in the fight; Finnbogi kills him with a knife just after (x1567)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1567",
+  "killing": "yes",
+  "killer": "Finnbogi",
+  "victim": "Þorbjörn sleggja",
+  "chapter": 40,
+  "duplicate_of": "",
+  "event": "Finnbogi > Þorbjörn sleggja",
+  "note": "Finnbogi kills Þorbjörn sleggja with his knife"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1582",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 41,
+  "duplicate_of": "",
+  "event": "",
+  "note": "á brenndur = burned by (figurative)"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1640",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 41,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1654",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 41,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed húskarl kills unnamed follower of Brandur"
+ },
+ {
+  "cid": "finnboga_saga_ramma:x1682",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 42,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intent, prevented"
+ },
+ {
+  "cid": "fljotsdaela_saga:x75",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = river flows"
+ },
+ {
+  "cid": "fljotsdaela_saga:x94",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "death from infected wound/illness"
+ },
+ {
+  "cid": "fljotsdaela_saga:x138",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa hendi við = refuse"
+ },
+ {
+  "cid": "fljotsdaela_saga:x213",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "light burning"
+ },
+ {
+  "cid": "fljotsdaela_saga:x291",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = cut a chain"
+ },
+ {
+  "cid": "fljotsdaela_saga:x313",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-human (giant)"
+ },
+ {
+  "cid": "fljotsdaela_saga:x314",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-human (giant)"
+ },
+ {
+  "cid": "fljotsdaela_saga:x344",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "burning a dead giant's body"
+ },
+ {
+  "cid": "fljotsdaela_saga:x473",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 9,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa hendi við = refuse"
+ },
+ {
+  "cid": "fljotsdaela_saga:x499",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "höggva upp skip = break up a ship"
+ },
+ {
+  "cid": "fljotsdaela_saga:x530",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "",
+  "note": "snow fell"
+ },
+ {
+  "cid": "fljotsdaela_saga:x702",
+  "killing": "yes",
+  "killer": "Helgi Droplaugarson",
+  "victim": "Þorgrímur tordýfill",
+  "chapter": 12,
+  "duplicate_of": "",
+  "event": "Helgi Droplaugarson > Þorgrímur tordýfill",
+  "note": "Helgi spears Þorgrímur tordýfill, who falls dead"
+ },
+ {
+  "cid": "fljotsdaela_saga:x735",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 12,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepur á dyr = knocks"
+ },
+ {
+  "cid": "fljotsdaela_saga:x881",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa á dyr = knock"
+ },
+ {
+  "cid": "fljotsdaela_saga:x889",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepur á dyr = knocks"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1073",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = falls off the wall, unhurt"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1080",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hypothetical"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1119",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = stream flows"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1124",
+  "killing": "yes",
+  "killer": "Þiðrandi Geitisson",
+  "victim": "Ketill",
+  "chapter": 16,
+  "duplicate_of": "",
+  "event": "Þiðrandi Geitisson > Ketill",
+  "note": "Þiðrandi runs Ketill (his mother's brother, father of Þorkell fullspakur) through"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1168",
+  "killing": "yes",
+  "killer": "Gunnar",
+  "victim": "Þiðrandi Geitisson",
+  "chapter": 17,
+  "duplicate_of": "KL188",
+  "event": "Gunnar > Þiðrandi Geitisson",
+  "note": "Gunnar the Austmaður shoots Þiðrandi"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1174",
+  "killing": "yes",
+  "killer": "Gunnar",
+  "victim": "Þiðrandi Geitisson",
+  "chapter": 17,
+  "duplicate_of": "KL188",
+  "event": "Gunnar > Þiðrandi Geitisson",
+  "note": "Gunnar laments having killed Þiðrandi"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1185",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "river falls"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1226",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Hróar dies of grief"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1229",
+  "killing": "yes",
+  "killer": "Þiðrandi Geitisson",
+  "victim": "Ketill",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "Þiðrandi Geitisson > Ketill",
+  "note": "report: Þorkell's father (Ketill) and Þiðrandi have fallen; Þiðrandi's death = KL188 (Gunnar)"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1306",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "conditional/plan"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1342",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepur vör = dives under water"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1390",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1469",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut open windows"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1472",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut open windows"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1539",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "cut around the ship"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1603",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "vegur = road"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1604",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "vegur = road"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1646",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1703",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 20,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "fljotsdaela_saga:x1786",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 21,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow missed"
+ },
+ {
+  "cid": "hrana_saga_hrings:x53",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Sigfús",
+  "chapter": 0,
+  "duplicate_of": "KL080",
+  "event": "Hrani > Sigfús",
+  "note": "Hrani kills Sigfús with Helganautr"
+ },
+ {
+  "cid": "hrana_saga_hrings:x95",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = missed blow"
+ },
+ {
+  "cid": "hrana_saga_hrings:x97",
+  "killing": "yes",
+  "killer": "Hróaldur",
+  "victim": "Gauti",
+  "chapter": 0,
+  "duplicate_of": "KL082",
+  "event": "Hróaldur > Gauti",
+  "note": "Hróaldr (galti) kills Gauti; his húskarl unnamed"
+ },
+ {
+  "cid": "hrana_saga_hrings:x115",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "victim an unnamed follower of Hrani"
+ },
+ {
+  "cid": "hrana_saga_hrings:x126",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed follower falls"
+ },
+ {
+  "cid": "hrana_saga_hrings:x129",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blows that do not kill"
+ },
+ {
+  "cid": "hrana_saga_hrings:x130",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll = sword fell from hand"
+ },
+ {
+  "cid": "hrana_saga_hrings:x131",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Kári",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Kári",
+  "note": "Hrani cuts Kári down; Hrani beheads him afterwards (x142)"
+ },
+ {
+  "cid": "hrana_saga_hrings:x133",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Hróaldur",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Hróaldur",
+  "note": "Hrani cleaves Hróaldr galti's head; 'Galti' = Hróaldur"
+ },
+ {
+  "cid": "hrana_saga_hrings:x134",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Hróaldur",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Hróaldur",
+  "note": "Galti falls dead"
+ },
+ {
+  "cid": "hrana_saga_hrings:x142",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Kári",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Kári",
+  "note": "Hrani beheads the dying Kári"
+ },
+ {
+  "cid": "hrana_saga_hrings:x187",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-human opponent (troll-woman); féll = fainted"
+ },
+ {
+  "cid": "hrana_saga_hrings:x228",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-human (troll-woman) kills Gestur / is beheaded"
+ },
+ {
+  "cid": "hrana_saga_hrings:x274",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "verse in dream, prophecy"
+ },
+ {
+  "cid": "hrana_saga_hrings:x340",
+  "killing": "yes",
+  "killer": "Eysteinn harðverkr",
+  "victim": "Grímr járnkarl",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Eysteinn harðverkr > Grímr járnkarl",
+  "note": "Grímr falls in battle against Eysteinn harðverkr's force; killing credited to the party led by Eysteinn (marginal)"
+ },
+ {
+  "cid": "hrana_saga_hrings:x380",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow on shield"
+ },
+ {
+  "cid": "hrana_saga_hrings:x381",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow on shield"
+ },
+ {
+  "cid": "hrana_saga_hrings:x382",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Arnhöfði",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Arnhöfði",
+  "note": "Hrani's second blow takes off Arnhöfði's side and arm; 'segir eigi framar af honum', later 'höfðu fellt bræðr'"
+ },
+ {
+  "cid": "hrana_saga_hrings:x384",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow on shield"
+ },
+ {
+  "cid": "hrana_saga_hrings:x385",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "blow on shield"
+ },
+ {
+  "cid": "hrana_saga_hrings:x386",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow"
+ },
+ {
+  "cid": "hrana_saga_hrings:x387",
+  "killing": "yes",
+  "killer": "Einarr",
+  "victim": "Hildir",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Einarr > Hildir",
+  "note": "Einarr beheads the berserk Hildir"
+ },
+ {
+  "cid": "hrana_saga_hrings:x389",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed victims of archers"
+ },
+ {
+  "cid": "hrana_saga_hrings:x427",
+  "killing": "yes",
+  "killer": "Hrani",
+  "victim": "Hróaldur",
+  "chapter": 0,
+  "duplicate_of": "",
+  "event": "Hrani > Hróaldur",
+  "note": "retrospective: 'felldi Galta'; same killing as x133"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x43",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 2,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll = fell over from the thrust"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x45",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 2,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Svartur's speech/prophecy; killing itself at x46"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x46",
+  "killing": "yes",
+  "killer": "Brodd-Helgi",
+  "victim": "Svartur",
+  "chapter": 2,
+  "duplicate_of": "",
+  "event": "Brodd-Helgi > Svartur",
+  "note": "Helgi strikes Svartur banahögg"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x106",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Hrafn's death rumoured as lost in bog; no named killer"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x164",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = be outlawed (sekur fellur)"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x223",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 7,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjuggu = cut down a forest"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x234",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 7,
+  "duplicate_of": "",
+  "event": "",
+  "note": "höggva = cut sticks"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x240",
+  "killing": "yes",
+  "killer": "Brodd-Helgi",
+  "victim": "Þormóður stikublindur",
+  "chapter": 7,
+  "duplicate_of": "",
+  "event": "Brodd-Helgi > Þormóður stikublindur",
+  "note": "Helgi 'leggur í gegnum Þormóð' just before; Helgi held to be banamaður of those killed"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x259",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 8,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur niður = case dropped"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x350",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "dream of oxen"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x352",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "dream of oxen"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x355",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "dream interpretation/prediction"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x421",
+  "killing": "yes",
+  "killer": "Bjarni",
+  "victim": "Geitir",
+  "chapter": 14,
+  "duplicate_of": "KL102",
+  "event": "Bjarni > Geitir",
+  "note": "Bjarni kills Geitir"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x497",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "vegur sigur = wins victory (proverb)"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x539",
+  "killing": "yes",
+  "killer": "Blængur",
+  "victim": "Birningur",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "Blængur > Birningur",
+  "note": "Birningur falls first before Blængur in the battle (ch18)"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x540",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "non-fatal blow, Bjarni only grazed"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x541",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "féll = necklace fell"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x546",
+  "killing": "yes",
+  "killer": "Bjarni",
+  "victim": "Blængur",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "Bjarni > Blængur",
+  "note": "Blængur falls fighting Bjarni"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x549",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 18,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Eilífur Torfason fell before Hallbjörn but survived (healed, ch18 later)"
+ },
+ {
+  "cid": "vopnfirdinga_saga:x576",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 19,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa = slaughter livestock"
+ },
+ {
+  "cid": "haensna-thoris_saga:x87",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fellur = feels (hard winter)"
+ },
+ {
+  "cid": "haensna-thoris_saga:x104",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 4,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa = slaughter horses"
+ },
+ {
+  "cid": "haensna-thoris_saga:x109",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 5,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa = slaughter livestock"
+ },
+ {
+  "cid": "haensna-thoris_saga:x290",
+  "killing": "yes",
+  "killer": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði",
+  "victim": "Blund-Ketill",
+  "chapter": 9,
+  "duplicate_of": "",
+  "event": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði > Blund-Ketill",
+  "note": "burning of Blund-Ketill narrated here (ch9, 'þeir Þorvaldur' with Þórir and Arngrímur); Þórir's line is spoken during the actual burning"
+ },
+ {
+  "cid": "haensna-thoris_saga:x341",
+  "killing": "yes",
+  "killer": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði",
+  "victim": "Blund-Ketill",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði > Blund-Ketill",
+  "note": "report of the burning of Blund-Ketill"
+ },
+ {
+  "cid": "haensna-thoris_saga:x398",
+  "killing": "yes",
+  "killer": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði",
+  "victim": "Blund-Ketill",
+  "chapter": 10,
+  "duplicate_of": "",
+  "event": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði > Blund-Ketill",
+  "note": "report of the burning of Blund-Ketill"
+ },
+ {
+  "cid": "haensna-thoris_saga:x431",
+  "killing": "yes",
+  "killer": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði",
+  "victim": "Blund-Ketill",
+  "chapter": 11,
+  "duplicate_of": "",
+  "event": "Þorvaldur Oddsson; Hænsna-Þórir; Arngrímur goði > Blund-Ketill",
+  "note": "report of the burning of Blund-Ketill"
+ },
+ {
+  "cid": "haensna-thoris_saga:x471",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "Þórólfur refur fell at the ford battle but killer unnamed"
+ },
+ {
+  "cid": "haensna-thoris_saga:x472",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 13,
+  "duplicate_of": "",
+  "event": "",
+  "note": "unnamed victim and killer"
+ },
+ {
+  "cid": "haensna-thoris_saga:x525",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ },
+ {
+  "cid": "haensna-thoris_saga:x533",
+  "killing": "yes",
+  "killer": "Hersteinn Blund-Ketilsson",
+  "victim": "Hænsna-Þórir",
+  "chapter": 15,
+  "duplicate_of": "",
+  "event": "Hersteinn Blund-Ketilsson > Hænsna-Þórir",
+  "note": "Hersteinn cuts off Hænsna-Þórir's head (after-sentence); the twelve men are unnamed"
+ },
+ {
+  "cid": "haensna-thoris_saga:x595",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat/intent"
+ },
+ {
+  "cid": "haensna-thoris_saga:x605",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 17,
+  "duplicate_of": "",
+  "event": "",
+  "note": "intended burning, called off"
+ },
+ {
+  "cid": "valla-ljots_saga:x50",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 1,
+  "duplicate_of": "",
+  "event": "",
+  "note": "hjó = cut off a sow's snout"
+ },
+ {
+  "cid": "valla-ljots_saga:x55",
+  "killing": "yes",
+  "killer": "Halli",
+  "victim": "Torfi",
+  "chapter": 1,
+  "duplicate_of": "",
+  "event": "Halli > Torfi",
+  "note": "Halli ambushes Torfi in the wood and kills him (ch1)"
+ },
+ {
+  "cid": "valla-ljots_saga:x139",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 3,
+  "duplicate_of": "",
+  "event": "",
+  "note": "fallinn = snow had fallen"
+ },
+ {
+  "cid": "valla-ljots_saga:x221",
+  "killing": "yes",
+  "killer": "Ljótur",
+  "victim": "Halli",
+  "chapter": 4,
+  "duplicate_of": "KL090",
+  "event": "Ljótur > Halli",
+  "note": "Ljótur kills Halli"
+ },
+ {
+  "cid": "valla-ljots_saga:x324",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 6,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa = reproach, rhetorical"
+ },
+ {
+  "cid": "valla-ljots_saga:x356",
+  "killing": "yes",
+  "killer": "Eyjólfur Þorsteinsson",
+  "victim": "Böðvar",
+  "chapter": 7,
+  "duplicate_of": "",
+  "event": "Eyjólfur Þorsteinsson > Böðvar",
+  "note": "Eyjólfur strikes Böðvar banahögg; same sentence leads into Björn killing Bessi (KL091)"
+ },
+ {
+  "cid": "valla-ljots_saga:x359",
+  "killing": "yes",
+  "killer": "Bessi",
+  "victim": "Sigmundur",
+  "chapter": 7,
+  "duplicate_of": "",
+  "event": "Bessi > Sigmundur",
+  "note": "casualty list; preceding sentence 'Hafði Bessi vegið Sigmund áður'; Böðvar (Eyjólfur, x356) and Bessi (Björn, KL091) also listed; Hávarður austmaður and Þorsteinn killers unnamed"
+ },
+ {
+  "cid": "valla-ljots_saga:x472",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 9,
+  "duplicate_of": "",
+  "event": "",
+  "note": "drepa = reproach/threat"
+ },
+ {
+  "cid": "valla-ljots_saga:x473",
+  "killing": "no",
+  "killer": "",
+  "victim": "",
+  "chapter": 9,
+  "duplicate_of": "",
+  "event": "",
+  "note": "threat"
+ }
+]

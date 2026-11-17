@@ -12,10 +12,15 @@ import csv, json, collections, random, math
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+import os
+KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv = original keyword set only
+
 F, A, FIG = ROOT / "data/feuds", ROOT / "data/analysis", ROOT / "figures"
-base = {r["kid"]: r for r in csv.DictReader(open(ROOT / "data/final/killings_final.csv", encoding="utf-8"))}
+base = {r["kid"]: r for r in csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8"))}
 ann, feuds = {}, []
 for f in sorted(F.glob("feud_output_*.json")):
+    if f.name == "feud_output_ext.json" and KILLINGS != "killings_all.csv":
+        continue
     d = json.loads(f.read_text(encoding="utf-8"))
     ann.update({k["kid"]: k for k in d["killings"]}); feuds += d.get("feuds", [])
 missing = set(base) - set(ann)

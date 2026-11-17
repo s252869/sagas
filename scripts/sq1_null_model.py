@@ -12,9 +12,12 @@ import csv, random, statistics, collections
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+import os
+KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv = original keyword set only
+
 A = ROOT / "data/analysis"; FIG = ROOT / "figures"; FIG.mkdir(exist_ok=True)
 N, SEED = 1000, 2805
-kill = list(csv.DictReader(open(ROOT / "data/final/killings_final.csv", encoding="utf-8")))
+kill = list(csv.DictReader(open(ROOT / "data/final" / KILLINGS, encoding="utf-8")))
 grp = {(r["saga"], r["name"]): r["family_group"] for r in csv.DictReader(open(A / "persons.csv", encoding="utf-8"))}
 tie = collections.defaultdict(set)
 for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")):
