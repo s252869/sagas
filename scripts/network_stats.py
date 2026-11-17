@@ -141,3 +141,29 @@ ax.legend(handles=[Line2D([], [], color=KIN, lw=1.5, label="family tie (friendly
 ax.axis("off"); fig.tight_layout()
 fig.savefig(FIG / "network_njala.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "network_njala.pdf", bbox_inches="tight")
 print("saved figures/network_njala.png")
+
+# ---- figure: the five largest saga networks (small multiples) ----
+from matplotlib.lines import Line2D
+top5 = [s for s, _ in size.most_common(5)]
+fig, axes = plt.subplots(2, 3, figsize=(7.0, 4.9))
+for ax, s in zip(axes.flat, top5):
+    full = signed_graph({s})
+    G = full.subgraph(max(nx.connected_components(full), key=len)).copy()
+    pos = nx.spring_layout(G, seed=3, k=1.0 / math.sqrt(G.number_of_nodes()), iterations=500)
+    fe = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] > 0]
+    he = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] < 0]
+    nx.draw_networkx_edges(G, pos, edgelist=fe, edge_color=KIN, width=0.4, ax=ax)
+    nx.draw_networkx_edges(G, pos, edgelist=he, edge_color=HOST, width=0.9, ax=ax)
+    pv = [v for v in G if v in part]; deg = dict(G.degree())
+    nx.draw_networkx_nodes(G, pos, nodelist=pv, node_size=[4 + 2.5 * deg[v] for v in pv], node_color=NODE, linewidths=0, ax=ax)
+    nx.draw_networkx_nodes(G, pos, nodelist=[v for v in G if v not in part], node_size=2, node_color="#9aa6a8", linewidths=0, ax=ax)
+    nk = sum(1 for r in kill if r["saga"] == s)
+    nkg = sum(1 for r in kill if r["saga"] == s and (s, r["killer"]) in G and (s, r["victim"]) in G)
+    ax.set_title(f"{NICE.get(s, s)}\n{G.number_of_nodes()} of {full.number_of_nodes()} people, {nkg} of {nk} killings", fontsize=7, color=INK)
+    ax.axis("off")
+leg = axes.flat[5]; leg.axis("off")
+leg.legend(handles=[Line2D([], [], color=KIN, lw=1.2, label="family tie (friendly)"), Line2D([], [], color=HOST, lw=1.8, label="killing (hostile)"),
+                    Line2D([], [], marker="o", ls="", ms=5, color=NODE, label="killer or victim"), Line2D([], [], marker="o", ls="", ms=2.5, color="#9aa6a8", label="relative")],
+           loc="center", fontsize=7, frameon=False)
+fig.tight_layout(); fig.savefig(FIG / "network_top5.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "network_top5.pdf", bbox_inches="tight")
+print("saved figures/network_top5.png")
