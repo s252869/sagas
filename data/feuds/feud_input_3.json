@@ -1,0 +1,659 @@
+[
+ {
+  "kid": "KL103",
+  "saga": "bardar_saga_snaefellsass",
+  "chapter": 11,
+  "killer": "Þorbjörn öxnamegin",
+  "victim": "Atli Ásmundarson",
+  "support": "yes",
+  "evidence": "Hann drap Atla Ásmundarson en Grettir hefndi bróður síns og vó Þorbjörn."
+ },
+ {
+  "kid": "KL104",
+  "saga": "bardar_saga_snaefellsass",
+  "chapter": 11,
+  "killer": "Grettir",
+  "victim": "Þorbjörn öxnamegin",
+  "support": "yes",
+  "evidence": "Grettir hefndi bróður síns og vó Þorbjörn."
+ },
+ {
+  "kid": "KL106",
+  "saga": "droplaugarsona_saga",
+  "chapter": 3,
+  "killer": "Helgi Droplaugarson",
+  "victim": "Þorgrímur",
+  "support": "yes",
+  "evidence": "skaut Helgi spjóti á honum miðjum og féll Þorgrímur þegar dauður niður"
+ },
+ {
+  "kid": "KL107",
+  "saga": "droplaugarsona_saga",
+  "chapter": 6,
+  "killer": "Helgi Droplaugarson",
+  "victim": "Björn",
+  "support": "yes",
+  "evidence": "Síðan hjó Helgi Björn banahögg og stefndi honum til óhelgi"
+ },
+ {
+  "kid": "KL108",
+  "saga": "droplaugarsona_saga",
+  "chapter": 7,
+  "killer": "Þorgils",
+  "victim": "Hallsteinn",
+  "support": "yes",
+  "evidence": "Þá hjó Þorgils til Hallsteins með exi er átti Helgi Droplaugarson og þurfti hann eigi fleiri til bana."
+ },
+ {
+  "kid": "KL109",
+  "saga": "droplaugarsona_saga",
+  "chapter": 7,
+  "killer": "Helgi Droplaugarson",
+  "victim": "Þorgils",
+  "support": "yes",
+  "evidence": "sá að Hallsteinn var veginn. Helgi drap þegar þrælinn."
+ },
+ {
+  "kid": "KL110",
+  "saga": "droplaugarsona_saga",
+  "chapter": 13,
+  "killer": "Grímur Droplaugarson",
+  "victim": "Helgi Ásbjarnarson",
+  "support": "yes",
+  "evidence": "En síðan lagði Grímur sverðinu á Helga svo að stóð í gegnum hann."
+ },
+ {
+  "kid": "KL111",
+  "saga": "egils_saga",
+  "chapter": 27,
+  "killer": "Skalla-Grímur",
+  "victim": "Sigtryggur",
+  "support": "yes",
+  "evidence": "Skalla-Grímur ruddi framstafninn og drap Sigtrygg."
+ },
+ {
+  "kid": "KL112",
+  "saga": "egils_saga",
+  "chapter": 44,
+  "killer": "Egill",
+  "victim": "Bárður",
+  "support": "yes",
+  "evidence": "hann lagði sverðinu á Bárði miðjum, svo að blóðrefillinn hljóp út um bakið; féll hann dauður niður"
+ },
+ {
+  "kid": "KL113",
+  "saga": "egils_saga",
+  "chapter": 49,
+  "killer": "Eyvindur",
+  "victim": "Þorvaldur",
+  "support": "yes",
+  "evidence": "Þá hljóp Eyvindur upp og brá saxi einu og lagði á Þorvaldi, svo að það var ærið banasár"
+ },
+ {
+  "kid": "KL114",
+  "saga": "egils_saga",
+  "chapter": 54,
+  "killer": "Egill",
+  "victim": "Aðils jarl",
+  "support": "yes",
+  "evidence": "Egill gekk fram, til þess er hann mætti Aðilsi jarli; áttust þeir fá högg við, áður Aðils jarl féll"
+ },
+ {
+  "kid": "KL115",
+  "saga": "egils_saga",
+  "chapter": 58,
+  "killer": "Egill",
+  "victim": "Rögnvaldur",
+  "support": "yes",
+  "evidence": "Létust þeir þar þrettán, Rögnvaldur og förunautar hans"
+ },
+ {
+  "kid": "KL116",
+  "saga": "egils_saga",
+  "chapter": 76,
+  "killer": "Egill",
+  "victim": "Úlfur",
+  "support": "yes",
+  "evidence": "Egill sótti þá eftir þeim; þar féll Úlfur, og að lyktum drap Egill þar einn ellefu menn"
+ },
+ {
+  "kid": "KL117",
+  "saga": "egils_saga",
+  "chapter": 78,
+  "killer": "Lambi",
+  "victim": "Kóri",
+  "support": "partly",
+  "evidence": "Þá sóttu þeir Lambi eftir þeim og drápu þar þann, er Kóri hét"
+ },
+ {
+  "kid": "KL118",
+  "saga": "egils_saga",
+  "chapter": 78,
+  "killer": "Lambi",
+  "victim": "Skorri",
+  "support": "partly",
+  "evidence": "fundu þeir Skorra í Skorraey og drápu hann þar"
+ },
+ {
+  "kid": "KL119",
+  "saga": "egils_saga",
+  "chapter": 78,
+  "killer": "Lambi",
+  "victim": "Þormóður",
+  "support": "partly",
+  "evidence": "þá reru þeir út til Þormóðsskers og drápu þar Þormóð"
+ },
+ {
+  "kid": "KL120",
+  "saga": "egils_saga",
+  "chapter": 83,
+  "killer": "Þorsteinn Egilsson",
+  "victim": "Grani",
+  "support": "yes",
+  "evidence": "Þorsteinn kom þá eftir, og hittust þeir Grani í garðshliðinu; Þorsteinn vó hann þar"
+ },
+ {
+  "kid": "KL121",
+  "saga": "egils_saga",
+  "chapter": 84,
+  "killer": "Þorsteinn Egilsson",
+  "victim": "Þrándur",
+  "support": "yes",
+  "evidence": "Þorsteinn reiddi upp öxina hart og hjó á háls Þrándi, svo að höfuðið féll á bringuna"
+ },
+ {
+  "kid": "KL161",
+  "saga": "eiriks_saga_rauda",
+  "chapter": 2,
+  "killer": "Eiríkur rauði",
+  "victim": "Eyjólfur saur",
+  "support": "yes",
+  "evidence": "Eyjólfur saur frændi hans drap þrælana ... Fyrir það vó Eiríkur Eyjólf saur."
+ },
+ {
+  "kid": "KL162",
+  "saga": "eiriks_saga_rauda",
+  "chapter": 2,
+  "killer": "Eiríkur rauði",
+  "victim": "Hólmgöngu-Hrafn",
+  "support": "yes",
+  "evidence": "Hann vó og Hólmgöngu-Hrafn að Leikskálum."
+ },
+ {
+  "kid": "KL172",
+  "saga": "fostbraedra_saga",
+  "chapter": 2,
+  "killer": "Jöður",
+  "victim": "Hávar",
+  "support": "yes",
+  "evidence": "Hann snarar þá að Hávari og leggur spjóti í gegnum hann. Af því sári lét Hávar líf sitt."
+ },
+ {
+  "kid": "KL173",
+  "saga": "fostbraedra_saga",
+  "chapter": 3,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Jöður",
+  "support": "yes",
+  "evidence": "gengur Þorgeir að dyrunum og lagði spjóti á honum miðjum og þegar í gegnum hann"
+ },
+ {
+  "kid": "KL174",
+  "saga": "fostbraedra_saga",
+  "chapter": 5,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þorbrandur",
+  "support": "yes",
+  "evidence": "Þau urðu endalok þessa fundar að Þorbrandur féll fyrir Þorgeiri en Ingólfur fyrir Þormóði."
+ },
+ {
+  "kid": "KL175",
+  "saga": "fostbraedra_saga",
+  "chapter": 5,
+  "killer": "Þormóður Bersason",
+  "victim": "Ingólfur",
+  "support": "yes",
+  "evidence": "Þorbrandur féll fyrir Þorgeiri en Ingólfur fyrir Þormóði"
+ },
+ {
+  "kid": "KL176",
+  "saga": "fostbraedra_saga",
+  "chapter": 7,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þorgils Mársson",
+  "support": "yes",
+  "evidence": "Þorgeir var þeirra meir lagður til mannskaða þá féll Þorgils fyrir honum"
+ },
+ {
+  "kid": "KL177",
+  "saga": "fostbraedra_saga",
+  "chapter": 8,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Torfi",
+  "support": "yes",
+  "evidence": "Hann ríður þá yfir ána að Torfa og leggur spjóti í gegnum hann. Torfi var þegar dauður."
+ },
+ {
+  "kid": "KL178",
+  "saga": "fostbraedra_saga",
+  "chapter": 17,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Gautur Sleituson",
+  "support": "yes",
+  "evidence": "höggur Þorgeir til Gauts og klýfur hann í herðar niður. Fékk Gautur af því sári bana."
+ },
+ {
+  "kid": "KL179",
+  "saga": "fostbraedra_saga",
+  "chapter": 19,
+  "killer": "Þorgeir Hávarsson",
+  "victim": "Þórir austmaður",
+  "support": "yes",
+  "evidence": "Þórir, Austmaður, er lagði spjóti í gegnum Þorgeir en Þorgeir gekk á lagið þar til er hann hjó hann banahögg"
+ },
+ {
+  "kid": "KL180",
+  "saga": "fostbraedra_saga",
+  "chapter": 26,
+  "killer": "Þormóður Bersason",
+  "victim": "Loðinn",
+  "support": "yes",
+  "evidence": "bregður Þormóður höggöxi undan skikkju sinni og höggur í höfuð Loðini svo að hann féll þegar dauður"
+ },
+ {
+  "kid": "KL181",
+  "saga": "fostbraedra_saga",
+  "chapter": 27,
+  "killer": "Þormóður Bersason",
+  "victim": "Þorgrímur",
+  "support": "yes",
+  "evidence": "Þormóður höggur þá í höfuð honum og klýfur hann í herðar niður"
+ },
+ {
+  "kid": "KL073",
+  "saga": "gisla_saga_surssonar",
+  "chapter": 1,
+  "killer": "Björn",
+  "victim": "Ari",
+  "support": "yes",
+  "evidence": "Þá berjast þeir og lýkur svo að Ari fellur og lætur líf sitt. Þykist Björn hafa vegið til landa og konu."
+ },
+ {
+  "kid": "KL074",
+  "saga": "gisla_saga_surssonar",
+  "chapter": 16,
+  "killer": "Gísli",
+  "victim": "Þorgrímur",
+  "support": "yes",
+  "evidence": "leggur hann í gegnum Þorgrím með Grásíðu svo að í beðnum nam stað."
+ },
+ {
+  "kid": "KL075",
+  "saga": "gisla_saga_surssonar",
+  "chapter": 28,
+  "killer": "Bergur",
+  "victim": "Þorkell",
+  "support": "yes",
+  "evidence": "reiðir upp sverðið og rekur á hálsinn Þorkatli svo að af tók höfuðið ... sá hét Bergur er vígið hafði vegið"
+ },
+ {
+  "kid": "KL135",
+  "saga": "gull-thoris_saga",
+  "chapter": 14,
+  "killer": "Þórir",
+  "victim": "Frakki",
+  "support": "yes",
+  "evidence": "Þórir tók þá sverð sitt og hljóp á mýrina og vó þar Frakka. Hét þar síðan Frakkamýr."
+ },
+ {
+  "kid": "KL136",
+  "saga": "gull-thoris_saga",
+  "chapter": 14,
+  "killer": "Guðmundur",
+  "victim": "Bljúgur",
+  "support": "yes",
+  "evidence": "Guðmundur vó Bljúg í lækinum er síðan heitir Bljúgslækur."
+ },
+ {
+  "kid": "KL137",
+  "saga": "gull-thoris_saga",
+  "chapter": 14,
+  "killer": "Þórir",
+  "victim": "Styr",
+  "support": "yes",
+  "evidence": "Þórir gat náð Styr á brekku uppi og drap hann. Þar heitir nú Styrsbrekka."
+ },
+ {
+  "kid": "KL138",
+  "saga": "gull-thoris_saga",
+  "chapter": 14,
+  "killer": "Gunnar",
+  "victim": "Þórarinn ákafi",
+  "support": "yes",
+  "evidence": "Þar vó Gunnar Þórarin og tvo aðra en Grímur drap einn."
+ },
+ {
+  "kid": "KL139",
+  "saga": "gull-thoris_saga",
+  "chapter": 15,
+  "killer": "Gunnar",
+  "victim": "Blígur",
+  "support": "yes",
+  "evidence": "Blígur tók undan með rás og fékk Gunnar tekið hann í mýri einni og drap hann þar"
+ },
+ {
+  "kid": "KL140",
+  "saga": "gull-thoris_saga",
+  "chapter": 17,
+  "killer": "Þórir",
+  "victim": "Helgi",
+  "support": "yes",
+  "evidence": "Þórir hljóp eftir Helga og elti hann út til Kálfár og vó hann undir Helgasteini út frá Hjöllum."
+ },
+ {
+  "kid": "KL141",
+  "saga": "gull-thoris_saga",
+  "chapter": 18,
+  "killer": "Gunnar",
+  "victim": "Hergils",
+  "support": "yes",
+  "evidence": "Hergils son hans komst út um laundyr og varð Gunnar var við hann og hljóp eftir og vó hann"
+ },
+ {
+  "kid": "KL142",
+  "saga": "gunnlaugs_saga_ormstungu",
+  "chapter": 12,
+  "killer": "Gunnlaugur",
+  "victim": "Grímur",
+  "support": "yes",
+  "evidence": "Þeir Grímur og Ólafur gengu báðir í mót Gunnlaugi einum og lauk svo þeirra viðskipti að hann drap þá báða"
+ },
+ {
+  "kid": "KL143",
+  "saga": "gunnlaugs_saga_ormstungu",
+  "chapter": 12,
+  "killer": "Gunnlaugur",
+  "victim": "Ólafur",
+  "support": "yes",
+  "evidence": "Þeir Grímur og Ólafur gengu báðir í mót Gunnlaugi einum og lauk svo þeirra viðskipti að hann drap þá báða"
+ },
+ {
+  "kid": "KL182",
+  "saga": "hardar_saga_og_holmverja",
+  "chapter": 36,
+  "killer": "Þorsteinn gullknappur",
+  "victim": "Hörður",
+  "support": "yes",
+  "evidence": "Í því hjó Þorsteinn gullknappur á hnakkann með háskeftri öxi ... Af því sári fékk Hörður bana."
+ },
+ {
+  "kid": "KL147",
+  "saga": "heidarviga_saga",
+  "chapter": 8,
+  "killer": "Styr",
+  "victim": "Þórhalli",
+  "support": "yes",
+  "evidence": "Styr höggur með öxi aftan í höfuð Þórhalla og fellir hann þar"
+ },
+ {
+  "kid": "KL148",
+  "saga": "heidarviga_saga",
+  "chapter": 10,
+  "killer": "Gestur",
+  "victim": "Styr",
+  "support": "yes",
+  "evidence": "Hleypur Gestur þá í handraðana kring á bak til við Styr og höggur með öxi af öllu afli í höfuð hönum"
+ },
+ {
+  "kid": "KL149",
+  "saga": "heidarviga_saga",
+  "chapter": 33,
+  "killer": "Tindur",
+  "victim": "Þóroddur",
+  "support": "yes",
+  "evidence": "Nú kemur Tindur þar sem Þóroddur lá og sér að hann var lífs og höggur hann þegar af honum höfuðið."
+ },
+ {
+  "kid": "KL079",
+  "saga": "hrafnkels_saga_freysgoda",
+  "chapter": 6,
+  "killer": "Hrafnkell",
+  "victim": "Einar",
+  "support": "yes",
+  "evidence": "þá hljóp hann af baki til hans og hjó hann banahögg."
+ },
+ {
+  "kid": "KL184",
+  "saga": "laxdaela_saga",
+  "chapter": 14,
+  "killer": "Þórólfur",
+  "victim": "Hallur",
+  "support": "yes",
+  "evidence": "þá er Þórólfur þar nær staddur og höggur til hans þegar. Kom höggið á hálsinn við herðarnar og fýkur af höfuðið."
+ },
+ {
+  "kid": "KL185",
+  "saga": "laxdaela_saga",
+  "chapter": 37,
+  "killer": "Hrútur",
+  "victim": "Eldgrímur",
+  "support": "yes",
+  "evidence": "reiddi hann upp bryntröllið og setur milli herða Eldgrími ... Féll Eldgrímur dauður af hestinum"
+ },
+ {
+  "kid": "KL186",
+  "saga": "laxdaela_saga",
+  "chapter": 49,
+  "killer": "Bolli Þorleiksson",
+  "victim": "Kjartan Ólafsson",
+  "support": "yes",
+  "evidence": "Engi veitti Bolli svör máli Kjartans en þó veitti hann honum banasár. ... andaðist Kjartan í knjám Bolla."
+ },
+ {
+  "kid": "KL187",
+  "saga": "laxdaela_saga",
+  "chapter": 67,
+  "killer": "Auðgísl",
+  "victim": "Þorgils Hölluson",
+  "support": "yes",
+  "evidence": "í því er Þorgils nefndi tíu þá hjó Auðgísl til hans og allir þóttust heyra að höfuðið nefndi ellefu"
+ },
+ {
+  "kid": "KL188",
+  "saga": "laxdaela_saga",
+  "chapter": 69,
+  "killer": "Gunnar",
+  "victim": "Þiðrandi Geitisson",
+  "support": "partly",
+  "evidence": "Gunnar hafði sekur orðið um víg Þiðranda Geitissonar úr Krossavík sem segir í sögu Njarðvíkinga."
+ },
+ {
+  "kid": "KL189",
+  "saga": "laxdaela_saga",
+  "chapter": 80,
+  "killer": "Þórólfur",
+  "victim": "Ólafur",
+  "support": "yes",
+  "evidence": "Þórólfur kom þar að honum. Hann lagði sveininn í gegnum með spjóti."
+ },
+ {
+  "kid": "KL190",
+  "saga": "laxdaela_saga",
+  "chapter": 83,
+  "killer": "Bolli",
+  "victim": "Þórólfur",
+  "support": "yes",
+  "evidence": "Bolli bregður Fótbít og leggur í gegnum hann. Fellur Þórólfur á bak aftur í búðina inn"
+ },
+ {
+  "kid": "KL153",
+  "saga": "ljosvetninga_saga",
+  "chapter": 11,
+  "killer": "Brandur",
+  "victim": "Hárekur",
+  "support": "yes",
+  "evidence": "gekk Brandur fyrir Hárek, keyrði öxi í höfuð honum og vó hann"
+ },
+ {
+  "kid": "KL154",
+  "saga": "ljosvetninga_saga",
+  "chapter": 27,
+  "killer": "Eyjólfur Guðmundarson",
+  "victim": "Ótryggur",
+  "support": "yes",
+  "evidence": "En er Eyjólfur sá það þá lagði hann Ótrygg í gegnum með spjóti. En hann snaraðist við, féll í lækinn og dó þar."
+ },
+ {
+  "kid": "KL155",
+  "saga": "ljosvetninga_saga",
+  "chapter": 33,
+  "killer": "Eyjólfur Guðmundarson",
+  "victim": "Þórarinn",
+  "support": "yes",
+  "evidence": "komu til Þórarins og gengu þar inn í hús og báru þegar vopn á hann og vógu hann"
+ },
+ {
+  "kid": "KL191",
+  "saga": "reykdaela_saga_og_viga-skutu",
+  "chapter": 6,
+  "killer": "Þóroddur harðjaxl",
+  "victim": "Helgi",
+  "support": "yes",
+  "evidence": "Þóroddur harðjaxl vó Helga bróður Hróa."
+ },
+ {
+  "kid": "KL192",
+  "saga": "reykdaela_saga_og_viga-skutu",
+  "chapter": 13,
+  "killer": "Steinn Þorbjarnarson",
+  "victim": "Þorvaldur Galtason",
+  "support": "yes",
+  "evidence": "Þorvaldur son Galta úr Arnarnesi féll í naustdyrunum fyrir Steini"
+ },
+ {
+  "kid": "KL193",
+  "saga": "reykdaela_saga_og_viga-skutu",
+  "chapter": 16,
+  "killer": "Þórir Ketilsson",
+  "victim": "Áskell goði",
+  "support": "yes",
+  "evidence": "hann kom að sleðanum þar sem þeir óku þá hjó hann þegar til Áskels goða og kom í höfuðið"
+ },
+ {
+  "kid": "KL194",
+  "saga": "reykdaela_saga_og_viga-skutu",
+  "chapter": 24,
+  "killer": "Már",
+  "victim": "Hávarður úr Ísólfstungu",
+  "support": "yes",
+  "evidence": "Már rak á honum spjótið, Hávarði, og vó hann þar"
+ },
+ {
+  "kid": "KL195",
+  "saga": "reykdaela_saga_og_viga-skutu",
+  "chapter": 30,
+  "killer": "Þórður illugi",
+  "victim": "Skúta Áskelsson",
+  "support": "yes",
+  "evidence": "lagði Illugi spjóti á Skútu ... Og nú var hann þó því sári særður er hann leiddi til bana"
+ },
+ {
+  "kid": "KL090",
+  "saga": "valla-ljots_saga",
+  "chapter": 4,
+  "killer": "Ljótur",
+  "victim": "Halli",
+  "support": "yes",
+  "evidence": "síðan hjó Ljótur Halla banahögg ... lýsti Ljótur vígi Halla á hendur sér"
+ },
+ {
+  "kid": "KL091",
+  "saga": "valla-ljots_saga",
+  "chapter": 7,
+  "killer": "Björn",
+  "victim": "Bessi",
+  "support": "yes",
+  "evidence": "bað þá Björn að ráða til. Hann hljóp að honum og vó hann og mælti: \"Vasklega fórstu enn Eyjólfur.\""
+ },
+ {
+  "kid": "KL204",
+  "saga": "viga-glums_saga",
+  "chapter": 8,
+  "killer": "Glúmur",
+  "victim": "Sigmundur Þorkelsson",
+  "support": "yes",
+  "evidence": "snarar hann að honum Sigmundi og brá spjótinu en hann spratt upp í móti en Glúmur hjó þegar í höfuð honum"
+ },
+ {
+  "kid": "KL205",
+  "saga": "viga-glums_saga",
+  "chapter": 21,
+  "killer": "Arngrímur Þorgrímsson",
+  "victim": "Steinólfur",
+  "support": "yes",
+  "evidence": "Þá höggur Arngrímur til hans í höfuðið svo að hann fékk bana þegar."
+ },
+ {
+  "kid": "KL206",
+  "saga": "viga-glums_saga",
+  "chapter": 23,
+  "killer": "Glúmur",
+  "victim": "Þorvaldur krókur",
+  "support": "yes",
+  "evidence": "vák at þar og rauðk at þar odd og egg er Þorvaldur krókur fékk bana ... Glúmur gengur við víginu."
+ },
+ {
+  "kid": "KL207",
+  "saga": "viga-glums_saga",
+  "chapter": 27,
+  "killer": "Klængur",
+  "victim": "Þorvaldur úr Haga",
+  "support": "yes",
+  "evidence": "vaknar Þorvaldur, hleypur út. Klængur hleypur að honum og veitti honum banasár"
+ },
+ {
+  "kid": "KL098",
+  "saga": "vopnfirdinga_saga",
+  "chapter": 1,
+  "killer": "Þorkell",
+  "victim": "Þorgils",
+  "support": "yes",
+  "evidence": "Þorkell og Héðinn vógu Þorgils föður Brodd-Helga"
+ },
+ {
+  "kid": "KL099",
+  "saga": "vopnfirdinga_saga",
+  "chapter": 1,
+  "killer": "Héðinn",
+  "victim": "Þorgils",
+  "support": "yes",
+  "evidence": "Þorkell og Héðinn vógu Þorgils föður Brodd-Helga"
+ },
+ {
+  "kid": "KL100",
+  "saga": "vopnfirdinga_saga",
+  "chapter": 2,
+  "killer": "Svartur",
+  "victim": "Skíði",
+  "support": "yes",
+  "evidence": "Þá Svart og Skíða skildi á um beitingar og lauk því svo að Svartur vó Skíða."
+ },
+ {
+  "kid": "KL101",
+  "saga": "vopnfirdinga_saga",
+  "chapter": 14,
+  "killer": "Bjarni",
+  "victim": "Tjörvi",
+  "support": "yes",
+  "evidence": "Hann strýkur eftir honum og rekur í gegnum hann spjótið"
+ },
+ {
+  "kid": "KL102",
+  "saga": "vopnfirdinga_saga",
+  "chapter": 14,
+  "killer": "Bjarni",
+  "victim": "Geitir",
+  "support": "yes",
+  "evidence": "Bjarni hjó þá í höfuð Geiti og fékk hann þegar bana."
+ }
+]

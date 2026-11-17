@@ -3,9 +3,6 @@ bandamanna_saga,Bjálfi,hildissynir (svölustaðir),partial,yes
 bandamanna_saga,Már,hildissynir (svölustaðir),done,yes
 bandamanna_saga,Vali,melur (oddur ófeigsson's kin),partial,yes
 bandamanna_saga,Óspakur,óspakur glúmsson (skriðinsenni),done,yes
-bardar_saga_snaefellsass,Atli Ásmundarson,bjarg (ásmundarsynir),partial,yes
-bardar_saga_snaefellsass,Grettir,bjarg (ásmundarsynir),partial,yes
-bardar_saga_snaefellsass,Þorbjörn öxnamegin,þóroddsstaðir (arnór hýnefur's kin),partial,yes
 bjarnar_saga_hitdaelakappa,Björn,hólmur (björn hítdælakappi's kin),done,yes
 bjarnar_saga_hitdaelakappa,Steinn Guðbrandsson,hítarnes (þórður kolbeinsson),partial,yes
 brennu-njals_saga,Arnór Örnólfsson,arnór örnólfsson (fossárskógar),partial,yes
@@ -151,7 +148,6 @@ grettis_saga,Arnór,þóroddsstaðir (arnór hýnefur's kin),partial,yes
 grettis_saga,Atli Ásmundarson,bjarg (ásmundarsynir),done,yes
 grettis_saga,Bjarni,hundadalur (bjarni),not found,yes
 grettis_saga,Björn,"björn, hjarrandi & gunnar (kin of þorkell of sálfti)",partial,yes
-grettis_saga,Böggul-Torfi,márskelda (böggul-torfi),not found,yes
 grettis_saga,Grettir,bjarg (ásmundarsynir),done,yes
 grettis_saga,Grímur,outlaw (hired by norðlendingar),not found,yes
 grettis_saga,Grímur hersir,grímur hersir (king haraldur's man),partial,yes
@@ -162,7 +158,6 @@ grettis_saga,Þorbjörn ferðalangur,þóroddsstaðir (arnór hýnefur's kin),pa
 grettis_saga,Þorbjörn öngull,hof í hjaltadal (þórður hjaltason's sons),partial,yes
 grettis_saga,Þorbjörn öxnamegin,þóroddsstaðir (arnór hýnefur's kin),partial,yes
 grettis_saga,Þorgeir Hávarsson,þorgeir & þormóður (fóstbræður),partial,yes
-grettis_saga,Þorgils Máksson,bjarg (ásmundarsynir),partial,yes
 gull-thoris_saga,Bljúgur,hjallar (helgi's kin),done,yes
 gull-thoris_saga,Blígur,steinólfur & kjallakur's party,not found,yes
 gull-thoris_saga,Frakki,hjallar (helgi's kin),done,yes
@@ -281,9 +276,6 @@ viga-glums_saga,Þorvaldur krókur,esphælingar (þórir á espihóli's kin),don
 viga-glums_saga,Þorvaldur úr Haga,hagi (þorvaldur menni's household),partial,yes
 vopnfirdinga_saga,Bjarni,"hofsverjar (hof, brodd-helgi's kin)",done,yes
 vopnfirdinga_saga,Geitir,krossavík (geitir lýtingsson's kin),done,yes
-vopnfirdinga_saga,Héðinn,killers of þorgils (héðinn & þorkell),not found,yes
 vopnfirdinga_saga,Skíði,"skíði (poor farmer, vopnafjörður)",not found,yes
 vopnfirdinga_saga,Svartur,"svartur (outlaw, vopnafjörður)",not found,yes
 vopnfirdinga_saga,Tjörvi,"guðmundarstaðir (tjörvi, ally of geitir)",not found,yes
-vopnfirdinga_saga,Þorgils,"hofsverjar (hof, brodd-helgi's kin)",done,yes
-vopnfirdinga_saga,Þorkell,killers of þorgils (héðinn & þorkell),partial,yes

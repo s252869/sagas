@@ -1,0 +1,13 @@
+null,measure,observed,null_mean,null_sd,z,p_two_sided
+time order shuffled,revenge,66,53.16,5.43,2.36,0.014
+time order shuffled,targeted,22,16.8,2.36,2.21,0.038
+time order shuffled,blood,26,26.54,5.19,-0.1,0.955
+time order shuffled,foster,9,3.74,2.14,2.46,0.0619
+time order shuffled,affinity,2,3.12,1.45,-0.78,0.7433
+time order shuffled,household,29,19.76,4.39,2.1,0.0659
+victims shuffled,revenge,66,51.1,7.22,2.06,0.026
+victims shuffled,targeted,22,7.52,2.2,6.59,0.002
+victims shuffled,blood,26,26.18,5.64,-0.03,0.971
+victims shuffled,foster,9,3.68,2.18,2.44,0.0879
+victims shuffled,affinity,2,1.99,0.9,0.02,1
+victims shuffled,household,29,19.25,5.48,1.78,0.1259

@@ -1,7 +1,7 @@
 test,killings,n_scored,observed,observed_share,null_mean_share,null_sd,z,p_two_sided,ratio_obs_to_null
-same family group | all killings,201,189,4,0.0212,0.0611,0.0136,-2.94,0.002,0.35
-direct kin tie (graph) | all killings,201,201,8,0.0398,0.0446,0.0111,-0.43,0.8791,0.89
-same family group | without partly-supported,182,171,4,0.0234,0.0639,0.0144,-2.81,0.006,0.37
-direct kin tie (graph) | without partly-supported,182,182,6,0.033,0.0392,0.0111,-0.56,0.7852,0.84
-same family group | family known only,160,152,4,0.0263,0.0607,0.0153,-2.25,0.014,0.43
-direct kin tie (graph) | family known only,160,160,8,0.05,0.0475,0.0129,0.2,1.0,1.05
+same family group | all killings,194,182,4,0.022,0.0583,0.0134,-2.71,0.004,0.38
+direct kin tie (graph) | all killings,194,194,7,0.0361,0.0453,0.0113,-0.81,0.5854,0.8
+same family group | without partly-supported,175,164,4,0.0244,0.0598,0.0145,-2.44,0.004,0.41
+direct kin tie (graph) | without partly-supported,175,175,5,0.0286,0.0397,0.0105,-1.06,0.4376,0.72
+same family group | family known only,156,148,4,0.027,0.0602,0.0152,-2.18,0.02,0.45
+direct kin tie (graph) | family known only,156,156,7,0.0449,0.0471,0.0134,-0.17,1.0,0.95

@@ -1,0 +1,12 @@
+kid,field,new_value,reason
+KL023,motive,revenge,"Gunnar sees his brother Hjörtur killed and immediately kills the killer (manual check #21)"
+KL189,motive,property-dispute,"retaliation for Þórður killing Þórólfur's bull; no human death avenged (#14)"
+KL185,motive,property-dispute,"Hrútur kills Eldgrímur to prevent the theft of Þorleikur's horses (#28)"
+KL108,motive,unclear,"Þorgils's motive is not disclosed (#10)"
+KL004,note,"retaliation for Þorvaldur striking Hallgerður (physical injury), not only insult","manual check #13"
+KL057,relation_category,blood,"Kári avenges his son Þórður (also Njáll's son-in-law) (#22)"
+KL141,relation_category,none,"Gunnar was a companion on the revenge raid, not a household member (#27)"
+KL008,note,"avenger acted on Bergþóra's instruction","manual check #8"
+KL009,note,"avenger acted on Hallgerður's instruction","manual check #24"
+KL011,note,"avenger acted on Hallgerður's instruction","manual check #19"
+KL012,note,"avenger acted on Hallgerður's instruction","manual check #3"

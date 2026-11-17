@@ -1,0 +1,488 @@
+[
+ {
+  "kid": "KL004",
+  "saga": "brennu-njals_saga",
+  "chapter": 11,
+  "killer": "Þjóstólfur",
+  "victim": "Þorvaldur",
+  "support": "yes",
+  "evidence": "Síðan færði Þjóstólfur upp öxina í annað sinn og hjó í höfuð Þorvaldi og hafði hann þegar bana."
+ },
+ {
+  "kid": "KL005",
+  "saga": "brennu-njals_saga",
+  "chapter": 17,
+  "killer": "Þjóstólfur",
+  "victim": "Glúmur",
+  "support": "yes",
+  "evidence": "Þjóstólfur hjó þegar með öxinni í móti og kom á öxlina ... Glúmur mátti ekki halda því að dauðinn fór á hann."
+ },
+ {
+  "kid": "KL006",
+  "saga": "brennu-njals_saga",
+  "chapter": 17,
+  "killer": "Hrútur",
+  "victim": "Þjóstólfur",
+  "support": "yes",
+  "evidence": "Þá hjó Hrútur annað högg hann til bana og kom það í höfuðið."
+ },
+ {
+  "kid": "KL054",
+  "saga": "brennu-njals_saga",
+  "chapter": 26,
+  "killer": "Ásgrímur",
+  "victim": "Gaukur",
+  "support": "yes",
+  "evidence": "Þar varð illa með þeim Ásgrími því að Ásgrímur varð banamaður Gauks."
+ },
+ {
+  "kid": "KL007",
+  "saga": "brennu-njals_saga",
+  "chapter": 36,
+  "killer": "Kolur",
+  "victim": "Svartur",
+  "support": "yes",
+  "evidence": "og setti öxina í höfuð honum og hjó hann banahögg og ríður heim síðan og segir Hallgerði vígið."
+ },
+ {
+  "kid": "KL008",
+  "saga": "brennu-njals_saga",
+  "chapter": 37,
+  "killer": "Atli",
+  "victim": "Kolur",
+  "support": "yes",
+  "evidence": "Síðan lagði Atli spjóti til hans og kom á hann miðjan ... Síðan féll Kolur af baki og dó þegar."
+ },
+ {
+  "kid": "KL009",
+  "saga": "brennu-njals_saga",
+  "chapter": 38,
+  "killer": "Brynjólfur",
+  "victim": "Atli",
+  "support": "yes",
+  "evidence": "Brynjólfur hjó í höfuð honum með öxi ... tók öxina eigi fyrr en Atli var dauður"
+ },
+ {
+  "kid": "KL010",
+  "saga": "brennu-njals_saga",
+  "chapter": 39,
+  "killer": "Þórður leysingjason",
+  "victim": "Brynjólfur",
+  "support": "yes",
+  "evidence": "hjó þegar í annað sinn til hans og kom framan á bringuna og gekk þegar á hol. Féll Brynjólfur þá af baki"
+ },
+ {
+  "kid": "KL011",
+  "saga": "brennu-njals_saga",
+  "chapter": 42,
+  "killer": "Sigmundur",
+  "victim": "Þórður leysingjason",
+  "support": "yes",
+  "evidence": "Þá hjó Skjöldur af honum höndina ... þar til er Sigmundur lagði í gegnum hann. Féll hann þá dauður"
+ },
+ {
+  "kid": "KL012",
+  "saga": "brennu-njals_saga",
+  "chapter": 42,
+  "killer": "Skjöldur",
+  "victim": "Þórður leysingjason",
+  "support": "partly",
+  "evidence": "Þá hjó Skjöldur af honum höndina og varðist hann þá ... þar til er Sigmundur lagði í gegnum hann."
+ },
+ {
+  "kid": "KL013",
+  "saga": "brennu-njals_saga",
+  "chapter": 45,
+  "killer": "Skarphéðinn",
+  "victim": "Sigmundur",
+  "support": "yes",
+  "evidence": "Skarphéðinn laust á hjálminn Sigmundar og hjó hann síðan banahögg."
+ },
+ {
+  "kid": "KL014",
+  "saga": "brennu-njals_saga",
+  "chapter": 54,
+  "killer": "Gunnar",
+  "victim": "Otkell",
+  "support": "yes",
+  "evidence": "Gunnar leggur atgeirinum til hans og í gegnum hann."
+ },
+ {
+  "kid": "KL015",
+  "saga": "brennu-njals_saga",
+  "chapter": 54,
+  "killer": "Gunnar",
+  "victim": "Hallbjörn hvíti",
+  "support": "yes",
+  "evidence": "hjó með sverðinu og kom á höndina Hallbirni fyrir ofan úlflið svo að af tók."
+ },
+ {
+  "kid": "KL016",
+  "saga": "brennu-njals_saga",
+  "chapter": 54,
+  "killer": "Gunnar",
+  "victim": "Auðólfur",
+  "support": "yes",
+  "evidence": "Gunnar tók á lofti spjótið og skaut aftur þegar og fló í gegnum skjöldinn og austmanninn og niður í völlinn."
+ },
+ {
+  "kid": "KL017",
+  "saga": "brennu-njals_saga",
+  "chapter": 54,
+  "killer": "Gunnar",
+  "victim": "Skammkell",
+  "support": "yes",
+  "evidence": "Gunnar leggur í annað sinn atgeirinum og í gegnum Skammkel og vegur hann upp"
+ },
+ {
+  "kid": "KL018",
+  "saga": "brennu-njals_saga",
+  "chapter": 54,
+  "killer": "Kolskeggur",
+  "victim": "Hallkell",
+  "support": "yes",
+  "evidence": "Þá kemur Kolskeggur að og hleypur þegar að Hallkatli og höggur hann banahögg með saxinu."
+ },
+ {
+  "kid": "KL019",
+  "saga": "brennu-njals_saga",
+  "chapter": 63,
+  "killer": "Gunnar",
+  "victim": "Sigurður svínhöfði",
+  "support": "yes",
+  "evidence": "kom örin í gegnum skjöldinn og í augað svo að út kom í hnakkann og varð það víg fyrst."
+ },
+ {
+  "kid": "KL020",
+  "saga": "brennu-njals_saga",
+  "chapter": 63,
+  "killer": "Gunnar",
+  "victim": "Egill",
+  "support": "yes",
+  "evidence": "Gunnar leggur í móti atgeirinum og kom á Egil miðjan. Gunnar vegur hann upp á atgeirinum"
+ },
+ {
+  "kid": "KL021",
+  "saga": "brennu-njals_saga",
+  "chapter": 63,
+  "killer": "Þórir austmaður",
+  "victim": "Hjörtur",
+  "support": "yes",
+  "evidence": "Austmaðurinn hleypur að honum og höggur framan á brjóstið og þar á hol. Hjörtur féll þá þegar dauður"
+ },
+ {
+  "kid": "KL022",
+  "saga": "brennu-njals_saga",
+  "chapter": 63,
+  "killer": "Kolskeggur",
+  "victim": "Kolur",
+  "support": "yes",
+  "evidence": "hjó með saxinu á lærið og undan fótinn ... Kolur féll þá dauður niður."
+ },
+ {
+  "kid": "KL023",
+  "saga": "brennu-njals_saga",
+  "chapter": 63,
+  "killer": "Gunnar",
+  "victim": "Þórir austmaður",
+  "support": "yes",
+  "evidence": "Gunnar sér þetta og varpar sér skjótt til höggs við Austmanninn og sníður hann í sundur í miðju."
+ },
+ {
+  "kid": "KL024",
+  "saga": "brennu-njals_saga",
+  "chapter": 72,
+  "killer": "Gunnar",
+  "victim": "Þorgeir Otkelsson",
+  "support": "yes",
+  "evidence": "Gunnar snýst að honum skjótt af mikilli reiði og rekur í gegnum hann atgeirinn"
+ },
+ {
+  "kid": "KL025",
+  "saga": "brennu-njals_saga",
+  "chapter": 79,
+  "killer": "Högni",
+  "victim": "Hróaldur",
+  "support": "yes",
+  "evidence": "Högni hjó í sundur spjótskaftið með atgeirinum en rekur atgeirinn í gegnum hann."
+ },
+ {
+  "kid": "KL026",
+  "saga": "brennu-njals_saga",
+  "chapter": 79,
+  "killer": "Skarphéðinn",
+  "victim": "Tjörvi",
+  "support": "yes",
+  "evidence": "Síðan höggur Skarphéðinn Tjörva banahögg."
+ },
+ {
+  "kid": "KL027",
+  "saga": "brennu-njals_saga",
+  "chapter": 79,
+  "killer": "Skarphéðinn",
+  "victim": "Starkaður",
+  "support": "yes",
+  "evidence": "En er Starkaður sér Skarphéðinn hræðist hann og vildi aftur snúa. Skarphéðinn höggur hann við garðinum."
+ },
+ {
+  "kid": "KL028",
+  "saga": "brennu-njals_saga",
+  "chapter": 79,
+  "killer": "Högni",
+  "victim": "Þorgeir Starkaðarson",
+  "support": "yes",
+  "evidence": "Þá kemur Högni í mót Þorgeiri og vegur hann með atgeirinum."
+ },
+ {
+  "kid": "KL031",
+  "saga": "brennu-njals_saga",
+  "chapter": 82,
+  "killer": "Þráinn",
+  "victim": "Kolur",
+  "support": "yes",
+  "evidence": "Þráinn hjó til Kols og kom á fótinn svo að af tók. Eftir það drápu þeir Kol. Hjó Þráinn höfuð af honum"
+ },
+ {
+  "kid": "KL029",
+  "saga": "brennu-njals_saga",
+  "chapter": 87,
+  "killer": "Hrappur",
+  "victim": "Örlygur Ölvisson",
+  "support": "partly",
+  "evidence": "Hrappur svarar: \"Eg hefi vegið Örlyg Ölvisson Hróðgeirssonar hins hvíta en til eftirmáls eru Vopnfirðingar.\""
+ },
+ {
+  "kid": "KL030",
+  "saga": "brennu-njals_saga",
+  "chapter": 87,
+  "killer": "Hrappur",
+  "victim": "Ásvarður",
+  "support": "yes",
+  "evidence": "Síðan vildi Ásvarður undan snúast. Hrappur höggur í sundur í honum hrygginn."
+ },
+ {
+  "kid": "KL032",
+  "saga": "brennu-njals_saga",
+  "chapter": 88,
+  "killer": "Mörður órækja",
+  "victim": "Oddur Halldórsson",
+  "support": "yes",
+  "evidence": "Sá Mörður vó Odd Halldórsson austur í Gautavík í Berufirði."
+ },
+ {
+  "kid": "KL033",
+  "saga": "brennu-njals_saga",
+  "chapter": 89,
+  "killer": "Helgi Njálsson",
+  "victim": "Egill",
+  "support": "yes",
+  "evidence": "Litlu síðar vó Helgi Egil merkismann jarls."
+ },
+ {
+  "kid": "KL034",
+  "saga": "brennu-njals_saga",
+  "chapter": 89,
+  "killer": "Grímur Njálsson",
+  "victim": "Áslákur",
+  "support": "yes",
+  "evidence": "Grímur þreif þá upp spjót og skaut undir kverk Ásláki og hafði hann þegar bana."
+ },
+ {
+  "kid": "KL035",
+  "saga": "brennu-njals_saga",
+  "chapter": 92,
+  "killer": "Skarphéðinn",
+  "victim": "Þráinn",
+  "support": "yes",
+  "evidence": "höggur til Þráins með öxinni Rimmugýgi og kom í höfuðið og klauf ofan í jaxlana"
+ },
+ {
+  "kid": "KL036",
+  "saga": "brennu-njals_saga",
+  "chapter": 98,
+  "killer": "Lýtingur",
+  "victim": "Höskuldur Njálsson",
+  "support": "partly",
+  "evidence": "Þeir spretta þá upp allir með vopnum og sækja að honum ... og féll síðan."
+ },
+ {
+  "kid": "KL037",
+  "saga": "brennu-njals_saga",
+  "chapter": 101,
+  "killer": "Þangbrandur",
+  "victim": "Þorkell",
+  "support": "yes",
+  "evidence": "lauk svo með þeim að Þangbrandur hafði sigur og drap Þorkel."
+ },
+ {
+  "kid": "KL038",
+  "saga": "brennu-njals_saga",
+  "chapter": 102,
+  "killer": "Þangbrandur",
+  "victim": "Veturliði",
+  "support": "yes",
+  "evidence": "Þar mælti mest í mót Veturliði skáld og Ari son hans og fyrir það vógu þeir Veturliða."
+ },
+ {
+  "kid": "KL039",
+  "saga": "brennu-njals_saga",
+  "chapter": 102,
+  "killer": "Guðleifur",
+  "victim": "Veturliði",
+  "support": "yes",
+  "evidence": "Þar mælti mest í mót Veturliði skáld og Ari son hans og fyrir það vógu þeir Veturliða."
+ },
+ {
+  "kid": "KL040",
+  "saga": "brennu-njals_saga",
+  "chapter": 103,
+  "killer": "many men",
+  "victim": "berserkur",
+  "support": "yes",
+  "evidence": "Þá leggur Þangbrandur sverði fyrir brjóst honum en Guðleifur hjó á höndina ... Gengu þá margir að og drápu berserkinn."
+ },
+ {
+  "kid": "KL041",
+  "saga": "brennu-njals_saga",
+  "chapter": 106,
+  "killer": "Ámundi blindi",
+  "victim": "Lýtingur",
+  "support": "yes",
+  "evidence": "höggur með öxi í höfuð honum svo að hún stóð á hamri ... Lýtingur fellur áfram og var þegar dauður."
+ },
+ {
+  "kid": "KL042",
+  "saga": "brennu-njals_saga",
+  "chapter": 111,
+  "killer": "Skarphéðinn",
+  "victim": "Höskuldur Hvítanesgoði",
+  "support": "yes",
+  "evidence": "Hirð eigi þú að hopa á hæl, Hvítanesgoðinn\" og höggur til hans og kom í höfuðið og féll Höskuldur á knéin."
+ },
+ {
+  "kid": "KL043",
+  "saga": "brennu-njals_saga",
+  "chapter": 111,
+  "killer": "Grímur Njálsson",
+  "victim": "Höskuldur Hvítanesgoði",
+  "support": "partly",
+  "evidence": "Hljópu þeir þá að honum allir og unnu á honum."
+ },
+ {
+  "kid": "KL044",
+  "saga": "brennu-njals_saga",
+  "chapter": 111,
+  "killer": "Helgi Njálsson",
+  "victim": "Höskuldur Hvítanesgoði",
+  "support": "partly",
+  "evidence": "Hljópu þeir þá að honum allir og unnu á honum."
+ },
+ {
+  "kid": "KL045",
+  "saga": "brennu-njals_saga",
+  "chapter": 111,
+  "killer": "Kári",
+  "victim": "Höskuldur Hvítanesgoði",
+  "support": "partly",
+  "evidence": "Hljópu þeir þá að honum allir og unnu á honum."
+ },
+ {
+  "kid": "KL046",
+  "saga": "brennu-njals_saga",
+  "chapter": 111,
+  "killer": "Mörður Valgarðsson",
+  "victim": "Höskuldur Hvítanesgoði",
+  "support": "partly",
+  "evidence": "Hljópu þeir þá að honum allir og unnu á honum."
+ },
+ {
+  "kid": "KL047",
+  "saga": "brennu-njals_saga",
+  "chapter": 116,
+  "killer": "Kolbeinn",
+  "victim": "Arnór Örnólfsson",
+  "support": "partly",
+  "evidence": "vógu bræður þínir hann á Skaftafellsþingi, Kolbeinn og Egill."
+ },
+ {
+  "kid": "KL048",
+  "saga": "brennu-njals_saga",
+  "chapter": 116,
+  "killer": "Egill",
+  "victim": "Arnór Örnólfsson",
+  "support": "partly",
+  "evidence": "vógu bræður þínir hann á Skaftafellsþingi, Kolbeinn og Egill."
+ },
+ {
+  "kid": "KL049",
+  "saga": "brennu-njals_saga",
+  "chapter": 119,
+  "killer": "Skafti Þóroddsson",
+  "victim": "Ketill úr Eldu",
+  "support": "partly",
+  "evidence": "Þú heitir Skafti Þóroddsson en fyrr kallaðir þú þig burstakoll þá er þú hafðir drepið Ketil úr Eldu."
+ },
+ {
+  "kid": "KL050",
+  "saga": "brennu-njals_saga",
+  "chapter": 122,
+  "killer": "Þorgrímur Digur-Ketilsson",
+  "victim": "Halli rauði",
+  "support": "partly",
+  "evidence": "Þorgrími syni Digur-Ketils frænda þínum þá er hann hafði vegið Halla hinn rauða?"
+ },
+ {
+  "kid": "KL051",
+  "saga": "brennu-njals_saga",
+  "chapter": 128,
+  "killer": "Skarphéðinn",
+  "victim": "Hróaldur Össurarson",
+  "support": "yes",
+  "evidence": "hyrnan sú hin fremri tók andlitið og féll hann á bak aftur og þegar dauður."
+ },
+ {
+  "kid": "KL052",
+  "saga": "brennu-njals_saga",
+  "chapter": 129,
+  "killer": "Flosi",
+  "victim": "Njáll",
+  "support": "partly",
+  "evidence": "Flosi mælti: \"Útgöngu vil eg bjóða þér Njáll bóndi því að þú brennur ómaklegur inni.\""
+ },
+ {
+  "kid": "KL053",
+  "saga": "brennu-njals_saga",
+  "chapter": 129,
+  "killer": "Flosi",
+  "victim": "Helgi Njálsson",
+  "support": "yes",
+  "evidence": "Þá kom Flosi að og hjó á hálsinn Helga svo að þegar tók af höfuðið."
+ },
+ {
+  "kid": "KL055",
+  "saga": "brennu-njals_saga",
+  "chapter": 145,
+  "killer": "Þórhallur Ásgrímsson",
+  "victim": "Grímur rauði",
+  "support": "yes",
+  "evidence": "lagði Þórhallur til hans spjótinu ... en spjótið hljóp í gegnum hann svo að oddurinn kom út á milli herðanna."
+ },
+ {
+  "kid": "KL056",
+  "saga": "brennu-njals_saga",
+  "chapter": 155,
+  "killer": "Kári",
+  "victim": "Gunnar Lambason",
+  "support": "yes",
+  "evidence": "hjó á hálsinn Gunnari Lambasyni og svo snart að höfuðið fauk upp á borðið"
+ },
+ {
+  "kid": "KL057",
+  "saga": "brennu-njals_saga",
+  "chapter": 158,
+  "killer": "Kári",
+  "victim": "Kolur Þorsteinsson",
+  "support": "yes",
+  "evidence": "hljóp að honum með sverð brugðið og hjó á hálsinn ... nefndi tíu höfuðið er það fauk af bolnum."
+ }
+]

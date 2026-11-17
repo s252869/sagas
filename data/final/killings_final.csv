@@ -91,13 +91,9 @@ KL094,vatnsdaela_saga,Hrolleifur,Oddur,none,none,no,yes,yes,19,Hrolleifur hjó �
 KL095,vatnsdaela_saga,Hrómundur,Högni,none,"affinity:distant (killer was son-in-law of Már Jörundarson, the victim's kinsman)",no,yes,yes,29,Lauk svo þeirra skipti að Högni féll fyrir Hrómundi.,both passes agree,manual (Tanja): wife's father was the victim's kinsman = distant; outside the strict rule,person1,affinity (wife's father was victim's kinsman),yes,Tanja
 KL096,vatnsdaela_saga,Þorkell krafla,Glæðir,none,"Victim's first cousin Þorvaldur Þorgilsson was marrying the killer's paternal aunt Sigríður Klakka-Ormsdóttir: long chain, outside the rules",no,yes,yes,44,gekk Þorkell eftir honum og hjó til hans í höfuðið og hafði Glæðir þegar bana,tie-break,,person1,affinity (distant),yes,
 KL097,vatnsdaela_saga,Hermundur,Galti Óttarsson,none,none,no,yes,yes,45,mætti hann Hermundi ... hljóp að Galta og drap hann,both passes agree,,person1,none,no,
-KL098,vopnfirdinga_saga,Þorkell,Þorgils,none,none,no,no,yes,1,Þorkell og Héðinn vógu Þorgils föður Brodd-Helga,both passes agree,,person1,none,no,Andrea
-KL099,vopnfirdinga_saga,Héðinn,Þorgils,none,none,no,no,yes,1,Þorkell og Héðinn vógu Þorgils föður Brodd-Helga,both passes agree,,person1,none,no,
 KL100,vopnfirdinga_saga,Svartur,Skíði,none,none,no,no,yes,2,Þá Svart og Skíða skildi á um beitingar og lauk því svo að Svartur vó Skíða.,both passes agree,,person1,none,no,
 KL101,vopnfirdinga_saga,Bjarni,Tjörvi,none,none,no,no,yes,14,Hann strýkur eftir honum og rekur í gegnum hann spjótið,both passes agree,,person1,none,no,
 KL102,vopnfirdinga_saga,Bjarni,Geitir,blood,Maternal uncle: Bjarni's mother Halla was Geitir's sister; also foster-father (Bjarni was fostered by Geitir in Krossavík),yes,yes,yes,14,Bjarni hjó þá í höfuð Geiti og fékk hann þegar bana.,tie-break,,person1,blood,yes,Andrea
-KL103,bardar_saga_snaefellsass,Þorbjörn öxnamegin,Atli Ásmundarson,none,none,no,yes,yes,11,Hann drap Atla Ásmundarson en Grettir hefndi bróður síns og vó Þorbjörn.,both passes agree,,person2,none,no,Andrea
-KL104,bardar_saga_snaefellsass,Grettir,Þorbjörn öxnamegin,none,none,no,yes,yes,11,Grettir hefndi bróður síns og vó Þorbjörn.,both passes agree,,person2,none,no,Tanja
 KL105,bjarnar_saga_hitdaelakappa,Björn,Steinn Guðbrandsson,none,none,no,no,yes,25,varð þar fyrir maður er Steinn hét og var Guðbrandsson og stóð í gegnum hann og fékk þegar bana,both passes agree,,person2,none,no,
 KL106,droplaugarsona_saga,Helgi Droplaugarson,Þorgrímur,none,none,no,yes,yes,3,skaut Helgi spjóti á honum miðjum og féll Þorgrímur þegar dauður niður,both passes agree,,person2,none,no,
 KL107,droplaugarsona_saga,Helgi Droplaugarson,Björn,none,none,no,yes,yes,6,Síðan hjó Helgi Björn banahögg og stefndi honum til óhelgi,both passes agree,,person2,none,no,Ylfa
@@ -117,8 +113,6 @@ KL120,egils_saga,Þorsteinn Egilsson,Grani,none,none,no,yes,yes,83,"Þorsteinn k
 KL121,egils_saga,Þorsteinn Egilsson,Þrándur,none,none,no,yes,yes,84,"Þorsteinn reiddi upp öxina hart og hjó á háls Þrándi, svo að höfuðið féll á bringuna",both passes agree,,person2,none,no,
 KL122,grettis_saga,Grímur hersir,Öndóttur kráka,none,none,no,yes,yes,7,Þetta haust drap Grímur hersir Öndótt kráku fyrir það er hann náði eigi fénu til handa konungi,both passes agree,,person2,none,no,
 KL123,grettis_saga,Grettir,Björn,none,none,no,yes,yes,22,Síðan hlupust þeir að og börðust og ekki lengi áður en Björn varð sár og því næst féll hann dauður niður,both passes agree,,person2,none,no,Tanja
-KL124,grettis_saga,Þorgeir Hávarsson,Þorgils Máksson,none,none,no,yes,yes,25,sá varð endir á að Þorgils féll dauður fyrir Þorgeiri til jarðar,both passes agree,,person2,none,no,
-KL125,grettis_saga,Þorgeir Hávarsson,Böggul-Torfi,none,none,no,no,yes,27 (detailed in Fóstbræðra saga ch 8),Í þessi ferð drap Þorgeir Böggul-Torfa að Márskeldu.,both passes agree,,person2,none,no,Andrea
 KL126,grettis_saga,Þorgeir Hávarsson,Skúfur,none,none,no,yes,yes,27 (Fóstbræðra saga ch 8),Þá drap hann þá Skúf og Bjarna í Hundadal.,both passes agree,,person2,none,no,Ylfa
 KL127,grettis_saga,Þorgeir Hávarsson,Bjarni,none,none,no,yes,yes,27 (Fóstbræðra saga ch 8),Þá drap hann þá Skúf og Bjarna í Hundadal.,both passes agree,,person2,none,no,Andrea
 KL128,grettis_saga,Grettir,Þorbjörn ferðalangur,none,none,no,yes,yes,37,Síðan hjó Grettir til Þorbjörns ... síðan hljóp saxið á hálsinn svo að af fauk höfuðið.,both passes agree,,person2,none,no,
@@ -157,7 +151,6 @@ KL160,thordar_saga_hredu,Þórður hreða,Sörli,none,affinity:paternal uncle of
 KL161,eiriks_saga_rauda,Eiríkur rauði,Eyjólfur saur,none,none,no,yes,yes,2,Eyjólfur saur frændi hans drap þrælana ... Fyrir það vó Eiríkur Eyjólf saur.,both passes agree,,person3,none,no,
 KL162,eiriks_saga_rauda,Eiríkur rauði,Hólmgöngu-Hrafn,none,none,no,yes,yes,2,Hann vó og Hólmgöngu-Hrafn að Leikskálum.,both passes agree,,person3,none,no,Tanja
 KL163,eyrbyggja_saga,Þorgrímur,Vésteinn Vésteinsson,none,affinity:wife's brother's brother-in-law (distant),no,yes,yes,12,Þorgrímur drap Véstein Vésteinsson að haustboði í Haukadal.,both passes agree,manual (Ylfa): both were brothers-in-law of Gísli = two marriage links; outside the strict rule,person3,affinity (both brothers-in-law of Gísli),yes,Ylfa
-KL164,eyrbyggja_saga,Gísli Súrsson,Þorgrímur,affinity,affinity:brother-in-law (sister's husband),no,yes,yes,12,drap Gísli mágur hans hann að haustboði á Sæbóli.,both passes agree,,person3,affinity,yes,Ylfa
 KL165,eyrbyggja_saga,Þórarinn,Þorbjörn digri,none,none,no,yes,yes,18,Þórarinn hljóp að Þorbirni og hjó með sverði í höfuðið og klauf ofan í jaxla.,both passes agree,,person3,none,no,
 KL166,eyrbyggja_saga,Arnkell,Haukur,none,none,no,yes,yes,35,Þá hljóp Arnkell af baki og lagði til Hauks með spjóti og kom það á hann miðjan og féll hann,both passes agree,,person3,none,no,
 KL167,eyrbyggja_saga,Þorleifur kimbi,Arnkell,none,none,no,yes,yes,37,Þorleifur kimbi skyldi vera utan þrjá vetur því að honum var kennt banasár Arnkels.,both passes agree,,person3,none,no,
