@@ -32,7 +32,7 @@
 \keywords{Icelandic sagas $|$ feud $|$ kinship networks $|$ null models $|$ community detection}
 
 \begin{abstract}
-The Sagas of Icelanders are famous for their feuds, but whether saga violence follows family lines has not been tested across the whole corpus. We extracted every named killing from all 42 sagas and recorded the family ties between each killer and victim and the motive of each killing. Candidate sentences were selected by keyword, annotated by an AI model under rules we defined, recoded in a blind second pass (agreement on kinship $\kappa=0.74$) and checked by hand. The resulting network has 194 killings among 280 characters; 69\% of the killings belong to one of 41 feuds. Compared with a null model that reshuffles victims within each saga, killings within a family group are rarer than chance (2.2\% vs.\ 5.8\%, $p=0.004$). Immediate blood relatives never kill each other (0 vs.\ 4.7 expected, $p=0.008$), whereas foster kin do so about twice as often as expected (5 vs.\ 2.4, $p=0.08$). A quarter of all killings are revenge, and revenge is aimed precisely: two thirds strike the original killer himself, and avengers kill the killer or someone tied to him three times as often as chance. In the sagas, blood kin avenge and never kill each other; violence within the family runs along the made ties of fosterage.
+The Sagas of Icelanders are famous for their feuds, but whether saga violence follows family lines has not been tested across the whole corpus. We extracted every named killing from all 42 sagas and recorded the family ties between each killer and victim and the motive of each killing. Candidate sentences were selected by keyword, annotated by an AI model under rules we defined, recoded in a blind second pass (agreement on kinship $\kappa=0.74$) and checked by hand. The resulting network has 194 killings among 280 characters; 69\% of the killings belong to one of 41 feuds. The signed network of family ties and killings is small-world and structurally balanced: only 15\% of closed triads contain an odd number of hostile edges, against 35\% by chance. Compared with a null model that reshuffles victims within each saga, killings within a family group are rarer than chance (2.2\% vs.\ 5.8\%, $p=0.004$). Immediate blood relatives never kill each other (0 vs.\ 4.7 expected, $p=0.008$), whereas foster kin do so about twice as often as expected (5 vs.\ 2.4, $p=0.08$). A quarter of all killings are revenge, and revenge is aimed precisely: two thirds strike the original killer himself, and avengers kill the killer or someone tied to him three times as often as chance. In the sagas, blood kin avenge and never kill each other; violence within the family runs along the made ties of fosterage.
 \end{abstract}
 
 \dates{This manuscript was compiled on \today}
@@ -72,6 +72,37 @@ Killer and victim related (strict / wide) & 13 / 27 \\
 \end{tabular}
 \end{table}
 
+\subsection*{Network structure}
+Combining the two layers gives a signed network in which family ties are friendly edges and killings are hostile edges, the distinction used by Mac Carron and Kenna \cite{maccarron2013}. For all sagas it has 1{,}016 people and 1{,}183 edges, 193 of them hostile (Table~\ref{tab:network}). The saga networks are small-world: path lengths are close to those of random graphs of the same size and density, while clustering is ten times higher (\textit{Njáls saga}: $\ell=4.0$ vs.\ $4.5$, $C=0.16$ vs.\ $0.017$, $S=11$). They have strong community structure (Louvain $Q=0.6$--$0.7$ per saga). Unlike the full character networks of Mac Carron and Kenna, which are assortative, ours are disassortative ($r_k<0$), because they are built around the participants in killings and the relatives recorded for them.
+
+The signed network is structurally balanced. Only 13\% of the closed triads in \textit{Njáls saga} and 15\% in all sagas contain an odd number of hostile edges, against 35\% when the signs are shuffled over the same edges ($p=0.004$ and $p=0.002$). This is close to the 10\% that Mac Carron and Kenna report for \textit{Njáls saga} from a different network \cite{maccarron2013}. In saga terms, killings rarely close a triangle with family ties: a person seldom kills someone tied to his own relatives. Fig.~\ref{fig:njala} shows the network of \textit{Njáls saga}: killings link family clusters, such as Gunnar's kin at Hlíðarendi and Njáll's household at Bergþórshvoll, rather than running inside them.
+
+\begin{table*}[t!]
+\centering
+\caption{The signed saga networks: family ties as friendly edges, killings as hostile edges. $N$, $M$: nodes and edges (hostile in brackets); $\langle k\rangle$, $k_{\max}$: mean and maximum degree; $\ell$, $C$: mean path length (giant component) and clustering, with random-graph equivalents; $S$: small-world-ness; $G_C$: giant component; $r_k$: degree assortativity; $Q$: Louvain modularity; $\Delta$: closed triads with an odd number of hostile edges, with the mean of 1{,}000 sign shuffles. $\Delta$ rests on 154 triads in \textit{Njáls saga} and 246 in all sagas, but on fewer than 10 in each smaller saga. Characters are not merged across sagas, so the all-sagas network is a union of saga networks.}
+\label{tab:network}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lrrrrrrrrrrrrr@{}}
+\toprule
+Network & $N$ & $M$ (hostile) & $\langle k\rangle$ & $k_{\max}$ & $\ell$ & $\ell_{\mathrm{rand}}$ & $C$ & $C_{\mathrm{rand}}$ & $S$ & $G_C$ & $r_k$ & $Q$ & $\Delta$ (null) \\
+\midrule
+\textit{Njáls saga} & 198 & 324 (54) & 3.27 & 24 & 4.03 & 4.46 & 0.164 & 0.0165 & 11.0 & 91\% & -0.12 & 0.67 & 13.0\% (35.4\%) \\
+\textit{Eyrbyggja saga} & 52 & 61 (6) & 2.35 & 11 & 3.6 & 4.63 & 0.076 & 0.0451 & 2.2 & 100\% & -0.67 & 0.63 & 16.7\% (24.9\%) \\
+\textit{Egils saga} & 53 & 58 (11) & 2.19 & 21 & 3.25 & 5.07 & 0.153 & 0.0413 & 5.8 & 91\% & -0.53 & 0.6 & 14.3\% (39.3\%) \\
+\textit{Laxdæla saga} & 57 & 56 (7) & 1.96 & 15 & 3.11 & 5.99 & 0.037 & 0.0345 & 2.1 & 65\% & -0.57 & 0.74 & 0.0\% (30.4\%) \\
+\textit{Víga-Glúms saga} & 46 & 49 (4) & 2.13 & 15 & 2.5 & 5.06 & 0.117 & 0.0463 & 5.1 & 67\% & -0.5 & 0.64 & 33.3\% (22.1\%) \\
+\textit{Færeyinga saga} & 39 & 42 (6) & 2.15 & 16 & 3.25 & 4.77 & 0.111 & 0.0552 & 3.0 & 92\% & -0.4 & 0.61 & 25.0\% (33.0\%) \\
+\textit{All 42 sagas} & 1016 & 1183 (193) & 2.33 & 24 & 4.03 & 8.19 & 0.097 & 0.0023 & 85.9 & 18\% & -0.2 & 0.93 & 15.4\% (34.7\%) \\
+\bottomrule
+\end{tabular*}
+\end{table*}
+
+\begin{figure*}[t!]
+\centering
+\includegraphics[width=17.8cm]{network_njala.pdf}
+\caption{The signed network of \textit{Njáls saga} (giant component). Gray: family ties (friendly edges); red: killings (hostile edges); blue: killers and victims, sized by degree; small gray dots: relatives recorded for them. Killings run between family clusters rather than within them.}
+\label{fig:njala}
+\end{figure*}
+
 \subsection*{SQ1: Killings and family lines}
 Killer and victim belonged to the same family group in only 4 of the 182 killings where both groups are known (2.2\%). Under the null model, which reshuffles victims within each saga, the expected share is 5.8\% $\pm$ 1.3\% ($z=-2.7$, $p=0.004$; Fig.~\ref{fig:sq1}A). The result holds without the 19 partly supported killings ($p=0.004$) and when only killings where both families are known are kept ($p=0.020$). Killings therefore run between family groups more often than chance predicts. A direct kin tie between killer and victim is a different matter: such ties occur in 7 of 194 killings (3.6\%), as often as expected by chance (4.5\% $\pm$ 1.1\%, $z=-0.8$, $p=0.59$; Fig.~\ref{fig:sq1}B). Saga characters avoid killing members of their own household or kin group, but kinship as such does not protect them.
 
@@ -108,7 +139,7 @@ Revenge is aimed precisely (Fig.~\ref{fig:revenge}B). In 32 of the 48 revenge ki
 
 % ---------------- Discussion ----------------
 \section*{Discussion}
-Saga violence is overwhelmingly violence between families, and most of it is organised into feuds: 93\% of killings are between people with no family tie, 69\% belong to a feud, and killings within a household or kin group are rarer than chance. Revenge drives a quarter of all killings and is aimed precisely, at the killer himself in two thirds of cases, consistent with historians' view of saga feud as regulated rather than indiscriminate violence \cite{byock1982,miller1990}.
+Saga violence is overwhelmingly violence between families, and most of it is organised into feuds: 93\% of killings are between people with no family tie, 69\% belong to a feud, and killings within a household or kin group are rarer than chance. In network terms, the signed network of kinship and killing is structurally balanced, as Mac Carron and Kenna found for saga character networks \cite{maccarron2013}: hostile edges run between family clusters, not through them. Revenge drives a quarter of all killings and is aimed precisely, at the killer himself in two thirds of cases, consistent with historians' view of saga feud as regulated rather than indiscriminate violence \cite{byock1982,miller1990}.
 
 The pattern of ties is the most revealing result. Immediate blood relatives never kill each other, and blood kin carry out most revenge. Foster kin, by contrast, kill each other about twice as often as chance predicts. These include some of the most famous killings in the corpus: the sons of Njáll killing their foster-brother Höskuldur Hvítanesgoði, and Bolli killing his cousin and foster-brother Kjartan in \textit{Laxdæla saga}. Fosterage bound households together without the solidarity of blood, and appears to be where loyalties conflicted most sharply. \TODO{Group: discuss, add one or two sentences in your own words.}
 
@@ -142,6 +173,9 @@ Killings were ordered by chapter within each saga. A killing counts as targeted 
 
 \subsection*{Coding rules}
 \textit{Blood}: descent or siblinghood up to second cousins. \textit{Affinity}: one marriage link existing at the time of the killing. \textit{Foster}: a direct fosterage tie. \textit{Sworn}: explicit sworn brotherhood. Longer chains, later marriages and betrothals count as no tie. The \textit{wide} definition used for robustness additionally counts such indirect ties (two marriage or fosterage links, ties between the parents, betrothals). Killer and victim are in the \textit{same family group} if they shared a household (including master and slave), were blood kin up to first cousins, or were tied by direct fosterage.
+
+\subsection*{Signed network}
+For the network statistics we combined the family graph (friendly edges) with the killings (hostile edges; a killing overrides a family tie between the same pair) and computed the measures of Mac Carron and Kenna \cite{maccarron2013}: mean path length on the giant component, clustering, the equivalents for a random graph of the same size and mean degree ($\ell_{\mathrm{rand}}=\ln N/\ln\langle k\rangle$, $C_{\mathrm{rand}}=\langle k\rangle/N$), small-world-ness $S=(C/C_{\mathrm{rand}})/(\ell/\ell_{\mathrm{rand}})$, degree assortativity, Louvain modularity, and structural balance $\Delta$, the share of closed triads with an odd number of hostile edges. $\Delta$ is compared with 1{,}000 shuffles of the signs over the same edges.
 
 \subsection*{SQ1 null model}
 The null model needs a family group for every person, not only for every killing, so SQ1 uses the per-person family-group label from the family lookup (available for 272 of 280 participants). This label is stricter than the pair-level rule above, which also counts first cousins and foster kin in other households (16 killings vs.\ 4). A second statistic uses direct ties in the family network (below). The test statistic is the share of killings within a family group. We permute victims among killings within each saga 1{,}000 times. This preserves each character's number of killings committed and suffered. Permutations that create self-killings are rejected. We report a $z$-score and an empirical two-sided $p$-value.

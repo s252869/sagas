@@ -12,8 +12,8 @@ Ylfa Margrét Ólafsdóttir, Tanja Kristín Árnadóttir and Andrea Hermóðsdó
 | Sagas | 42 (modern-spelling Icelandic, [sagadb.org](https://sagadb.org/downloads)) |
 | Candidate sentences (14 forms of *drepa*, *vega*, *víg*) | 1,048 |
 | Labelled as killings | 407 |
-| Final distinct killings (killer → victim) | **201** |
-| Characters involved | 288 |
+| Final distinct killings (killer → victim) | **194** |
+| Characters involved | 280 |
 
 **Main file: [`data/final/killings_final.csv`](data/final/killings_final.csv)**, with one row per killing:
 saga, killer, victim, relation (`none` / `blood` / `affinity` / `foster` / `sworn`), same family group,
@@ -57,16 +57,23 @@ The script that extracted the 1,048 candidate sentences is not yet in this repos
 python scripts/build_family_graph.py   # person table + family graph → data/analysis/
 python scripts/sq1_null_model.py       # SQ1 → data/analysis/sq1_results.csv, figures/sq1_null.png
 python scripts/sq2_communities.py      # SQ2 → data/analysis/sq2_results.csv, figures/sq2_ties.png
+python scripts/revenge_chains.py 1     # network revenge measure → data/analysis/revenge_*_depth1.csv
+python scripts/feud_analysis.py        # feuds and revenge from the text annotation → data/feuds/, figures/revenge.png
+python scripts/network_stats.py        # signed network statistics (Mac Carron & Kenna style) → paper/table_network.tex, figures/network_njala.png
+python scripts/descriptive_stats.py    # dataset overview → data/analysis/descriptive_stats.md, paper/table_overview.tex
 ```
 
 | Result | Observed | Chance (within-saga victim shuffles) | p |
 |---|---|---|---|
-| Killings within a family group | 4/189 (2.1%) | 6.1% | 0.002 |
-| Killer–victim direct kin tie | 8/201 (4.0%) | 4.5% | 0.88 |
-| …immediate blood (parent, child, sibling) | 0 | 4.8 | 0.008 |
-| …foster | 5 | 2.2 | 0.06 |
-| …marriage | 3 | 2.1 | 0.61 |
-| NMI family communities vs feuds | 0.860 | 0.843 | 0.006 |
+| Killings within a family group | 4/182 (2.2%) | 5.8% | 0.004 |
+| Killer–victim direct kin tie | 7/194 (3.6%) | 4.5% | 0.59 |
+| …immediate blood (parent, child, sibling) | 0 | 4.7 | 0.008 |
+| …foster | 5 | 2.4 | 0.08 |
+| …marriage | 2 | 1.7 | 1.0 |
+| NMI family communities vs feuds | 0.858 | 0.841 | 0.006 |
+| Structural balance Δ (signed network, all sagas) | 15.4% | 34.7% | 0.002 |
+| Targeted revenge (network measure) | 22 | 7.5 | 0.002 |
+| Revenge killings (text) | 48/194 (25%), 32 strike the killer himself | | |
 
 ## Paper
 
