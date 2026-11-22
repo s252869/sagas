@@ -122,19 +122,56 @@ INK, MUTED, GRID, ACCENT, LIGHT = "#1d2427", "#5b6669", "#d5dad6", "#24506b", "#
 fam = collections.Counter(e["layer"] for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")) if e["layer"] in ("blood", "affinity", "foster"))
 av = collections.Counter(low(r["relation_category"]) for r in rev)
 kin_av = sum(av[t] for t in ("blood", "affinity", "foster")); tot_f = sum(fam.values())
-cats = [("blood", "Blood kin"), ("affinity", "In-law (marriage)"), ("none", "No stated tie"), ("household", "Household member"),
-        ("foster", "Foster kin"), ("sworn", "Sworn brother")]
+# who gets avenged: share of victims avenged, by number of recorded blood relatives of the victim
+import re as _re, random as _random
+blood = collections.Counter()
+for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")):
+    if e["layer"] == "blood":
+        blood[(e["saga"], e["a"])] += 1; blood[(e["saga"], e["b"])] += 1
+_clean = lambda n: _re.sub(r"\s*\(.*?\)", "", n or "").strip()
+avk = {r["avenges_kid"] for r in rev if r["avenges_kid"]}
+avp = {(r["saga"], _clean(r["avenges_person"])) for r in rev if r["avenges_person"]}
+avf = {(s_, p_.split()[0]) for s_, p_ in avp if p_}
+def is_avenged(r):
+    v = _clean(r["victim"])
+    return r["kid"] in avk or (r["saga"], v) in avp or (r["saga"], v.split()[0] if v else "") in avf
+bins = [(0, 0, "none"), (1, 2, "1–2"), (3, 5, "3–5"), (6, 999, "6 or more")]
+vb = lambda r: blood[(r["saga"], r["victim"])]
+dose = []
+for lo, hi, lab_ in bins:
+    sub = [r for r in rows if lo <= vb(r) <= hi]; a_ = sum(is_avenged(r) for r in sub)
+    dose.append((lab_, a_, len(sub)))
+# within-saga permutation test of (has blood kin) vs (none)
+labs = [is_avenged(r) for r in rows]
+def _d(L):
+    g1 = [x for r, x in zip(rows, L) if vb(r) > 0]; g0 = [x for r, x in zip(rows, L) if vb(r) == 0]
+    return sum(g1) / len(g1) - sum(g0) / len(g0)
+obs_d = _d(labs); rng_ = _random.Random(2805); idx = collections.defaultdict(list)
+for n_, r in enumerate(rows): idx[r["saga"]].append(n_)
+nul = []
+for _ in range(2000):
+    L = labs[:]
+    for ii in idx.values():
+        v = [L[n_] for n_ in ii]; rng_.shuffle(v)
+        for n_, x in zip(ii, v): L[n_] = x
+    nul.append(_d(L))
+p_dose = (sum(abs(x) >= abs(obs_d) for x in nul) + 1) / 2001
+print("who gets avenged, by victim's recorded blood kin:", dose, f"difference {obs_d:.3f}, p = {p_dose:.4f}")
 tg = collections.Counter(low(r["target"]) for r in rev)
 tcats = [("the killer himself", "The killer himself"), ("killer's kin", "The killer's kin"), ("killer's household or ally", "The killer's household or ally")]
 n_rev = len(rev)
 fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.0, 2.3), gridspec_kw={"width_ratios": [1, 1]})
-y = range(len(cats))
-a1.barh(list(y), [av[c] for c, _ in cats], height=0.6, color=ACCENT)
-for i, (c, _) in enumerate(cats):
-    a1.text(av[c] + 0.8, i, f"{av[c]}", va="center", fontsize=6.5, color=INK)
-a1.set_yticks(list(y), [l for _, l in cats], fontsize=7, color=INK); a1.invert_yaxis()
-a1.set_xlabel("revenge killings", fontsize=6.5, color=MUTED)
-a1.set_title(f"A  Who avenges: tie to the person avenged (n = {n_rev})", fontsize=7.5, loc="left", color=INK)
+x = range(len(dose))
+a1.bar(list(x), [100 * a_ / n_ for _, a_, n_ in dose], width=0.62, color=ACCENT)
+for i, (_, a_, n_) in enumerate(dose):
+    a1.text(i, 100 * a_ / n_ + 1.5, f"{100 * a_ / n_:.0f}%", ha="center", fontsize=7, color=INK, fontweight="bold")
+a1.set_xticks(list(x), [f"{l}\n({a_}/{n_})" for l, a_, n_ in dose], fontsize=6.5, color=INK)
+a1.set_ylim(0, 62); a1.set_ylabel("victims avenged (%)", fontsize=6.5, color=MUTED)
+a1.set_xlabel("victim's recorded blood relatives", fontsize=6.5, color=MUTED, labelpad=4)
+a1.set_title("A  Who gets avenged", fontsize=7.5, loc="left", color=INK)
+a1.grid(axis="y", color=GRID, lw=0.5); a1.set_axisbelow(True)
+a1.tick_params(axis="y", labelsize=6, colors=MUTED); a1.tick_params(axis="x", length=0, pad=3)
+a1.spines[["top", "right", "left"]].set_visible(False); a1.spines["bottom"].set_color(GRID)
 y2 = range(len(tcats))
 a2.barh(list(y2), [tg[c] for c, _ in tcats], height=0.5, color=ACCENT)
 for i, (c, _) in enumerate(tcats):
@@ -142,10 +179,9 @@ for i, (c, _) in enumerate(tcats):
 a2.set_yticks(list(y2), [l for _, l in tcats], fontsize=7, color=INK); a2.invert_yaxis()
 a2.set_xlabel("revenge killings", fontsize=6.5, color=MUTED)
 a2.set_title(f"B  Whom revenge strikes (n = {n_rev})", fontsize=7.5, loc="left", color=INK)
-a1.set_xlim(0, max(av.values()) * 1.15); a2.set_xlim(0, max(tg.values()) * 1.25)
-for ax in (a1, a2):
-    ax.tick_params(axis="x", labelsize=6, colors=MUTED); ax.tick_params(axis="y", length=0)
-    ax.grid(axis="x", color=GRID, lw=0.5); ax.set_axisbelow(True)
-    ax.spines[["top", "right", "left"]].set_visible(False); ax.spines["bottom"].set_color(GRID)
+a2.set_xlim(0, max(tg.values()) * 1.25)
+a2.tick_params(axis="x", labelsize=6, colors=MUTED); a2.tick_params(axis="y", length=0)
+a2.grid(axis="x", color=GRID, lw=0.5); a2.set_axisbelow(True)
+a2.spines[["top", "right", "left"]].set_visible(False); a2.spines["bottom"].set_color(GRID)
 fig.tight_layout(); fig.savefig(FIG / "revenge.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "revenge.pdf", bbox_inches="tight")
 print("saved figures/revenge.png")
