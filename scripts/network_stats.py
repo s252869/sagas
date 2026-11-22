@@ -106,46 +106,63 @@ for r in rows:
 tex += ["\\bottomrule", "\\end{tabular*}", "\\end{table*}"]
 (ROOT / "paper/table_network.tex").write_text("\n".join(tex) + "\n", encoding="utf-8")
 
-# ---- figure: the Njáls saga signed network ----
+# ---- figure: the Njáls saga signed network, people coloured by family group ----
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
 G = signed_graph({"brennu-njals_saga"})
 G = G.subgraph(max(nx.connected_components(G), key=len)).copy()
 pos = nx.spring_layout(G, seed=7, k=0.3, iterations=500)
-INK, KIN, HOST, NODE = "#1d2427", "#b9c2c0", "#b5452f", "#24506b"
-fig, ax = plt.subplots(figsize=(7.0, 5.6))
-fe = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] > 0]
-he = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] < 0]
-nx.draw_networkx_edges(G, pos, edgelist=fe, edge_color=KIN, width=0.6, ax=ax)
-nx.draw_networkx_edges(G, pos, edgelist=he, edge_color=HOST, width=1.3, ax=ax)
+INK, KIN, HOST, OTHER, REL = "#1d2427", "#c9cfcc", "#b5452f", "#7a868a", "#b7bfbd"
+grp = {(r["saga"], r["name"]): r["family_group"] for r in csv.DictReader(open(A / "persons.csv", encoding="utf-8"))}
+# Okabe-Ito colours (colour-blind safe), without orange/vermilion so they cannot be confused with the red killings
+FAM = [("njálssynir / bergþórshvoll", "Njáll's household (Bergþórshvoll)", "#0072B2"),
+       ("sigfússynir / grjótá", "Sigfússynir (Þráinn, Höskuldur)", "#009E73"),
+       ("svínfellingar (flosi's kin)", "Flosi's kin (Svínfellingar)", "#CC79A7"),
+       ("hlíðarendi (gunnar's kin)", "Gunnar's kin (Hlíðarendi)", "#56B4E9"),
+       ("kirkjubær (otkell's kin)", "Otkell's kin (Kirkjubær)", "#8C6D1F")]
+col = {g: c for g, _, c in FAM}
 part = {(r["saga"], n) for r in kill for n in (r["killer"], r["victim"])}
 deg = dict(G.degree())
-nx.draw_networkx_nodes(G, pos, nodelist=[v for v in G if v in part], node_size=[8 + 6 * deg[v] for v in G if v in part],
-                       node_color=NODE, edgecolors="white", linewidths=0.4, ax=ax)
-nx.draw_networkx_nodes(G, pos, nodelist=[v for v in G if v not in part], node_size=6, node_color="#9aa6a8", linewidths=0, ax=ax)
-top = sorted((v for v in G if v in part), key=lambda v: -deg[v])[:11]
-placed = []
-xs = [p[0] for p in pos.values()]; ys = [p[1] for p in pos.values()]
-W, H = (max(xs) - min(xs)), (max(ys) - min(ys))
-for v in sorted(top, key=lambda v: -pos[v][1]):
-    x, y = pos[v]; ly = y + 0.03 * H
-    for _ in range(30):                      # simple label repulsion: push down until free
-        if all(abs(x - px) > 0.16 * W or abs(ly - py) > 0.035 * H for px, py in placed):
-            break
-        ly -= 0.035 * H
-    placed.append((x, ly))
-    ax.annotate(v[1], (x, y), xytext=(x, ly), fontsize=6.5, ha="center", va="bottom", color=INK,
-                bbox=dict(boxstyle="round,pad=0.12", fc="white", ec="none", alpha=0.85),
-                arrowprops=dict(arrowstyle="-", color="#5b6669", lw=0.4) if abs(ly - y - 0.03 * H) > 1e-9 else None)
-from matplotlib.lines import Line2D
-ax.legend(handles=[Line2D([], [], color=KIN, lw=1.5, label="family tie (friendly)"), Line2D([], [], color=HOST, lw=2, label="killing (hostile)"),
-                   Line2D([], [], marker="o", ls="", color=NODE, label="killer or victim"), Line2D([], [], marker="o", ls="", ms=3, color="#9aa6a8", label="relative")],
-          loc="lower left", fontsize=6.5, frameon=False)
+fig, ax = plt.subplots(figsize=(7.0, 6.0))
+fe = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] > 0]
+he = [(u, v) for u, v, d in G.edges(data=True) if d["sign"] < 0]
+nx.draw_networkx_edges(G, pos, edgelist=fe, edge_color=KIN, width=0.5, ax=ax)
+nx.draw_networkx_edges(G, pos, edgelist=he, edge_color=HOST, width=1.2, alpha=0.9, ax=ax)
+nx.draw_networkx_nodes(G, pos, nodelist=[v for v in G if v not in part], node_size=5, node_color=REL, linewidths=0, ax=ax)
+pv = sorted((v for v in G if v in part), key=lambda v: grp.get(v, "") in col)   # coloured families drawn on top
+nx.draw_networkx_nodes(G, pos, nodelist=pv, node_size=[10 + 5 * deg[v] for v in pv],
+                       node_color=[col.get(grp.get(v, ""), OTHER) for v in pv], edgecolors="white", linewidths=0.5, ax=ax)
+# labels on a ring outside the network, spread apart, with thin leader lines
+import numpy as np
+names = ["Gunnar", "Njáll", "Skarphéðinn", "Kári", "Flosi", "Höskuldur Hvítanesgoði", "Þráinn", "Starkaður", "Otkell"]
+lab = [v for v in G if v[1] in names]
+P = np.array(list(pos.values())); xmin, xmax = P[:, 0].min(), P[:, 0].max(); ymin, ymax = P[:, 1].min(), P[:, 1].max()
+W, H = xmax - xmin, ymax - ymin; cx = (xmin + xmax) / 2
+for side in ("left", "right"):                         # callout columns at the left and right edges
+    vs = sorted([v for v in lab if (pos[v][0] < cx) == (side == "left")], key=lambda v: -pos[v][1])
+    ys = [pos[v][1] for v in vs]
+    for k in range(1, len(ys)):                        # keep labels at least 0.065*H apart, top to bottom
+        ys[k] = min(ys[k], ys[k - 1] - 0.065 * H)
+    lx = xmin - 0.08 * W if side == "left" else xmax + 0.08 * W
+    for v, ly in zip(vs, ys):
+        ax.annotate(v[1], pos[v], xytext=(lx, ly), fontsize=7, color=INK, va="center", zorder=5,
+                    ha="right" if side == "left" else "left",
+                    arrowprops=dict(arrowstyle="-", color="#5b6669", lw=0.5, shrinkA=1, shrinkB=3,
+                                    connectionstyle="angle,angleA=0,angleB=60" if False else "arc3"))
+ax.set_xlim(xmin - 0.36 * W, xmax + 0.36 * W)
+handles = [Line2D([], [], marker="o", ls="", ms=6, color=cc, mec="white", label=l) for _, l, cc in FAM]
+handles += [Line2D([], [], marker="o", ls="", ms=6, color=OTHER, mec="white", label="other killers and victims"),
+            Line2D([], [], marker="o", ls="", ms=3, color=REL, label="relative"),
+            Line2D([], [], color=KIN, lw=1.5, label="family tie (friendly)"), Line2D([], [], color=HOST, lw=2, label="killing (hostile)")]
+ax.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, 0.02), ncol=3, fontsize=6.5, frameon=False, labelcolor=INK,
+          columnspacing=1.4, handletextpad=0.7)
 ax.axis("off"); fig.tight_layout()
 fig.savefig(FIG / "network_njala.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "network_njala.pdf", bbox_inches="tight")
 print("saved figures/network_njala.png")
 
 # ---- figure: the five largest saga networks (small multiples) ----
+NODE = "#24506b"; KIN = "#b9c2c0"
 from matplotlib.lines import Line2D
 top5 = [s for s, _ in size.most_common(5)]
 fig, axes = plt.subplots(2, 3, figsize=(7.0, 4.9))

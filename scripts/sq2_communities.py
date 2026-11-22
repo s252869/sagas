@@ -120,17 +120,20 @@ import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 INK, MUTED, GRID, ACCENT, NULLC = "#1d2427", "#5b6669", "#d5dad6", "#24506b", "#c9cfcc"
 rows_fig = [("blood", "Blood\n(parent, child, sibling)"), ("foster", "Foster\n(foster-father, -brother)"), ("affinity", "Marriage\n(spouse, in-law)")]
-fig, ax = plt.subplots(figsize=(3.4, 2.5))
+fig, ax = plt.subplots(figsize=(3.4, 2.4))
+xmax = 0
 for i, (layer, lab) in enumerate(rows_fig):
     nv = sorted(c[layer] for c in nulls); lo, hi = nv[int(0.025 * N)], nv[int(0.975 * N) - 1]
-    mu = statistics.mean(nv)
+    mu = statistics.mean(nv); xmax = max(xmax, hi)
+    pv = min(1, 2 * min((sum(x >= obs_c[layer] for x in nv) + 1) / (N + 1), (sum(x <= obs_c[layer] for x in nv) + 1) / (N + 1)))
     ax.plot([lo, hi], [i, i], color=NULLC, lw=7, solid_capstyle="round", zorder=1)
-    ax.plot([mu], [i], marker="|", ms=12, mew=1.5, color=MUTED, zorder=2)
-    ax.plot([obs_c[layer]], [i], "o", ms=8, color=ACCENT, mec="white", mew=1.5, zorder=3)
-    ax.annotate(f"{obs_c[layer]}", (obs_c[layer], i), xytext=(0, 7), textcoords="offset points",
-                ha="center", fontsize=7, color=INK)
+    ax.plot([obs_c[layer]], [i], "o", ms=6.5, color=ACCENT, mec="white", mew=1.2, zorder=3)
+    ax.plot([mu], [i], marker="|", ms=13, mew=1.6, color=MUTED, zorder=4)      # chance mean drawn on top, never hidden
+    ptxt = "p = 0.002" if pv <= 0.002 else f"p = {pv:.2f}"
+    ax.text(1.0, i, f"{obs_c[layer]} vs {mu:.1f}\n{ptxt}", transform=ax.get_yaxis_transform(), ha="left", va="center",
+            fontsize=6.5, color=INK if pv < 0.05 else MUTED, fontweight="bold" if pv < 0.05 else "normal")
 ax.set_yticks(range(len(rows_fig)), [l for _, l in rows_fig], fontsize=7, color=INK)
-ax.invert_yaxis(); ax.set_xlim(-0.5, None)
+ax.set_ylim(len(rows_fig) - 0.4, -0.6); ax.set_xlim(-0.5, xmax + 1)
 ax.set_xlabel("killings between killer and victim with this tie", fontsize=7, color=MUTED)
 ax.tick_params(axis="x", labelsize=7, colors=MUTED); ax.tick_params(axis="y", length=0)
 ax.grid(axis="x", color=GRID, lw=0.5); ax.set_axisbelow(True)

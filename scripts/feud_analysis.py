@@ -122,27 +122,27 @@ INK, MUTED, GRID, ACCENT, LIGHT = "#1d2427", "#5b6669", "#d5dad6", "#24506b", "#
 fam = collections.Counter(e["layer"] for e in csv.DictReader(open(A / "family_edges.csv", encoding="utf-8")) if e["layer"] in ("blood", "affinity", "foster"))
 av = collections.Counter(low(r["relation_category"]) for r in rev)
 kin_av = sum(av[t] for t in ("blood", "affinity", "foster")); tot_f = sum(fam.values())
-cats = [("blood", "Blood"), ("affinity", "Marriage"), ("foster", "Foster")]
+cats = [("blood", "Blood kin"), ("affinity", "In-law (marriage)"), ("none", "No stated tie"), ("household", "Household member"),
+        ("foster", "Foster kin"), ("sworn", "Sworn brother")]
 tg = collections.Counter(low(r["target"]) for r in rev)
 tcats = [("the killer himself", "The killer himself"), ("killer's kin", "The killer's kin"), ("killer's household or ally", "The killer's household or ally")]
-fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.0, 2.2), gridspec_kw={"width_ratios": [1.15, 1]})
+n_rev = len(rev)
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.0, 2.3), gridspec_kw={"width_ratios": [1, 1]})
 y = range(len(cats))
-a1.barh([i - 0.18 for i in y], [av[c] / kin_av * 100 for c, _ in cats], height=0.34, color=ACCENT)
-a1.barh([i + 0.18 for i in y], [fam[c] / tot_f * 100 for c, _ in cats], height=0.34, color=LIGHT)
+a1.barh(list(y), [av[c] for c, _ in cats], height=0.6, color=ACCENT)
 for i, (c, _) in enumerate(cats):
-    a1.text(av[c] / kin_av * 100 + 1.5, i - 0.18, f"{av[c]}", va="center", fontsize=6, color=INK)
+    a1.text(av[c] + 0.8, i, f"{av[c]}", va="center", fontsize=6.5, color=INK)
 a1.set_yticks(list(y), [l for _, l in cats], fontsize=7, color=INK); a1.invert_yaxis()
-a1.set_xlabel("% of avengers related to the avenged", fontsize=6.5, color=MUTED)
-a1.set_title("A  Who avenges (kin avengers)", fontsize=7.5, loc="left", color=INK)
-a1.legend(handles=[Patch(color=ACCENT, label="avengers (n)"), Patch(color=LIGHT, label="all recorded kin ties")],
-          fontsize=6, frameon=False, loc="lower right", labelcolor=MUTED)
+a1.set_xlabel("revenge killings", fontsize=6.5, color=MUTED)
+a1.set_title(f"A  Who avenges: tie to the person avenged (n = {n_rev})", fontsize=7.5, loc="left", color=INK)
 y2 = range(len(tcats))
 a2.barh(list(y2), [tg[c] for c, _ in tcats], height=0.5, color=ACCENT)
 for i, (c, _) in enumerate(tcats):
-    a2.text(tg[c] + 0.6, i, str(tg[c]), va="center", fontsize=6, color=INK)
+    a2.text(tg[c] + 0.8, i, f"{tg[c]} ({tg[c] / n_rev:.0%})", va="center", fontsize=6.5, color=INK)
 a2.set_yticks(list(y2), [l for _, l in tcats], fontsize=7, color=INK); a2.invert_yaxis()
 a2.set_xlabel("revenge killings", fontsize=6.5, color=MUTED)
-a2.set_title("B  Whom revenge strikes", fontsize=7.5, loc="left", color=INK)
+a2.set_title(f"B  Whom revenge strikes (n = {n_rev})", fontsize=7.5, loc="left", color=INK)
+a1.set_xlim(0, max(av.values()) * 1.15); a2.set_xlim(0, max(tg.values()) * 1.25)
 for ax in (a1, a2):
     ax.tick_params(axis="x", labelsize=6, colors=MUTED); ax.tick_params(axis="y", length=0)
     ax.grid(axis="x", color=GRID, lw=0.5); ax.set_axisbelow(True)
