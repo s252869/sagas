@@ -63,8 +63,8 @@ python scripts/sq1_null_model.py       # SQ1 → data/analysis/sq1_results.csv, 
 python scripts/sq2_communities.py      # SQ2 → data/analysis/sq2_results.csv, figures/sq2_ties.png
 python scripts/revenge_chains.py 1     # network revenge measure → data/analysis/revenge_*_depth1.csv
 python scripts/feud_analysis.py        # feuds and revenge from the text annotation → data/feuds/, figures/revenge.png
-python scripts/network_stats.py        # signed network statistics (Mac Carron & Kenna style) → paper/table_network.tex, figures/network_njala.png
-python scripts/descriptive_stats.py    # dataset overview → data/analysis/descriptive_stats.md, paper/table_overview.tex
+python scripts/network_stats.py        # signed network statistics (Mac Carron & Kenna style) → paper/table_network.tex (local), figures/network_njala.png
+python scripts/descriptive_stats.py    # dataset overview → data/analysis/descriptive_stats.md, paper/table_overview.tex (local)
 ```
 
 | Result (482 killings) | Observed | Chance (within-saga victim shuffles) | p |
@@ -80,7 +80,3 @@ python scripts/descriptive_stats.py    # dataset overview → data/analysis/desc
 | Revenge killings (text) | 127 (26%); 80 strike the killer himself | | |
 
 Original 194 killings only: `data/analysis/original_only/`.
-
-## Paper
-
-`paper/pnas_main.tex`. Compile it in Overleaf with the *PNAS Template for Research Articles*.

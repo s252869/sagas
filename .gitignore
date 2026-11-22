@@ -16,3 +16,6 @@ data/**/*_input*.json
 data/final/disagreements.json
 # but DO keep the figure PDFs (needed for Overleaf)
 !figures/*.pdf
+
+# the paper is handed in separately (PDF), not kept in the repository
+paper/
