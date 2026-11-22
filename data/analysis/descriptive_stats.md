@@ -15,8 +15,8 @@
 - Mean killings per killer: 1.91; pairs who killed each other: 3
 
 ## Killer–victim relations
-- Strict: {'none': 457, 'foster': 5, 'blood': 15, 'affinity': 4, 'sworn': 1}; wide kin: 39
-- Same family group: 36; support partly: 71; family of a participant unknown: 65
+- Strict: {'none': 459, 'foster': 5, 'blood': 15, 'affinity': 2, 'sworn': 1}; wide kin: 40
+- Same family group: 36; support partly: 74; family of a participant unknown: 65
 
 ## Family network
 - People: 1516 (participants and their recorded kin); ties: 1650 (blood 1240, affinity 354, foster 58; plus 316 unspecified kin not used)

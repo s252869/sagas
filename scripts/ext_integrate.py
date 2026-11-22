@@ -62,6 +62,27 @@ for kid, b in newk.items():
         "evidence": a.get("evidence", ""), "decided_by": "extension: AI labelling + AI verification", "correction": "",
         "annotator": "extension", "relation_broad": rel if rel != "none" else "none", "kin_broad": "yes" if rel != "none" else "no",
         "manually_checked_by": "", "source": "extension"})
+# manual check of new killings (data/extension/manual_ext_corrections.csv) + wide kin ties
+mc = list(csv.DictReader(open(E / "manual_ext_corrections.csv", encoding="utf-8"))) if (E / "manual_ext_corrections.csv").exists() else []
+broad = {r["kid"]: r["broad_tie"] for r in csv.DictReader(open(FIN / "broad_kin.csv", encoding="utf-8"))}
+byk = {r["kid"]: r for r in rows}
+for c in mc:
+    r = byk.get(c["kid"])
+    if not r: print("!! unknown", c["kid"]); continue
+    r[c["field"]] = c["new_value"]
+    r["correction"] = (r["correction"] + " | " if r["correction"] else "") + c["reason"]
+for r in rows:
+    if r["source"] == "extension":
+        r["relation_broad"] = r["relation"] if r["relation"] != "none" else broad.get(r["kid"], "none")
+        r["kin_broad"] = "yes" if r["relation_broad"] != "none" else "no"
+checked = set()
+import openpyxl
+_f = ROOT / "data/review/manual_check_new_killings.xlsx"
+if _f.exists():
+    for x in openpyxl.load_workbook(_f, read_only=True)["check"].iter_rows(min_row=2, values_only=True):
+        if x[1] and x[9]: checked.add(x[1])
+for r in rows:
+    if r["kid"] in checked: r["manually_checked_by"] = "group (new-killing check)"
 with open(FIN / "killings_all.csv", "w", newline="", encoding="utf-8") as fh:
     w = csv.DictWriter(fh, cols); w.writeheader(); w.writerows(rows)
 with open(E / "integration_log.csv", "w", newline="", encoding="utf-8") as fh:
