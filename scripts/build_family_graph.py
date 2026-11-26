@@ -18,6 +18,8 @@ KILLINGS = os.environ.get("KILLINGS", "killings_all.csv")   # killings_final.csv
 
 OUT = ROOT / "data/analysis"; OUT.mkdir(parents=True, exist_ok=True)
 alias = {(r["saga"], r["name"]): r["canonical"] for r in csv.DictReader(open(ROOT / "data/final/aliases.csv", encoding="utf-8"))}
+if os.environ.get("MERGE"):                       # robustness: merged name variants (scripts/merge_names.py)
+    alias.update({(r["saga"], r["name"]): r["canonical"] for r in csv.DictReader(open(ROOT / "data/analysis/name_merges.csv", encoding="utf-8"))})
 canon = lambda s, n: alias.get((s, n), n)
 
 COLS = {"parents (father; mother)": "blood", "siblings": "blood", "children": "blood",
@@ -58,7 +60,7 @@ for p in ["person1", "person2", "person3"]:
 
 import json as _json
 _np = ROOT / "data/extension/new_people.json"
-if KILLINGS == "killings_all.csv" and _np.exists():
+if KILLINGS.startswith("killings_all") and _np.exists():
     for d in _json.loads(_np.read_text(encoding="utf-8")):
         saga = d["saga"]; me = canon(saga, d["name"])
         if (saga, me) not in persons:

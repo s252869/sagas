@@ -1,0 +1,625 @@
+saga,name,family_group,status,in_killing_network
+bandamanna_saga,Bjálfi,hildissynir (svölustaðir),partial,yes
+bandamanna_saga,Már,hildissynir (svölustaðir),done,yes
+bandamanna_saga,Vali,melur (oddur ófeigsson's kin),partial,yes
+bandamanna_saga,Óspakur,óspakur glúmsson (skriðinsenni),done,yes
+bardar_saga_snaefellsass,Bárður Snæfellsás,laugarbrekka (bárður's kin),partial,yes
+bardar_saga_snaefellsass,Einar Sigmundarson,laugarbrekka (sigmundur's kin),done,yes
+bardar_saga_snaefellsass,Lón-Einar,lón-einar,not found,yes
+bardar_saga_snaefellsass,Rauðfeldur Þorkelsson,arnarstapi (þorkell rauðfeldsson's kin),done,yes
+bardar_saga_snaefellsass,Sölvi Þorkelsson,arnarstapi (þorkell rauðfeldsson's kin),done,yes
+bjarnar_saga_hitdaelakappa,Björn,hólmur (björn hítdælakappi's kin),done,yes
+bjarnar_saga_hitdaelakappa,Eyvindur,hítarnes (þórður kolbeinsson),done,yes
+bjarnar_saga_hitdaelakappa,Grímur,hítarnes (þórður kolbeinsson),done,yes
+bjarnar_saga_hitdaelakappa,Kaldimar,garðaríki (kaldimar),done,yes
+bjarnar_saga_hitdaelakappa,Kolbeinn Þórðarson,hítarnes (þórður kolbeinsson),done,yes
+bjarnar_saga_hitdaelakappa,Steinn Guðbrandsson,hítarnes (þórður kolbeinsson),partial,yes
+bjarnar_saga_hitdaelakappa,Þorkell Dálksson,húsafell (dálkur's kin),done,yes
+bjarnar_saga_hitdaelakappa,Þorvaldur Eiðsson,hurðarbak (eiðssynir),done,yes
+bjarnar_saga_hitdaelakappa,Þórður Eiðsson,hurðarbak (eiðssynir),done,yes
+bjarnar_saga_hitdaelakappa,Þórður Kolbeinsson,hítarnes (þórður kolbeinsson),partial,yes
+brennu-njals_saga,Arnór Örnólfsson,arnór örnólfsson (fossárskógar),partial,yes
+brennu-njals_saga,Atli,njálssynir / bergþórshvoll,not found,yes
+brennu-njals_saga,Atli Arnviðarson,atli arnviðarson's vikings,partial,yes
+brennu-njals_saga,Auðólfur,kirkjubær (otkell's kin),not found,yes
+brennu-njals_saga,Brján konungur,brján konungur (ireland),partial,yes
+brennu-njals_saga,Brynjólfur,hlíðarendi (gunnar's kin),partial,yes
+brennu-njals_saga,Bróðir,bróðir (viking of man),partial,yes
+brennu-njals_saga,Brúni Hafliðason,guðmundur ríki's troop,partial,yes
+brennu-njals_saga,Egill,,partial,yes
+brennu-njals_saga,Eiríkur örðigskeggi,goðdælir (eiríkur örðigskeggi),partial,yes
+brennu-njals_saga,Eyjólfur Bölverksson,eyjólfur bölverksson (otradalur kin),partial,yes
+brennu-njals_saga,Flosi,svínfellingar (flosi's kin),done,yes
+brennu-njals_saga,Gaukur,gaukur trandilsson,partial,yes
+brennu-njals_saga,Glúmur,óleifssynir (varmalækur),done,yes
+brennu-njals_saga,Glúmur Hildisson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Grjótgarður Moldansson,moldanssynir (scottish vikings),partial,yes
+brennu-njals_saga,Grjótgarður í Sóknadal,grjótgarður í sóknadal (norway),not found,yes
+brennu-njals_saga,Grímur Njálsson,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Grímur rauði,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Grímur í Grímsnesi,grímur í grímsnesi,not found,yes
+brennu-njals_saga,Gunnar,hlíðarendi (gunnar's kin),done,yes
+brennu-njals_saga,Gunnar Lambason,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Gunnar úr Skál,skál (gunnar's household),not found,yes
+brennu-njals_saga,Guðleifur,þangbrandur's mission,partial,yes
+brennu-njals_saga,Hallbjörn hvíti,kirkjubær (otkell's kin),done,yes
+brennu-njals_saga,Halli rauði,halli rauði,not found,yes
+brennu-njals_saga,Hallkell,kirkjubær (otkell's kin),done,yes
+brennu-njals_saga,Hallkell (brother of Ketilbjörn gamli),kirkjubær (otkell's kin),partial,yes
+brennu-njals_saga,Helgi Njálsson,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Hjörtur,hlíðarendi (gunnar's kin),done,yes
+brennu-njals_saga,Hrappur,víga-hrappur (later sigfússynir / grjótá follower),partial,yes
+brennu-njals_saga,Hróaldur,oddi (geir goði's kin),done,yes
+brennu-njals_saga,Hróaldur Össurarson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Hrútur,höskuldsstaðir (höskuldur dala-kollsson's kin),done,yes
+brennu-njals_saga,Högni,hlíðarendi (gunnar's kin),done,yes
+brennu-njals_saga,Höskuldur Hvítanesgoði,sigfússynir / grjótá,done,yes
+brennu-njals_saga,Höskuldur Njálsson,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Ingjaldur frá Keldum,keldur (ingjaldur),partial,yes
+brennu-njals_saga,Ketill úr Eldu,ketill úr eldu,not found,yes
+brennu-njals_saga,Kolbeinn,svínfellingar (flosi's kin),done,yes
+brennu-njals_saga,Kolskeggur,hlíðarendi (gunnar's kin),done,yes
+brennu-njals_saga,Kolskeggur víkingur,hallgrímur & kolskeggur (eysýsla vikings),partial,yes
+brennu-njals_saga,Kolur,,partial,yes
+brennu-njals_saga,Kolur Þorsteinsson,síðumenn (hallur af síðu's kin),partial,yes
+brennu-njals_saga,Kári,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Lambi Sigurðarson,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Leiðólfur sterki,hámundarsynir (leiðólfur sterki),partial,yes
+brennu-njals_saga,Lýtingur,sámsstaðir (lýtingur's kin),done,yes
+brennu-njals_saga,Móðólfur Ketilsson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Mörður Sigfússon,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Mörður Valgarðsson,hof (valgarður grái's kin),done,yes
+brennu-njals_saga,Mörður órækja,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Njáll,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Oddur Halldórsson,oddur halldórsson,not found,yes
+brennu-njals_saga,Otkell,kirkjubær (otkell's kin),done,yes
+brennu-njals_saga,Sigmundur,hlíðarendi (gunnar's kin),done,yes
+brennu-njals_saga,Sigurður Lambason,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Sigurður svínhöfði,sigurður svínhöfði (þjórsá),not found,yes
+brennu-njals_saga,Skafti Þóroddsson,skafti þóroddsson (lawspeaker),partial,yes
+brennu-njals_saga,Skammkell,hof annað (skammkell),not found,yes
+brennu-njals_saga,Skarphéðinn,njálssynir / bergþórshvoll,done,yes
+brennu-njals_saga,Skjöldur,hlíðarendi (gunnar's kin),not found,yes
+brennu-njals_saga,Snækólfur,moldanssynir (scottish vikings),partial,yes
+brennu-njals_saga,Starkaður,þríhyrningur (starkaður's kin),done,yes
+brennu-njals_saga,Svartur,njálssynir / bergþórshvoll,not found,yes
+brennu-njals_saga,Tjörvi,oddi (geir goði's kin),not found,yes
+brennu-njals_saga,Tjörvi (Þráinn's companion),sigfússynir / grjótá,not found,yes
+brennu-njals_saga,Vandill,snæúlfssynir (gautland vikings),partial,yes
+brennu-njals_saga,Veturliði,veturliði skáld's kin,done,yes
+brennu-njals_saga,Vébrandur Þorfinnsson,þorfinnssynir,partial,yes
+brennu-njals_saga,berserkur,ótryggur berserkur,not found,yes
+brennu-njals_saga,many men,þangbrandur's mission / local converts,not found,yes
+brennu-njals_saga,Ámundi blindi,njálssynir / bergþórshvoll,partial,yes
+brennu-njals_saga,Árni Kolsson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Ásgrímur,tunga (ásgrímur elliða-grímsson's kin),done,yes
+brennu-njals_saga,Áslákur,hákon jarl's household,not found,yes
+brennu-njals_saga,Ásvarður,guðbrandur í dölum's household,not found,yes
+brennu-njals_saga,Ásólfur,atli arnviðarson's vikings,not found,yes
+brennu-njals_saga,Ólafur elda,ólafur elda (merchant ship-master),partial,yes
+brennu-njals_saga,Ögmundur flóki,kirkjubær (otkell's kin),not found,yes
+brennu-njals_saga,Örlygur Ölvisson,vopnfirðingar (örlygur's kin),partial,yes
+brennu-njals_saga,Úlfhéðinn,þríhyrningur (starkaður's kin),not found,yes
+brennu-njals_saga,Þangbrandur,þangbrandur's mission,partial,yes
+brennu-njals_saga,Þjóstólfur,höskuldsstaðir (höskuldur dala-kollsson's kin),partial,yes
+brennu-njals_saga,Þorgeir Otkelsson,kirkjubær (otkell's kin),done,yes
+brennu-njals_saga,Þorgeir Starkaðarson,þríhyrningur (starkaður's kin),done,yes
+brennu-njals_saga,Þorgeir skorargeir,njálssynir / bergþórshvoll,partial,yes
+brennu-njals_saga,Þorgrímur Digur-Ketilsson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Þorgrímur austmaður,gissur hvíti's party,not found,yes
+brennu-njals_saga,Þorkell,þorkell (stafafell),not found,yes
+brennu-njals_saga,Þorkell Sigfússon,sigfússynir / grjótá,partial,yes
+brennu-njals_saga,Þorsteinn Kolbeinsson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Þorvaldur,ósvífur's kin (meðalfellsströnd),partial,yes
+brennu-njals_saga,Þorvaldur veili,þorvaldur veili (grímsnes),partial,yes
+brennu-njals_saga,Þorvaldur Þrum-Ketilsson,svínfellingar (flosi's kin),partial,yes
+brennu-njals_saga,Þráinn,sigfússynir / grjótá,done,yes
+brennu-njals_saga,Þórhallur Ásgrímsson,tunga (ásgrímur elliða-grímsson's kin),partial,yes
+brennu-njals_saga,Þórir austmaður,sandgil (egill kolsson's kin),partial,yes
+brennu-njals_saga,Þórður leysingjason,njálssynir / bergþórshvoll,partial,yes
+droplaugarsona_saga,Björn,oddsstaðir (helgi ásbjarnarson),partial,yes
+droplaugarsona_saga,Gaus,gaus (viking in norway),done,yes
+droplaugarsona_saga,Grímur Droplaugarson,droplaugarsynir / arneiðarstaðir,done,yes
+droplaugarsona_saga,Hallsteinn,víðivellir nyrðri (hallsteinn),done,yes
+droplaugarsona_saga,Helgi Droplaugarson,droplaugarsynir / arneiðarstaðir,done,yes
+droplaugarsona_saga,Helgi hinn magri,straumur (helgi magri),done,yes
+droplaugarsona_saga,Helgi Ásbjarnarson,oddsstaðir (helgi ásbjarnarson),partial,yes
+droplaugarsona_saga,Kári,"höfði (hjarrandi & kári, mágar of helgi ásbjarnarson)",done,yes
+droplaugarsona_saga,Össur,ás (össur undan ási),done,yes
+droplaugarsona_saga,Þorgils,víðivellir nyrðri (hallsteinn),not found,yes
+droplaugarsona_saga,Þorgrímur,oddsstaðir (helgi ásbjarnarson),not found,yes
+droplaugarsona_saga,Þórður skarfur,oddsstaðir (helgi ásbjarnarson),done,yes
+egils_saga,Atli skammi,askur (þorgeir þyrnifótur's kin),partial,yes
+egils_saga,Aðils jarl,hringur & aðils (jarls of bretland),partial,yes
+egils_saga,Berg-Önundur,askur (þorgeir þyrnifótur's kin),partial,yes
+egils_saga,Bárður,eiríkur blóðöx & gunnhildur's kin,not found,yes
+egils_saga,Egill,mýramenn / borg (kveld-úlfur's kin),done,yes
+egils_saga,Eiríkur blóðöx,eiríkur blóðöx & gunnhildur's kin,partial,yes
+egils_saga,Eyvindur,eiríkur blóðöx & gunnhildur's kin,partial,yes
+egils_saga,Fróði,eiríkur blóðöx & gunnhildur's kin,partial,yes
+egils_saga,Grani,ánabrekka (steinar önundarson),not found,yes
+egils_saga,Haddur,askur (þorgeir þyrnifótur's kin),partial,yes
+egils_saga,Haraldur hárfagri,king haraldur hárfagri's kin,partial,yes
+egils_saga,Kóri,ketill gufa,not found,yes
+egils_saga,Lambi,lambastaðir (þórður lambason's kin),partial,yes
+egils_saga,Ljótur bleiki,ljótur bleiki (berserk),partial,yes
+egils_saga,Rögnvaldur,eiríkur blóðöx & gunnhildur's kin,partial,yes
+egils_saga,Sigtryggur,hallvarður & sigtryggur (king haraldur's men),partial,yes
+egils_saga,Sigurður Haraldsson,king haraldur hárfagri's kin,partial,yes
+egils_saga,Skalla-Grímur,mýramenn / borg (kveld-úlfur's kin),done,yes
+egils_saga,Skorri,ketill gufa,not found,yes
+egils_saga,Ólafur Haraldsson,king haraldur hárfagri's kin,partial,yes
+egils_saga,Úlfur,arnviður jarl of vermaland,partial,yes
+egils_saga,Þormóður,ketill gufa,not found,yes
+egils_saga,Þorsteinn Egilsson,mýramenn / borg (kveld-úlfur's kin),done,yes
+egils_saga,Þorvaldur,aurland (björn höldur's kin),partial,yes
+egils_saga,Þrándur,ánabrekka (steinar önundarson),not found,yes
+egils_saga,Þórður Granason,granastaðir (grani's kin),partial,yes
+egils_saga,Þórólfur Kveldúlfsson,mýramenn / borg (kveld-úlfur's kin),partial,yes
+egils_saga,Þórólfur Skalla-Grímsson,mýramenn / borg (kveld-úlfur's kin),partial,yes
+eiriks_saga_rauda,Eiríkur rauði,eiríkur rauði's kin (brattahlíð),done,yes
+eiriks_saga_rauda,Eyjólfur saur,eyjólfur saur's kin (valþjófsstaðir),partial,yes
+eiriks_saga_rauda,Hólmgöngu-Hrafn,hólmgöngu-hrafn (leikskálar),not found,yes
+eyrbyggja_saga,Arnkell,þórólfur bægifótur's kin (bólstaður / mávahlíð),done,yes
+eyrbyggja_saga,Freysteinn bófi,þorbrandssynir / álftafjörður,done,yes
+eyrbyggja_saga,Halli berserkur,hraun (víga-styr's kin),done,yes
+eyrbyggja_saga,Haukur,helgafell (snorri goði's household),not found,yes
+eyrbyggja_saga,Hrafn víkingur,eyri í bitru (óspakur kjallaksson's band),done,yes
+eyrbyggja_saga,Leiknir berserkur,hraun (víga-styr's kin),done,yes
+eyrbyggja_saga,Snorri goði,helgafell (þorsteinn þorskabítur's kin / snorri goði),partial,yes
+eyrbyggja_saga,Steinþór,eyrbyggjar (steinþór á eyri),partial,yes
+eyrbyggja_saga,Sturla Þjóðreksson,staðarhóll (sturla þjóðreksson),done,yes
+eyrbyggja_saga,Vigfús í Drápuhlíð,drápuhlíð (vigfús bjarnarson),done,yes
+eyrbyggja_saga,Vésteinn Vésteinsson,vésteinn's kin (önundarfjörður),done,yes
+eyrbyggja_saga,Víga-Styr,hraun (víga-styr's kin),done,yes
+eyrbyggja_saga,Óspakur Kjallaksson,eyri í bitru (óspakur kjallaksson's band),partial,yes
+eyrbyggja_saga,Úlfar kappi,úlfar kappi (álftafjörður),done,yes
+eyrbyggja_saga,Þorbjörn digri,fróðá (þorbjörn digri's household),done,yes
+eyrbyggja_saga,Þorbjörn kjálki,kjálkafjörður (þorbjörn kjálki),done,yes
+eyrbyggja_saga,Þorgestur Þórhallsson (Gestur),gestur þórhallsson's kin,partial,yes
+eyrbyggja_saga,Þorgrímur,helgafell (þorsteinn þorskabítur's kin / snorri goði),done,yes
+eyrbyggja_saga,Þorleifur austfirski,outlaw (þorleifur austfirski),done,yes
+eyrbyggja_saga,Þorleifur kimbi,þorbrandssynir / álftafjörður,done,yes
+eyrbyggja_saga,Þrándur stígandi,helgafell (snorri goði's household),done,yes
+eyrbyggja_saga,Þórarinn,þórólfur bægifótur's kin (bólstaður / mávahlíð),done,yes
+eyrbyggja_saga,Þórólfur bægifótur,þórólfur bægifótur's kin (bólstaður / mávahlíð),done,yes
+faereyinga_saga,Bjarngrímur,arnljótur's sons (merchants),done,yes
+faereyinga_saga,Björn (nábúi Sigurðar),björn (straumsey neighbour),not found,yes
+faereyinga_saga,Björn (sýslumaður),swedish king eiríkur's men,not found,yes
+faereyinga_saga,Brandur Sigmundarson,skúfeyingar (brestir & beinir's kin),done,yes
+faereyinga_saga,Brestir,skúfeyingar (brestir & beinir's kin),done,yes
+faereyinga_saga,Gautur rauði,götuskeggjar (þrándur í götu's kin),partial,yes
+faereyinga_saga,Hafgrímur,suðurey / hof (hafgrímur's kin),partial,yes
+faereyinga_saga,Hafgrímur (bróðir Bjarngríms),arnljótur's sons (merchants),done,yes
+faereyinga_saga,Heri Sigmundarson,skúfeyingar (brestir & beinir's kin),done,yes
+faereyinga_saga,Karl mærski,karl mærski (king ólafur's envoy),not found,yes
+faereyinga_saga,Leifur Össurarson,suðurey / hof (hafgrímur's kin),done,yes
+faereyinga_saga,Leifur Þórisson,skúfeyingar (brestir & beinir's kin),done,yes
+faereyinga_saga,Randvér,randvér (viking from hólmgarður),not found,yes
+faereyinga_saga,Sigmundur,skúfeyingar (brestir & beinir's kin),done,yes
+faereyinga_saga,Sigurður Þorláksson,götuskeggjar (þrándur í götu's kin),done,yes
+faereyinga_saga,Vandill,vandill & aðill (swedish king's coast-guards),partial,yes
+faereyinga_saga,Össur,suðurey / hof (hafgrímur's kin),done,yes
+faereyinga_saga,Þorgrímur illi,götuskeggjar (þrándur í götu's kin),done,yes
+faereyinga_saga,Þorkell þurrafrost,steingrímur's kin (þorkell þurrafrost),partial,yes
+faereyinga_saga,Þrándur,götuskeggjar (þrándur í götu's kin),done,yes
+faereyinga_saga,Þórálfur,þórálfur's kin,partial,yes
+faereyinga_saga,Þórður lági,götuskeggjar (þrándur í götu's kin),done,yes
+finnboga_saga_ramma,Bergur,eyri í flateyjardal (ásbjörn dettiás's kin),partial,yes
+finnboga_saga_ramma,Bersi,hof í vatnsdal (ingimundarsynir's kin),partial,yes
+finnboga_saga_ramma,Finnbogi,eyri í flateyjardal (ásbjörn dettiás's kin),done,yes
+finnboga_saga_ramma,Grímur Brettingsson,brettingur's kin / brettingsstaðir (by marriage),partial,yes
+finnboga_saga_ramma,Gunnbjörn Finnbogason,eyri í flateyjardal (ásbjörn dettiás's kin),partial,yes
+finnboga_saga_ramma,Kolur,hof í vatnsdal (ingimundarsynir's kin),partial,yes
+finnboga_saga_ramma,Rauður víkingur,rauður víkingur,partial,yes
+finnboga_saga_ramma,Uxi,brettingur's kin / brettingsstaðir (by marriage),partial,yes
+finnboga_saga_ramma,Álfur afturkemba,sandey (álfur afturkemba's kin),partial,yes
+finnboga_saga_ramma,Þorbjörn sleggja,þorbjörn sleggja (jökull's hired assassin),partial,yes
+finnboga_saga_ramma,Þorkell Sigurðarson,gnúpur (sigurður's kin),partial,yes
+finnboga_saga_ramma,Þorsteinn Brettingsson,brettingur's kin / brettingsstaðir (by marriage),partial,yes
+finnboga_saga_ramma,Þorvaldur moðskegg,garðshorn (þorvaldur moðskegg),partial,yes
+finnboga_saga_ramma,Þórarinn,hof í vatnsdal (ingimundarsynir's kin),partial,yes
+fljotsdaela_saga,Ketill þrymur,krossavík (geitir's kin),partial,yes
+fljotsdaela_saga,Þiðrandi Geitisson,krossavík (geitir's kin),partial,yes
+floamanna_saga,Bjálfi,bjálfi (troublemaker),not found,yes
+floamanna_saga,Gípar,anakol's household (ireland),partial,yes
+floamanna_saga,Hallur,brattahlíð (eiríkur rauði's household),partial,yes
+floamanna_saga,Helgi,helgi austmaður (norwegian merchant),partial,yes
+floamanna_saga,Helgi trausti,ólafsvellir (ólafur tvennumbrúni's kin),done,yes
+floamanna_saga,Hersteinn Atlason,atli jarl's sons (sogn),done,yes
+floamanna_saga,Hrafn Þorviðarson,hrafn þorviðarson's kin,partial,yes
+floamanna_saga,Hæringur Þorgrímsson,traðarholt (þorgils örrabeinsstjúpur's kin),done,yes
+floamanna_saga,Hólmsteinn Atlason,atli jarl's sons (sogn),done,yes
+floamanna_saga,Ingólfur,firðafylki (ingólfur & leifur's kin),done,yes
+floamanna_saga,Kolur,kálfaholt (kolur & starkaður),partial,yes
+floamanna_saga,Kolur (thrall),traðarholt (þorgils örrabeinsstjúpur's kin),not found,yes
+floamanna_saga,Leifur,firðafylki (ingólfur & leifur's kin),done,yes
+floamanna_saga,Snæbjörn,snækollur & snæbjörn (vikings),not found,yes
+floamanna_saga,Snækollur,snækollur & snæbjörn (vikings),not found,yes
+floamanna_saga,Surtur járnhaus,surtur járnhaus (viking),done,yes
+floamanna_saga,Svartur,traðarholt (þorgils örrabeinsstjúpur's kin),partial,yes
+floamanna_saga,Sörli,sörli (thingman of ásgrímur elliða-grímsson),not found,yes
+floamanna_saga,Teitur Ketilbjarnarson,höfði (teitur ketilbjarnarson's kin),partial,yes
+floamanna_saga,Ölmóður hinn gamli,firðafylki (ingólfur & leifur's kin),partial,yes
+floamanna_saga,Þorgils,traðarholt (þorgils örrabeinsstjúpur's kin),done,yes
+floamanna_saga,Þorgrímur örrabeinn,traðarholt (þorgils örrabeinsstjúpur's kin),partial,yes
+floamanna_saga,Þórður Atlason,traðarholt (þorgils örrabeinsstjúpur's kin),done,yes
+fostbraedra_saga,Bjarni Skúfsson,hundadalur (skúfur's household),done,yes
+fostbraedra_saga,Butraldi,butraldi (vermundur's kinsman),done,yes
+fostbraedra_saga,Gautur Sleituson,þórarinn ofsi's kin,partial,yes
+fostbraedra_saga,Gestur (Helgu-Steinar),helgu-steinar (avenger of þorgeir),done,yes
+fostbraedra_saga,Hávar,hávar kleppsson's kin (jökulskelda),done,yes
+fostbraedra_saga,Hækil-Snorri,hvítstaðir (hækil-snorri),done,yes
+fostbraedra_saga,Ingólfur,ingólfur sviðinn's kin (jökulsfirðir),partial,yes
+fostbraedra_saga,Jöður,jöður's household (skeljabrekka),not found,yes
+fostbraedra_saga,Ljótur Þórunnarson,þorgrímur trölli's kin (einarsfjörður),done,yes
+fostbraedra_saga,Loðinn,brattahlíð (þorkell's household),not found,yes
+fostbraedra_saga,Már,þorgrímur trölli / þórarinn ofsi's ship company,done,yes
+fostbraedra_saga,Skúfur sauðamaður,hundadalur (skúfur's household),done,yes
+fostbraedra_saga,Torfi,máskelda (hlenni's household),not found,yes
+fostbraedra_saga,Þorbrandur,ingólfur sviðinn's kin (jökulsfirðir),partial,yes
+fostbraedra_saga,Þorgeir Hávarsson,hávar kleppsson's kin (jökulskelda),done,yes
+fostbraedra_saga,Þorgils Mársson,þorgils mársson's kin (lækjamót),partial,yes
+fostbraedra_saga,Þorgrímur,þorgrímur trölli's kin (einarsfjörður),partial,yes
+fostbraedra_saga,Þorkell Hámundarson,þorgrímur trölli's kin (einarsfjörður),done,yes
+fostbraedra_saga,Þormóður Bersason,bersi's kin (dyrðilmýri / laugaból),done,yes
+fostbraedra_saga,Þórarinn ofsi,þórarinn ofsi's kin,done,yes
+fostbraedra_saga,Þórir austmaður,þorgrímur trölli / þórarinn ofsi's ship company,not found,yes
+fostbraedra_saga,Þórir á Hrófá,hrófá (þórir),done,yes
+fostbraedra_saga,Þórður Hámundarson,þorgrímur trölli's kin (einarsfjörður),done,yes
+gisla_saga_surssonar,Ari,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Ari Súrsson,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Bergur,vésteinn's kin (önundarfjörður),done,yes
+gisla_saga_surssonar,Björn,björn blakki (berserk),not found,yes
+gisla_saga_surssonar,Bárður,súrnadalur (bárður & hólmgöngu-skeggi's kin),done,yes
+gisla_saga_surssonar,Eyjólfur grái,eyjólfur grái's kin (otradalur),partial,yes
+gisla_saga_surssonar,Gísli,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Gísli Þorkelsson,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Hólmgöngu-Skeggi,súrnadalur (bárður & hólmgöngu-skeggi's kin),done,yes
+gisla_saga_surssonar,Kolbjörn,hella í súrnadal (kolbjörn),done,yes
+gisla_saga_surssonar,Kolur,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Njósnar-Helgi,eyjólfur grái's kin (otradalur),done,yes
+gisla_saga_surssonar,Saka-Steinn,þorsteinssynir / sæból (þórsnes kin),done,yes
+gisla_saga_surssonar,Þorgrímur,þorsteinssynir / sæból (þórsnes kin),done,yes
+gisla_saga_surssonar,Þorgrímur Austmaður,þorsteinssynir / sæból (þórsnes kin),done,yes
+gisla_saga_surssonar,Þorgrímur nef,nefsstaðir (þorgrímur nef & auðbjörg),done,yes
+gisla_saga_surssonar,Þorkell,sýrdælir (þorbjörn súr's kin),done,yes
+gisla_saga_surssonar,Þórarinn,"austmenn (þórir & þórarinn, víkverskir)",done,yes
+gisla_saga_surssonar,Þórður (frændi Eyjólfs),eyjólfur grái's kin (otradalur),done,yes
+gisla_saga_surssonar,Þórður huglausi,sýrdælir (þorbjörn súr's kin),done,yes
+graenlendinga_saga,Finnbogi,austfirðingar brothers (helgi & finnbogi),partial,yes
+graenlendinga_saga,Freydís Eiríksdóttir,brattahlíð (eiríkur rauði's kin),partial,yes
+graenlendinga_saga,Helgi,austfirðingar brothers (helgi & finnbogi),partial,yes
+grettis_saga,Arnór,þóroddsstaðir (arnór hýnefur's kin),partial,yes
+grettis_saga,Atli Ásmundarson,bjarg (ásmundarsynir),done,yes
+grettis_saga,Björn,"björn, hjarrandi & gunnar (kin of þorkell of sálfti)",partial,yes
+grettis_saga,Grettir,bjarg (ásmundarsynir),done,yes
+grettis_saga,Grímur,outlaw (hired by norðlendingar),not found,yes
+grettis_saga,Grímur hersir,grímur hersir (king haraldur's man),partial,yes
+grettis_saga,Grímur Þórhallsson,melar (gamli þórhallsson's kin),done,yes
+grettis_saga,Gunnar Þórisson,skarð (þórissynir),done,yes
+grettis_saga,Gunnar í Túnsbergi,"björn, hjarrandi & gunnar (kin of þorkell of sálfti)",done,yes
+grettis_saga,Hjarrandi,"björn, hjarrandi & gunnar (kin of þorkell of sálfti)",done,yes
+grettis_saga,Illugi Ásmundarson,bjarg (ásmundarsynir),done,yes
+grettis_saga,Skeggi,ás í vatnsdal,not found,yes
+grettis_saga,Steinólfur Þorleifsson,mýramenn (steinólfur úr hraundal),done,yes
+grettis_saga,Vígbjóður,suðureyskir víkingar (vígbjóður & vestmar),done,yes
+grettis_saga,Víkar,hof í hjaltadal (þórður hjaltason's sons),done,yes
+grettis_saga,Ófeigur grettir Einarsson,ófeigur grettir's kin,done,yes
+grettis_saga,Ófeigur grettir Önundarson,kaldbakur (önundur tréfótur's kin),done,yes
+grettis_saga,Ólafur Eyvindarson,árnes / drangar (flosi eiríksson's kin),done,yes
+grettis_saga,Öndóttur kráka,öndóttur kráka's kin (agðir),done,yes
+grettis_saga,Önundur tréfótur,kaldbakur (önundur tréfótur's kin),done,yes
+grettis_saga,Þorbjörn ferðalangur,þóroddsstaðir (arnór hýnefur's kin),partial,yes
+grettis_saga,Þorbjörn laxakappi,þorbjörn laxakarl's kin,done,yes
+grettis_saga,Þorbjörn öngull,hof í hjaltadal (þórður hjaltason's sons),partial,yes
+grettis_saga,Þorbjörn öxnamegin,þóroddsstaðir (arnór hýnefur's kin),partial,yes
+grettis_saga,Þorfinnur húskarl Flosa,árnes / drangar (flosi eiríksson's kin),done,yes
+grettis_saga,Þorgeir Önundarson,kaldbakur (önundur tréfótur's kin),done,yes
+grettis_saga,Þorgeir Þórisson,skarð (þórissynir),done,yes
+grettis_saga,Þorgils Ingjaldsson,hítarnes (þórður kolbeinsson's kin),done,yes
+grettis_saga,Þorsteinn drómundur,bjarg (ásmundarsynir),done,yes
+grettis_saga,Þórir rauðskeggur,outlaw (hired by þórir í garði),done,yes
+gull-thoris_saga,Askmaður,hofstaðir (hof-hallur's kin),partial,yes
+gull-thoris_saga,Bljúgur,hjallar (helgi's kin),done,yes
+gull-thoris_saga,Blígur,steinólfur & kjallakur's party,not found,yes
+gull-thoris_saga,Frakki,hjallar (helgi's kin),done,yes
+gull-thoris_saga,Grímur Eyjólfsson,þórisstaðir (gull-þórir's kin),done,yes
+gull-thoris_saga,Gunnar,þórisstaðir (gull-þórir's kin),not found,yes
+gull-thoris_saga,Guðmundur,þórisstaðir (gull-þórir's kin),done,yes
+gull-thoris_saga,Helgi,hjallar (helgi's kin),done,yes
+gull-thoris_saga,Hergils,vellir (grímur's kin),partial,yes
+gull-thoris_saga,Hof-Hallur,hofstaðir (hof-hallur's kin),partial,yes
+gull-thoris_saga,Hrómundur í Gröf,gröf (hrómundur's kin),done,yes
+gull-thoris_saga,Hólmgöngu-Kýlan,hofstaðir (hof-hallur's kin),partial,yes
+gull-thoris_saga,Jósteinn Ólafsson,ólafsdalur (ólafur belgur's kin),done,yes
+gull-thoris_saga,Ketilbjörn Gillason,gull-þórir's sworn foster-brothers,done,yes
+gull-thoris_saga,Kjallakur,steinólfur & kjallakur's party,partial,yes
+gull-thoris_saga,Knútur,steinólfur & kjallakur's party,partial,yes
+gull-thoris_saga,Már Hallvarðsson,gull-þórir's sworn foster-brothers,done,yes
+gull-thoris_saga,Rauður Hallsson,hofstaðir (hof-hallur's kin),done,yes
+gull-thoris_saga,Steinólfur,steinólfur & kjallakur's party,done,yes
+gull-thoris_saga,Styr,hjallar (helgi's kin),not found,yes
+gull-thoris_saga,Ásmundur Naðursson,gull-þórir's sworn foster-brothers,done,yes
+gull-thoris_saga,Örn Þorbjarnarson,uppsalir (þorbjörn stokkur's kin),done,yes
+gull-thoris_saga,Þorbjörn stokkur,uppsalir (þorbjörn stokkur's kin),done,yes
+gull-thoris_saga,Þorgils Þorbjarnarson,djúpfirðingar (þorbjörn loki's kin),done,yes
+gull-thoris_saga,Þormóður,hjallar (helgi's kin),partial,yes
+gull-thoris_saga,Þórarinn krókur,króksfjörður (þórarinn krókur's household),partial,yes
+gull-thoris_saga,Þórarinn ákafi,hjallar (helgi's kin),done,yes
+gull-thoris_saga,Þórir,þórisstaðir (gull-þórir's kin),done,yes
+gunnars_saga_keldugnupsfifls,Grímur Þorgrímsson,hörgsland (þorgrímur goði's kin),partial,yes
+gunnars_saga_keldugnupsfifls,Gunnar,keldugnúpur (þorbjörn's kin),done,yes
+gunnars_saga_keldugnupsfifls,Helgi Þorbjarnarson,keldugnúpur (þorbjörn's kin),partial,yes
+gunnars_saga_keldugnupsfifls,Jökull víkingur,vikings svartur & jökull,partial,yes
+gunnars_saga_keldugnupsfifls,Jökull Þorgrímsson,hörgsland (þorgrímur goði's kin),partial,yes
+gunnars_saga_keldugnupsfifls,Svartur víkingur,vikings svartur & jökull,partial,yes
+gunnars_saga_keldugnupsfifls,Örn,vatnsendi (örn & þórdís),partial,yes
+gunnlaugs_saga_ormstungu,Björn,mosfell (önundur's kin),partial,yes
+gunnlaugs_saga_ormstungu,Grímur,mosfell (önundur's kin),partial,yes
+gunnlaugs_saga_ormstungu,Gunnlaugur,gilsbakki (illugi svarti's kin),done,yes
+gunnlaugs_saga_ormstungu,Hrafn Önundarson,mosfell (önundur's kin),partial,yes
+gunnlaugs_saga_ormstungu,Illugi svarti,gilsbakki (illugi svarti's kin),partial,yes
+gunnlaugs_saga_ormstungu,Ólafur,mosfell (önundur's kin),partial,yes
+gunnlaugs_saga_ormstungu,Þorkell svarti,gilsbakki (illugi svarti's kin),partial,yes
+gunnlaugs_saga_ormstungu,Þórormur,þórormur (berserk in england),partial,yes
+haensna-thoris_saga,Arngrímur goði,norðurtunga (arngrímur goði's kin),partial,yes
+haensna-thoris_saga,Blund-Ketill,örnólfsdalur (blund-ketill's kin),partial,yes
+haensna-thoris_saga,Hersteinn Blund-Ketilsson,örnólfsdalur (blund-ketill's kin),partial,yes
+haensna-thoris_saga,Hænsna-Þórir,helgavatn (hænsna-þórir),partial,yes
+haensna-thoris_saga,Þorvaldur Oddsson,breiðabólstaður (tungu-oddur's kin),partial,yes
+hallfredar_saga_vandraedaskalds,Auðgísl,auðgísl (gautland),partial,yes
+hallfredar_saga_vandraedaskalds,Björn,björn (gautland farmer),not found,yes
+hallfredar_saga_vandraedaskalds,Brandur Ávaldsson,hnjúkur (ávaldi's kin),done,yes
+hallfredar_saga_vandraedaskalds,Einar,geitaskarð (grís sæmingsson's party),partial,yes
+hallfredar_saga_vandraedaskalds,Galti,haukagil / grímstungur (óttar's kin),done,yes
+hallfredar_saga_vandraedaskalds,Hallfreður,haukagil / grímstungur (óttar's kin),done,yes
+hallfredar_saga_vandraedaskalds,Sokki,sokki & sóti (vikings),done,yes
+hallfredar_saga_vandraedaskalds,Sóti,sokki & sóti (vikings),done,yes
+hallfredar_saga_vandraedaskalds,Ávaldi,hnjúkur (ávaldi's kin),done,yes
+hallfredar_saga_vandraedaskalds,Óttar upplenski,óttar & kálfur (king ólafur's retainers),done,yes
+hallfredar_saga_vandraedaskalds,Óttar Þorvaldsson,haukagil / grímstungur (óttar's kin),done,yes
+hallfredar_saga_vandraedaskalds,Önundur,önundur (robber in gautland),not found,yes
+hardar_saga_og_holmverja,Arnþór,gunnhildr konungamóðir's household,not found,yes
+hardar_saga_og_holmverja,Auður,auðsstaðir (auður),partial,yes
+hardar_saga_og_holmverja,Geir,grímkell goði's kin (ölfusvatn) / hólmverjar,partial,yes
+hardar_saga_og_holmverja,Helgi Sigmundarson,grímkell goði's kin (ölfusvatn) / hólmverjar,partial,yes
+hardar_saga_og_holmverja,Hörður,grímkell goði's kin (ölfusvatn) / hólmverjar,done,yes
+hardar_saga_og_holmverja,Indriði Þorvaldsson,indriðastaðir (indriði's household),partial,yes
+hardar_saga_og_holmverja,Kjartan Kötluson,brynjudalur (refur & kjartan kötluson),partial,yes
+hardar_saga_og_holmverja,Ormur austmaður,indriði's household,partial,yes
+hardar_saga_og_holmverja,Sigurður Torfafóstri,grímkell goði's kin (ölfusvatn) / hólmverjar,partial,yes
+hardar_saga_og_holmverja,Þorsteinn gullknappur,þyrill (þorsteinn gullknappur's household),not found,yes
+hardar_saga_og_holmverja,Þorvaldur bláskeggur,sandur (þorvaldur bláskeggur),partial,yes
+havardar_saga_isfirdings,Brandur hinn sterki,þorbjörn þjóðreksson's kin (laugaból),done,yes
+havardar_saga_isfirdings,Eyjólfur Valbrandsson,hávarður's kin (blámýri),done,yes
+havardar_saga_isfirdings,Grímur Þorbjarnarson,eyri (þorbjörn's sons),done,yes
+havardar_saga_isfirdings,Hallgrímur Ásbrandsson,hávarður's kin (blámýri),done,yes
+havardar_saga_isfirdings,Hávarður,hávarður's kin (blámýri),done,yes
+havardar_saga_isfirdings,Hólmgöngu-Ljótur,þorbjörn þjóðreksson's kin (laugaból),partial,yes
+havardar_saga_isfirdings,Ljótur á Mánabergi,þorbjörn þjóðreksson's kin (laugaból),partial,yes
+havardar_saga_isfirdings,Skarfur,þorbjörn þjóðreksson's kin (laugaból),done,yes
+havardar_saga_isfirdings,Sturla Þjóðreksson,þorbjörn þjóðreksson's kin (laugaból),done,yes
+havardar_saga_isfirdings,Torfi Valbrandsson,hávarður's kin (blámýri),done,yes
+havardar_saga_isfirdings,Ánn,hávarður's kin (blámýri),partial,yes
+havardar_saga_isfirdings,Ólafur Hávarðsson,hávarður's kin (blámýri),done,yes
+havardar_saga_isfirdings,Þorbjörn Þjóðreksson,þorbjörn þjóðreksson's kin (laugaból),done,yes
+havardar_saga_isfirdings,Þorsteinn Þorbjarnarson,eyri (þorbjörn's sons),done,yes
+heidarviga_saga,Barði Guðmundsson,norðlendingar (barði guðmundarson's kin),partial,yes
+heidarviga_saga,Einar,akureyjar (einar),partial,yes
+heidarviga_saga,Gestur,jörvi (þórhalli's kin),done,yes
+heidarviga_saga,Halli,hraun (víga-styr's kin),partial,yes
+heidarviga_saga,Ketill brúsi,gullteigur / borgarfjörður (þorgautur's kin),partial,yes
+heidarviga_saga,Snorri goði,helgafell / sælingsdalstunga (snorri goði's kin),partial,yes
+heidarviga_saga,Styr,hraun (víga-styr's kin),partial,yes
+heidarviga_saga,Tanni hinn handrammi,borgfirðingar (tanni hinn handrammi),partial,yes
+heidarviga_saga,Tindur,borgfirðingar (hallkelsstaðir / illugi svarti's kin),partial,yes
+heidarviga_saga,Þorbjörn Brúnason,gullteigur / borgarfjörður (þorgautur's kin),partial,yes
+heidarviga_saga,Þorbjörn kjálki,kjálkafjörður (þorbjörn kjálki),partial,yes
+heidarviga_saga,Þorgautur,gullteigur / borgarfjörður (þorgautur's kin),partial,yes
+heidarviga_saga,Þorsteinn Gíslason,bær (þorsteinn gíslason's kin),partial,yes
+heidarviga_saga,Þórhalli,jörvi (þórhalli's kin),partial,yes
+heidarviga_saga,Þóroddur,norðlendingar (barði guðmundarson's kin),done,yes
+hrafnkels_saga_freysgoda,Einar,"hóll / laugarhús (þorbjörn, bjarni & sámur's kin)",done,yes
+hrafnkels_saga_freysgoda,Eyvindur Bjarnason,"hóll / laugarhús (þorbjörn, bjarni & sámur's kin)",done,yes
+hrafnkels_saga_freysgoda,Hrafnkell,aðalból (hrafnkell freysgoði's kin),done,yes
+hrana_saga_hrings,Arnhöfði,arnhöfði & hildir (berserk vikings),done,yes
+hrana_saga_hrings,Einarr Sölvason,stóruvellir (sölvi's kin),partial,yes
+hrana_saga_hrings,Eysteinn harðverkr,eysteinn harðverkr (vikings),not found,yes
+hrana_saga_hrings,Gauti,gautland (gauti's household),partial,yes
+hrana_saga_hrings,Grímr járnkarl,grímr járnkarl (vikings),not found,yes
+hrana_saga_hrings,Hildir,arnhöfði & hildir (berserk vikings),done,yes
+hrana_saga_hrings,Hrani,"lundarbrekka (bárðardalur, egill bárðarson's kin)",done,yes
+hrana_saga_hrings,Hróaldur,torfastaðir (hróaldur galti & sigfús),partial,yes
+hrana_saga_hrings,Kári (Hróaldur's follower),torfastaðir (hróaldur galti & sigfús),not found,yes
+hrana_saga_hrings,Sigfús,gautland (gauti's household),partial,yes
+hrana_saga_hrings,Vakr,helgastaðir (helgi krókur's household),not found,yes
+kjalnesinga_saga,Andríður,brautarholt (andríður's kin),partial,yes
+kjalnesinga_saga,Búi Andríðsson,esjuberg / brautarholt (andríður's kin),done,yes
+kjalnesinga_saga,Kolfinnur,,not in family sheets,yes
+kjalnesinga_saga,Örn austmaður,kollafjörður (kolli's household) (guest),not found,yes
+kjalnesinga_saga,Þorgrímur goði,hof á kjalarnesi (þorgrímur goði's kin),partial,yes
+kormaks_saga,Bersi,saurbær (hólmgöngu-bersi's household),partial,yes
+kormaks_saga,Guðmundur Þórveigarson,steinsstaðir (þórveigarsynir),done,yes
+kormaks_saga,Halldór,saurbær (hólmgöngu-bersi's household),partial,yes
+kormaks_saga,Kormákur,mel (kormákur ögmundarson's kin),partial,yes
+kormaks_saga,Loftur Þórarinsson,þambárdalur (þórarinn rammi's kin),partial,yes
+kormaks_saga,Narfi,tunga (þorkell í tungu's kin),done,yes
+kormaks_saga,Oddur Þórveigarson,steinsstaðir (þórveigarsynir),done,yes
+kormaks_saga,Skofti Þórarinsson,þambárdalur (þórarinn rammi's kin),partial,yes
+kormaks_saga,Vali,brekkuland (vali),partial,yes
+kormaks_saga,Þorkell tanngnjóstur,tunga (þorkell í tungu's kin),partial,yes
+kormaks_saga,Þórarinn rammi,þambárdalur (þórarinn rammi's kin),partial,yes
+kroka-refs_saga,Barði,kvennabrekka / hlíð (refur steinsson's kin),not found,yes
+kroka-refs_saga,Bárður,king haraldur's hirð (bárður),not found,yes
+kroka-refs_saga,Gellir,"hlíð, norway (sigríður's kin)",partial,yes
+kroka-refs_saga,Grani,king haraldur's hirð (grani & eiríkur),partial,yes
+kroka-refs_saga,Refur,kvennabrekka / hlíð (refur steinsson's kin),done,yes
+kroka-refs_saga,Þengill,vík (þorgils víkarskalli's kin),done,yes
+kroka-refs_saga,Þorbjörn,sauðafell (þorbjörn's household),partial,yes
+kroka-refs_saga,Þorgils,vík (þorgils víkarskalli's kin),done,yes
+kroka-refs_saga,Þorsteinn,vík (þorgils víkarskalli's kin),done,yes
+laxdaela_saga,Auðgísl,þórarinn's kin (langadalur),partial,yes
+laxdaela_saga,Bolli,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),done,yes
+laxdaela_saga,Bolli Þorleiksson,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),done,yes
+laxdaela_saga,Eldgrímur,eldgrímsstaðir (eldgrímur's household),not found,yes
+laxdaela_saga,Eyjólfur,helgi harðbeinsson's household (skorradalur),not found,yes
+laxdaela_saga,Gunnar,gunnar þiðrandabani,not found,yes
+laxdaela_saga,Guðlaugur,ósvífurssynir (laugar),partial,yes
+laxdaela_saga,Halldór (fóstbróðir Þorgils),þorgils hölluson's kin (tunga í hörðadal),partial,yes
+laxdaela_saga,Hallur,sauðeyjar (ingjaldur sauðeyjargoði's kin),partial,yes
+laxdaela_saga,Helgi Harðbeinsson,helgi harðbeinsson's household (skorradalur),partial,yes
+laxdaela_saga,Helgi af Skeiði,skeið (helgi's household),partial,yes
+laxdaela_saga,Hrappur,þorgils hölluson's kin (tunga í hörðadal),partial,yes
+laxdaela_saga,Hrútur,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),done,yes
+laxdaela_saga,Kjartan Ólafsson,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),done,yes
+laxdaela_saga,Steinþór Ólafsson,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),partial,yes
+laxdaela_saga,Stígandi,kotkell's family (sorcerers),done,yes
+laxdaela_saga,Án hrísmagi,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),partial,yes
+laxdaela_saga,Ólafur,marbæli (þórður's kin),done,yes
+laxdaela_saga,Ólafur pái,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),partial,yes
+laxdaela_saga,Þiðrandi Geitisson,krossavík (geitir's kin),partial,yes
+laxdaela_saga,Þorgils Hölluson,þorgils hölluson's kin (tunga í hörðadal),done,yes
+laxdaela_saga,Þorleikur Bollason,laxdælir (höskuldur dala-kollsson's kin / hjarðarholt),partial,yes
+laxdaela_saga,Þórólfur,"homonym: (1) þórólfur (breiðafjörður, kin of vigdís at goddastaðir); (2) þórólfur stertimaður (þúfur, skagafjörður)",partial,yes
+ljosvetninga_saga,Brandur,mýri (þorkell's kin),partial,yes
+ljosvetninga_saga,Eyjólfur Guðmundarson,möðruvellir (guðmundur ríki's kin),done,yes
+ljosvetninga_saga,Guðmundur ríki,möðruvellir (guðmundur ríki's kin),done,yes
+ljosvetninga_saga,Hallur Ótryggsson,óðsla (ótryggur's household),partial,yes
+ljosvetninga_saga,Hárekur,hárekur (norway),partial,yes
+ljosvetninga_saga,Höskuldur Þorgeirsson,ljósvetningar (þorgeir goði's descendants),done,yes
+ljosvetninga_saga,Koðrán Guðmundarson,möðruvellir (guðmundur ríki's kin),done,yes
+ljosvetninga_saga,Sigurður austmaður,sigurður austmaður (norwegian merchant),partial,yes
+ljosvetninga_saga,Sölmundur Víðarsson,gnúpar (víðarssynir),done,yes
+ljosvetninga_saga,Söxólfur Víðarsson,gnúpar (víðarssynir),done,yes
+ljosvetninga_saga,Ótryggur,óðsla (ótryggur's household),partial,yes
+ljosvetninga_saga,Þorkell hákur,ljósvetningar (þorgeir goði's descendants),done,yes
+ljosvetninga_saga,Þormóður Ásgeirsson,möðruvellir (guðmundur ríki's kin),partial,yes
+ljosvetninga_saga,Þórarinn,ljósvetningar (þorgeir goði's descendants),partial,yes
+reykdaela_saga_og_viga-skutu,Arnór smiður,outlaws sent by þorgeir goði,partial,yes
+reykdaela_saga_og_viga-skutu,Auðgísl,arnarvatn (þorbergur höggvinkinni's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Bjarni Þorsteinsson,mýri (þorsteinn's kin / víga-glúmur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Björn Þórisson,ketill flatnefur's kin,partial,yes
+reykdaela_saga_og_viga-skutu,Eyjólfur Þormóðsson,"mánahjalli, laxárdalur (þormóður's kin)",partial,yes
+reykdaela_saga_og_viga-skutu,Galti úr Arnarnesi,arnarnes (galti's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Glúmur Geirason,geirastaðir (geiri austmaður's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Helgi,hrói's kin (klifshagi),partial,yes
+reykdaela_saga_og_viga-skutu,Helgi Þorbjarnarson,þorbjörn's kin (árskógur),done,yes
+reykdaela_saga_og_viga-skutu,Hrafn verkstjóri,kroppur (steingrímur örnólfsson's household),partial,yes
+reykdaela_saga_og_viga-skutu,Háls,eyvindur's kin / hvammur (áskell goði & vémundur kögur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Hávarður úr Ísólfstungu,ísólfstunga (hávarður's household),not found,yes
+reykdaela_saga_og_viga-skutu,Már,þverá (víga-glúmur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Skúta Áskelsson,eyvindur's kin / hvammur (áskell goði & vémundur kögur's kin),done,yes
+reykdaela_saga_og_viga-skutu,Steinn Þorbjarnarson,,not in family sheets,yes
+reykdaela_saga_og_viga-skutu,Svartur,eyvindur's kin / hvammur (áskell goði & vémundur kögur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Vestmaður,ljósavatn (þorgeir goði's household),partial,yes
+reykdaela_saga_og_viga-skutu,Vémundur kögur,eyvindur's kin / hvammur (áskell goði & vémundur kögur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Áskell goði,eyvindur's kin / hvammur (áskell goði & vémundur kögur's kin),done,yes
+reykdaela_saga_og_viga-skutu,Ófeigur í Skörðum,skörð (ófeigur),partial,yes
+reykdaela_saga_og_viga-skutu,Ólafur,outlaws sent by þorgeir goði,partial,yes
+reykdaela_saga_og_viga-skutu,Þorbjörn úr Árskógi,árskógur (þorbjörn's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Þorgautur,outlaws sent by þorgeir goði,partial,yes
+reykdaela_saga_og_viga-skutu,Þorgeir Þórisson,ketill flatnefur's kin,partial,yes
+reykdaela_saga_og_viga-skutu,Þorkell Geirason,geirastaðir (geiri austmaður's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Þormóður,"mánahjalli, laxárdalur (þormóður's kin)",partial,yes
+reykdaela_saga_og_viga-skutu,Þorsteinn kvígur,laxárdalur (þorsteinn varastafur),partial,yes
+reykdaela_saga_og_viga-skutu,Þorsteinn varastafur,laxárdalur (þorsteinn varastafur),partial,yes
+reykdaela_saga_og_viga-skutu,Þorsteinn Þorbergsson,arnarvatn (þorbergur höggvinkinni's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Þorvaldur Galtason,galti's kin (arnarnes),partial,yes
+reykdaela_saga_og_viga-skutu,Þrándur,þverá (víga-glúmur's kin),partial,yes
+reykdaela_saga_og_viga-skutu,Þórir Ketilsson,ketill flatnefur's kin,partial,yes
+reykdaela_saga_og_viga-skutu,Þóroddur harðjaxl,vémundur kögur's band,not found,yes
+reykdaela_saga_og_viga-skutu,Þórður illugi,þóroddur goði's party,not found,yes
+svarfdaela_saga,Atli víkingur,atli víkingur,partial,yes
+svarfdaela_saga,Björn,teigsfjall (björn and sigurður),partial,yes
+svarfdaela_saga,Björn húskarl Hrólfs,hrólfur nefglita's household,partial,yes
+svarfdaela_saga,Geiri,holt (geirdís's kin),partial,yes
+svarfdaela_saga,Grís,steindyr (grís),partial,yes
+svarfdaela_saga,Helgi hinn magri,kristnes (helgi hinn magri's kin),partial,yes
+svarfdaela_saga,Hrani,birnunes (þorkatla hin gamla's kin),partial,yes
+svarfdaela_saga,Karl hinn rauði,"þorsteinn svörfuður's kin (grund, svarfaðardalur)",partial,yes
+svarfdaela_saga,Karl ómáli,"þorsteinn svörfuður's kin (grund, svarfaðardalur)",partial,yes
+svarfdaela_saga,Klaufi,"þorsteinn svörfuður's kin (grund, svarfaðardalur)",done,yes
+svarfdaela_saga,Ljótur hinn bleiki,ljótur bleiki & moldi (vikings),partial,yes
+svarfdaela_saga,Moldi,ljótur bleiki & moldi (vikings),partial,yes
+svarfdaela_saga,Sigurður,teigsfjall (björn and sigurður),partial,yes
+svarfdaela_saga,Skíði,hof (ljótólfur goði's kin),partial,yes
+svarfdaela_saga,Ólafur Ásgeirsson,brekka (ásgeir rauðfeldur's kin),partial,yes
+svarfdaela_saga,Örn,höskuldur lögmaður's household,partial,yes
+svarfdaela_saga,Þorkatla hin gamla,birnunes (þorkatla hin gamla's kin),partial,yes
+svarfdaela_saga,Þorkell Skíðason,möðruvellir í skíðadal (skíði's kin),partial,yes
+svarfdaela_saga,Þorleifur Ásgeirsson,brekka (ásgeir rauðfeldur's kin),partial,yes
+svarfdaela_saga,Þorsteinn svörfuður,"þorsteinn svörfuður's kin (grund, svarfaðardalur)",partial,yes
+svarfdaela_saga,Þórður fangari,hof (ljótólfur goði's kin),partial,yes
+thordar_saga_hredu,Auðólfur Glúmsson,hvassafell (jón),done,yes
+thordar_saga_hredu,Hafþór,miðfjarðar-skeggi's kin (reykir),partial,yes
+thordar_saga_hredu,Hróaldur Ögmundarson,hörða-kári's descendants (þórður hreða's kin),partial,yes
+thordar_saga_hredu,Jón,hvassafell (jón),partial,yes
+thordar_saga_hredu,Klyppur Þórðarson,hörða-kári's descendants (þórður hreða's kin),done,yes
+thordar_saga_hredu,Miðfjarðar-Skeggi,miðfjarðar-skeggi's kin (reykir),partial,yes
+thordar_saga_hredu,Ormur,miðfjarðar-skeggi's kin (reykir),done,yes
+thordar_saga_hredu,Sigurður austmaður,indriði (ormur's sworn brother),partial,yes
+thordar_saga_hredu,Sörli,miðfjarðar-skeggi's kin (reykir),partial,yes
+thordar_saga_hredu,Ögmundur Valþjófsson,king sigurður slefa's hall (side unclear),partial,yes
+thordar_saga_hredu,Örn,miðfjarðar-skeggi's kin (reykir),partial,yes
+thordar_saga_hredu,Össur,miðfjarðar-skeggi's kin (reykir),done,yes
+thordar_saga_hredu,Þorfinnur,indriði (ormur's sworn brother),partial,yes
+thordar_saga_hredu,Þórhallur á Miklabæ,miklibær (þórhallur's household),done,yes
+thordar_saga_hredu,Þórður hreða,hörða-kári's descendants (þórður hreða's kin),partial,yes
+thorsteins_saga_hvita,Einar,þórir's kin (atlavík),done,yes
+thorsteins_saga_hvita,Einar Þorfinnsson,,not in family sheets,yes
+thorsteins_saga_hvita,Þorgils,hof í vopnafirði (þorsteinn hvíti's kin),done,yes
+thorsteins_saga_hvita,Þorkell Þorfinnsson,,not in family sheets,yes
+thorsteins_saga_hvita,Þorsteinn Þorfinnsson,þorfinnur's kin (skeggjastaðir),done,yes
+thorsteins_saga_sidu-hallssonar,Helgi Þórhaddsson,þórhaddur's kin (berunes),done,yes
+thorsteins_saga_sidu-hallssonar,Naddur Þórhaddsson,þórhaddur's kin (berunes),done,yes
+thorsteins_saga_sidu-hallssonar,Þorsteinn Síðu-Hallsson,síðu-hallur's kin,partial,yes
+thorsteins_saga_sidu-hallssonar,Þorvarður Þórhaddsson,þórhaddur's kin (berunes),done,yes
+valla-ljots_saga,Bessi,sigurður karlsson's kin (halli & bessi),done,yes
+valla-ljots_saga,Björn,svarfdælir (valla-ljótur's kin),done,yes
+valla-ljots_saga,Böðvar,sigurður karlsson's kin (halli & bessi),done,yes
+valla-ljots_saga,Eyjólfur Þorsteinsson,tjörn (þorsteinn & eyjólfur),done,yes
+valla-ljots_saga,Halli,sigurður karlsson's kin (halli & bessi),done,yes
+valla-ljots_saga,Ljótur,svarfdælir (valla-ljótur's kin),done,yes
+valla-ljots_saga,Sigmundur,svarfdælir (valla-ljótur's kin),done,yes
+valla-ljots_saga,Torfi,torfufell (torfi),done,yes
+vatnsdaela_saga,Galti Óttarsson,grímstungur (óttar's kin),done,yes
+vatnsdaela_saga,Glæðir,svínavatn (þorgils's kin),partial,yes
+vatnsdaela_saga,Guðbrandur Þorsteinsson,vatnsdælir / hof (ingimundur's kin),done,yes
+vatnsdaela_saga,Hermundur,skegg-ávaldi's kin,done,yes
+vatnsdaela_saga,Hrolleifur,hrolleifur & ljót,partial,yes
+vatnsdaela_saga,Hrómundur,eyvindur sörkvir's kin,done,yes
+vatnsdaela_saga,Högni,vatnsdælir / hof (ingimundur's kin),done,yes
+vatnsdaela_saga,Ingimundur gamli,vatnsdælir / hof (ingimundur's kin),partial,yes
+vatnsdaela_saga,Jökull,gautland (ingimundur jarl's kin),done,yes
+vatnsdaela_saga,Jökull Ingimundarson,vatnsdælir / hof (ingimundur's kin),done,yes
+vatnsdaela_saga,Ljótur,hrolleifur & ljót,not found,yes
+vatnsdaela_saga,Oddur,uni's kin (unadalur),partial,yes
+vatnsdaela_saga,Svartur suðureyski,grímstungur (óttar's kin),done,yes
+vatnsdaela_saga,Þorkell krafla,vatnsdælir / hof (ingimundur's kin),done,yes
+vatnsdaela_saga,Þorsteinn,raumsdalur (ketill raumur's kin),done,yes
+vatnsdaela_saga,Þórir sekur,grímstungur (óttar's kin),done,yes
+vatnsdaela_saga,Þórólfur sleggja,forsæludalur (þórólfur sleggja),done,yes
+viga-glums_saga,Arngrímur Þorgrímsson,,not in family sheets,yes
+viga-glums_saga,Eysteinn berserkur,esphælingar (þórir á espihóli's kin),partial,yes
+viga-glums_saga,Glúmur,þverá (víga-glúmur's kin / ingjaldur's descendants),done,yes
+viga-glums_saga,Klængur,"hríseyingar (narfi's sons, glúmur's kin)",done,yes
+viga-glums_saga,Sigmundur Þorkelsson,þorkell hávi's kin (þverá / mývatn),done,yes
+viga-glums_saga,Steinólfur,þverá (víga-glúmur's kin / ingjaldur's descendants),done,yes
+viga-glums_saga,Vigfús Glúmsson,þverá (víga-glúmur's kin / ingjaldur's descendants),partial,yes
+viga-glums_saga,Þorvaldur krókur,esphælingar (þórir á espihóli's kin),done,yes
+viga-glums_saga,Þorvaldur úr Haga,hagi (þorvaldur menni's household),partial,yes
+viglundar_saga,Einar Hólmkelsson,foss (hólmkell's kin),partial,yes
+viglundar_saga,Hákon,foss (hólmkell's kin) (guest),partial,yes
+viglundar_saga,Jökull Hólmkelsson,foss (hólmkell's kin),partial,yes
+viglundar_saga,Trausti Þorgrímsson,ingjaldshvoll (þorgrímur prúði's kin),partial,yes
+viglundar_saga,Víglundur Þorgrímsson,ingjaldshvoll (þorgrímur prúði's kin),partial,yes
+vopnfirdinga_saga,Birningur,"hofsverjar (hof, brodd-helgi's kin)",done,yes
+vopnfirdinga_saga,Bjarni,"hofsverjar (hof, brodd-helgi's kin)",done,yes
+vopnfirdinga_saga,Blængur,krossavík (geitir lýtingsson's kin),done,yes
+vopnfirdinga_saga,Brodd-Helgi,"hofsverjar (hof, brodd-helgi's kin)",partial,yes
+vopnfirdinga_saga,Geitir,krossavík (geitir lýtingsson's kin),done,yes
+vopnfirdinga_saga,Skíði,"skíði (poor farmer, vopnafjörður)",not found,yes
+vopnfirdinga_saga,Svartur,"svartur (outlaw, vopnafjörður)",not found,yes
+vopnfirdinga_saga,Tjörvi,"guðmundarstaðir (tjörvi, ally of geitir)",not found,yes
+vopnfirdinga_saga,Þormóður stikublindur,"sunnudalur (þormóður stikublindur, ally of geitir)",done,yes

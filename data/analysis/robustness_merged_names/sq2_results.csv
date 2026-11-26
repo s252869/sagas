@@ -1,0 +1,6 @@
+graph,nodes,edges,communities,modularity_mean,modularity_sd,louvain_stability_nmi,louvain_vs_labelprop_nmi,nmi_family_vs_feuds,nmi_null_mean,nmi_null_sd,z,p_two_sided
+blood+affinity+foster,1373,1570,209,0.969,0.0,1.0,0.919,0.83,0.822,0.004,2.09,0.03
+blood only,1165,1178,249,0.981,0.0,1.0,0.956,0.831,0.823,0.004,2.15,0.036
+tie:blood,,,,,,,,2,15.67,3.13,,0.002
+tie:affinity,,,,,,,,5,5.01,1.71,,1
+tie:foster,,,,,,,,7,5.13,1.76,,0.4595
