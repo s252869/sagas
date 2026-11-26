@@ -109,6 +109,8 @@ for e in E:
 count = lambda ps: collections.Counter(tie[(s, k)].get(v, "none") for s, k, v in ps)
 obs_c = count(pairs)
 nulls = [count(permute(pairs, rng)) for _ in range(N)]
+import json; json.dump({t: {"obs": obs_c[t], "null": [c[t] for c in nulls]} for t in ("blood", "affinity", "foster")},
+                       open(A / "sq2_tie_nulls.json", "w"))
 for layer in ("blood", "affinity", "foster"):
     nv = [c[layer] for c in nulls]; mu, sd = statistics.mean(nv), statistics.pstdev(nv)
     p = min(1, 2 * min((sum(x >= obs_c[layer] for x in nv) + 1) / (N + 1), (sum(x <= obs_c[layer] for x in nv) + 1) / (N + 1)))

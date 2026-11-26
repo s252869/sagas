@@ -80,6 +80,8 @@ for label, rows in [("all killings", full), ("without partly-supported", no_part
     results += [r1, r2]
     if label == "all killings":
         keep = {"group": (null1, obs1), "tie": (null2, obs2)}
+        import json; json.dump({"group": {"obs": obs1, "null": null1}, "tie": {"obs": obs2, "null": null2}},
+                               open(A / "sq1_nulls.json", "w"))
 with open(A / "sq1_results.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, list(results[0])); w.writeheader(); w.writerows(results)
 

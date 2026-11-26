@@ -8,7 +8,7 @@
 - agreement with the network-based measure (data/analysis/revenge_killings_depth1.csv)
 - makes a check sheet of revenge links for manual validation (data/review/manual_check_revenge.xlsx)
 """
-import csv, json, collections, random, math
+import csv, json, collections, random, math, statistics
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -148,29 +148,32 @@ def _d(L):
     return sum(g1) / len(g1) - sum(g0) / len(g0)
 obs_d = _d(labs); rng_ = _random.Random(2805); idx = collections.defaultdict(list)
 for n_, r in enumerate(rows): idx[r["saga"]].append(n_)
-nul = []
+nul = []; nul_bins = []
 for _ in range(2000):
     L = labs[:]
     for ii in idx.values():
         v = [L[n_] for n_ in ii]; rng_.shuffle(v)
         for n_, x in zip(ii, v): L[n_] = x
     nul.append(_d(L))
+    nul_bins.append([sum(L[n_] for n_, r in enumerate(rows) if lo <= vb(r) <= hi) / max(1, sum(1 for r in rows if lo <= vb(r) <= hi)) for lo, hi, _ in bins])
 p_dose = (sum(abs(x) >= abs(obs_d) for x in nul) + 1) / 2001
 print("who gets avenged, by victim's recorded blood kin:", dose, f"difference {obs_d:.3f}, p = {p_dose:.4f}")
 tg = collections.Counter(low(r["target"]) for r in rev)
-tcats = [("the killer himself", "The killer himself"), ("killer's kin", "The killer's kin"), ("killer's household or ally", "The killer's household or ally")]
+tcats = [("the killer himself", "The killer himself"), ("killer's kin", "The killer's kin"), ("killer's household or ally", "The killer's\nhousehold or ally")]
 n_rev = len(rev)
-fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.0, 2.3), gridspec_kw={"width_ratios": [1, 1]})
-x = range(len(dose))
-a1.bar(list(x), [100 * a_ / n_ for _, a_, n_ in dose], width=0.62, color=ACCENT)
-for i, (_, a_, n_) in enumerate(dose):
-    a1.text(i, 100 * a_ / n_ + 1.5, f"{100 * a_ / n_:.0f}%", ha="center", fontsize=7, color=INK, fontweight="bold")
-a1.set_xticks(list(x), [f"{l}\n({a_}/{n_})" for l, a_, n_ in dose], fontsize=6.5, color=INK)
-a1.set_ylim(0, 62); a1.set_ylabel("victims avenged (%)", fontsize=6.5, color=MUTED)
-a1.set_xlabel("victim's recorded blood relatives", fontsize=6.5, color=MUTED, labelpad=4)
-a1.set_title("A  Who gets avenged", fontsize=7.5, loc="left", color=INK)
-a1.grid(axis="y", color=GRID, lw=0.5); a1.set_axisbelow(True)
-a1.tick_params(axis="y", labelsize=6, colors=MUTED); a1.tick_params(axis="x", length=0, pad=3)
+fig, (a1, a2) = plt.subplots(1, 2, figsize=(7.0, 2.2), gridspec_kw={"width_ratios": [1, 1], "wspace": 0.75})
+for i, (lab_, a_, n_) in enumerate(dose):
+    nv = sorted(100 * b_[i] for b_ in nul_bins); lo_, hi_ = nv[int(0.025 * len(nv))], nv[int(0.975 * len(nv)) - 1]
+    a1.plot([lo_, hi_], [i, i], color=LIGHT, lw=7, solid_capstyle="round", zorder=1)
+    a1.plot([statistics.mean(nv)], [i], marker="|", ms=13, mew=1.6, color=MUTED, zorder=4)
+    a1.plot([100 * a_ / n_], [i], "o", ms=6.5, color=ACCENT, mec="white", mew=1.2, zorder=3)
+    a1.text(1.0, i, f"{100 * a_ / n_:.0f}% ({a_}/{n_})", transform=a1.get_yaxis_transform(), ha="left", va="center", fontsize=6.3, color=INK)
+a1.set_yticks(range(len(dose)), [l for l, _, _ in dose], fontsize=7, color=INK); a1.set_ylim(len(dose) - 0.4, -0.6)
+a1.set_xlim(0, 58); a1.set_xlabel("victims whose death is avenged (%)", fontsize=6.5, color=MUTED)
+a1.set_ylabel("victim's recorded\nblood relatives", fontsize=6.5, color=MUTED)
+a1.set_title(f"A  Who gets avenged (p < 0.001)", fontsize=7.5, loc="left", color=INK)
+a1.grid(axis="x", color=GRID, lw=0.5); a1.set_axisbelow(True)
+a1.tick_params(axis="x", labelsize=6, colors=MUTED); a1.tick_params(axis="y", length=0)
 a1.spines[["top", "right", "left"]].set_visible(False); a1.spines["bottom"].set_color(GRID)
 y2 = range(len(tcats))
 a2.barh(list(y2), [tg[c] for c, _ in tcats], height=0.5, color=ACCENT)
@@ -183,5 +186,5 @@ a2.set_xlim(0, max(tg.values()) * 1.25)
 a2.tick_params(axis="x", labelsize=6, colors=MUTED); a2.tick_params(axis="y", length=0)
 a2.grid(axis="x", color=GRID, lw=0.5); a2.set_axisbelow(True)
 a2.spines[["top", "right", "left"]].set_visible(False); a2.spines["bottom"].set_color(GRID)
-fig.tight_layout(); fig.savefig(FIG / "revenge.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "revenge.pdf", bbox_inches="tight")
+fig.savefig(FIG / "revenge.png", dpi=300, bbox_inches="tight"); fig.savefig(FIG / "revenge.pdf", bbox_inches="tight")
 print("saved figures/revenge.png")
